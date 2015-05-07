@@ -1,0 +1,60 @@
+#! /usr/bin/python
+
+import sys
+import commands
+import os
+import re
+
+#We're going to do nasty shit, need root
+if not os.geteuid() == 0:
+    sys.exit('Error: pininit must be run as root. Please run sudo pininit')
+
+
+#first build the hex mask
+hexcpumask = 0xFFFFFFFF
+print hexcpumask
+
+#Get the current list of processes 
+out = commands.getoutput('ps -A')
+lines = out.split("\n")
+findpid = re.compile("\s*(\d*)\s.*")
+pids = []
+for line in lines:
+    result = findpid.search(line)
+    if(result):
+        if(result.group(1)):
+            pids.append(result.group(1))
+
+#Move all pids on the defualt CPU set
+for pid in pids:
+    cmd = "taskset -p %x %s" % (hexcpumask,pid)
+    print "Running \"" + cmd + "\" ..."
+    out = commands.getoutput(cmd)
+
+
+#Get all the IRQs
+procirqs = open("/proc/interrupts").readlines()
+findirq = re.compile("\s*(\d*):.*")
+irqs = []
+for line in procirqs:
+    result = findirq.search(line)
+    if(result):
+        if(result.group(1)):
+            irqs.append(result.group(1))
+
+#Move all irqs on the defualt CPU set
+for irq in irqs:
+    cmd = "echo %x > /proc/irq/%s/smp_affinity" % (hexcpumask,irq)
+    print "Running \"" + cmd + "\" ..."
+    out = commands.getoutput(cmd)
+
+#Set the defualt irq affinit to the default cpu set
+cmd = "echo %x > /proc/irq/default_smp_affinity" % (hexcpumask)
+print "Running \"" + cmd + "\" ..."
+out = commands.getoutput(cmd)
+
+
+os.remove("/tmp/pinned")
+
+
+

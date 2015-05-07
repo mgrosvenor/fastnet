@@ -1,0 +1,59 @@
+#! /usr/bin/python
+
+import sys
+import commands
+import os
+import re
+
+#We're going to do nasty shit, need root
+if not os.geteuid() == 0:
+    sys.exit('Error: pin must be run as root. Please run sudo pininit')
+
+#Parse command line opts
+#Quick and dirty....
+#irq = None
+#cpu = None
+
+if len(sys.argv) < 2:
+    sys.exit("Usage: pin cpu cmd")
+
+cpu = int(sys.argv[1])
+cmd = sys.argv[2]
+
+if not os.path.exists("/tmp/pinned"):
+     sys.exit("Error: Cannot find /tmp/pinned. Run ./pininit")
+
+#first build the hex mask
+hexcpumask = 1 << cpu
+
+args = cmd.split(" ")
+cmd = args[0]
+#print "#########", cmd
+#print "#########", args
+ 
+pid = os.fork()
+if pid == 0:
+    os.execvp(cmd,args)
+    #we never return from this point
+    sys.exit("Error! Returned from exec!")
+
+cmd = "taskset -p %x %s" % (hexcpumask,pid)
+print "Running \"" + cmd + "\" ..."
+out = commands.getoutput(cmd)
+
+
+#Make it a realtime process
+chrtcmd = "chrt --fifo -p 99 %s" % (pid)
+print chrtcmd
+out = commands.getoutput(chrtcmd)
+print out
+
+#Give this process highest priority
+nicecmd = "renice 99 %s" % (pid)
+out = commands.getoutput(nicecmd)
+
+try:
+    os.wait()
+except:
+    exit(0)
+

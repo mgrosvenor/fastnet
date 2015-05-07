@@ -1,0 +1,253 @@
+% This template is a generic paper template working with both the USENIX
+% and ACM SIGPLAN and sig-alternate styles.
+% It adds various conveniences and useful packages.
+%
+% Developed, munged and cluttered by Malte Schwarzkopf,
+% University of Cambridge Computer Laboratory, 2009-2012.
+
+% (Tested) options: sig-alternate, sig-alternate-10pt, article
+% For USENIX template, use "article" and then add package "usenix"
+% below.
+\documentclass[letter,twocolumn,10pt]{sig-alternate-10pt}
+%\documentclass[letterpaper,10pt]{article}
+% Uncomment for USENIX style.
+%\usepackage{usenix,epsfig} %,endnotes}
+\usepackage{times}
+% Don't fiddle with margins until explicitly requested!
+%\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+
+% Force paper size to letter (if necessary)
+\usepackage[left=0.75in,right=0.75in,top=0.875in,bottom=0.875in,letterpaper]{geometry}
+\setlength{\columnsep}{0.33in}
+
+% Conditionals (for draft mode)
+\usepackage{ifthen}
+
+% Colro
+\usepackage{color}
+
+% Special fractions -- commented out as it doesn't work on Mac
+%\usepackage{nicefrac}
+
+% Symbols
+\usepackage{textcomp}
+
+% Outline package for rough notes
+\usepackage{outlines}
+
+% Bibliography
+\usepackage[sort&compress,numbers]{natbib}
+
+% TikZ figures
+\usepackage{pgfplots}
+
+% Buy us a little more space by allowing unindented enumerations
+\usepackage{enumitem}
+
+% Subfigures -- DEPRECATED, using subcaption instead
+%\usepackage{subfig}
+
+% Anil's magic
+%\usepackage[compact]{titlesec}
+
+% Balance columns
+\usepackage{balance}
+
+% Subfigures and captions
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Multi-row table cells
+\usepackage{multirow}
+
+% Landscape tables
+\usepackage{rotating}
+
+%Maths symbols
+%\usepackage{mathtools}
+
+% Date/time stuff
+\usepackage{datetime}
+
+% Tick/cross symbols
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{pifont}
+
+% Slanted fractions
+\usepackage{xfrac}
+
+%Code listings
+%\usepackage{listings}      
+%\usepackage{algorithm}% http://ctan.org/pkg/algorithms
+%\usepackage[lined,boxed,commentsnumbered, linesnumbered]{algorithm2e}
+\usepackage[lined,boxed,commentsnumbered]{algorithm2e}
+
+%\usepackage{algpseudocode}% http://ctan.org/pkg/algorithmicx
+       
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The BIG DRAFT SWITCH - Set to true to enable draft mode
+%
+% !!! This will produce extra output that
+%     is not part of the final paper !!!
+
+\newboolean{draft}
+\setboolean{draft}{true}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand\note[2]{\ifdraft{\bf\color{#1}{\footnote{{\color{#1}\bf #2}}}\fi}}
+\newcommand\ms[1]{{\note{blue}{Malte: #1}}}
+\newcommand\mpg[1]{\note{orange}{Matt: #1}}
+\newcommand\icg[1]{\note{purple}{Ionel: #1}}
+\newcommand\awm[1]{\note{green}{AWM: #1}}
+
+\newcommand\todo[1]{\ifdraft{\color{red}{\bf ToDo: #1}}\fi}
+
+\newcommand\code[1]{\texttt{#1}}
+
+% URL formatting
+\usepackage{url}
+
+% Multi-line comments
+\usepackage{comment}
+
+% Watermark in draft mode
+% Draft watermark
+\ifdraft
+ \usepackage{graphicx}
+ \usepackage{type1cm}
+ \usepackage{eso-pic}
+ \makeatletter
+ \ddmmyyyydate
+ \AddToShipoutPicture{%
+             \setlength{\@tempdimb}{.5\paperwidth}%
+             \setlength{\@tempdimc}{.5\paperheight}%
+             \setlength{\unitlength}{1pt}%
+             \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+         \makebox(0,700){\textcolor[gray]{0.50}%
+%        {\fontsize{20pt}{20pt}\selectfont{Draft of \today{}, {\currenttime} -- please do not distribute.}}}%
+         {\fontsize{20pt}{20pt}\selectfont{Under submission -- please do not distribute.}}}%
+         \makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.92}%
+         {\fontsize{6cm}{6cm}\selectfont{DRAFT}}}}%
+             }%
+ }
+\fi
+
+% Mathcal hack
+\DeclareMathAlphabet{\mathcal}{OMS}{cmsy}{m}{n}
+
+% Enumeration commands
+\newcommand{\one}{({\em i}\/)}
+\newcommand{\two}{({\em ii}\/)}
+\newcommand{\three}{({\em iii}\/)}
+\newcommand{\four}{({\em iv}\/)}
+\newcommand{\five}{({\em v}\/)}
+
+% Symbol definitions
+\newcommand{\tinydag}{\textsuperscript{\dag}}
+\newcommand{\tinyddag}{\textsuperscript{\ddag}}
+\newcommand{\tinystar}{\textsuperscript{$\ast$}}
+\newcommand{\tick}{{\color{black}{\ding{51}}}}
+\newcommand{\cross}{{\color{red}{\ding{55}}}}
+\newcommand{\yes}{\ding{51}}
+\newcommand{\no}{--}
+
+% Various terms
+\newcommand{\ciel}{\textsc{Ciel}}
+\newcommand{\osconcept}{\textsc{Dios}}
+\newcommand{\os}{D\textcent{}OS}
+\newcommand{\system}{Q-Jump}
+\newcommand{\systemshort}{QJ}
+\newcommand{\llnet}{LLNet}
+\newcommand{\bbnet}{BBNet}
+
+% Helpful time shortcuts
+\newcommand{\millis}{$\mathrm{ms}$}
+\newcommand{\micros}{$\mu\mathrm{s}$}
+\newcommand{\nanos}{$\mathrm{ns}$}
+
+% "th" superscript
+\newcommand{\thss}{\textsuperscript{th}}
+
+% Fancy math mode typesetting
+\newcommand\scref[1]{$\mathcal{R}_#1$}
+
+% italicize figure captions
+\usepackage{caption}
+\renewcommand{\captionfont}{\itshape}
+
+% Macros for structural work in early stages
+\newcommand\figdesc[4]{\framebox[\columnwidth]{\small\centering\parbox{0.95\columnwidth}{\textbf{Type:} #1\par \textbf{$x$-axis:} #2\par \textbf{$y$-axis:} #3\par \textbf{Message:} #4}}}
+
+\begin{document}
+
+% SIG templates only (!!!)
+% --- Author Metadata here ---
+\conferenceinfo{SIGCOMM}{2014, Chicago, IL, USA}
+%\CopyrightYear{2007} % Allows default copyright year (20XX) to be over-ridden - IF NEED BE.
+%\crdata{0-12345-67-8/90/01}  % Allows default copyright data (0-89791-88-6/97/05) to be over-ridden - IF NEED BE.
+% --- End of Author Metadata ---
+
+%don't want date printed
+%\date{}
+
+%\title{\system{}: Eliminating Interference in\\ Your Data Center Network}
+\title{ Decompressing TCP/IP Headers for High-Speed Links \\ (or How to Build a 100Gb/s Network Stack)}
+
+% Number of authors
+\numberofauthors{1}
+
+% Authors
+\author{
+% First
+\alignauthor
+Under submission for review.
+%Smart people \\
+%  \affaddr{University of Cambridge Computer Laboratory}\\
+%  \email{\url{first.last@cl.cam.ac.uk}}
+}
+
+\maketitle
+
+%\preprintfooter{Version of {\currenttime}, \today.}
+
+% Use the following at camera-ready time to suppress page numbers.
+% Comment it out when you first submit the paper for review.
+%\pagestyle{empty}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ABSTRACT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{abstract}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CONTENT SECTION INCLUDES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{intro}
+\input{experiments}
+\input{evaluation}
+\input{discussion}
+\input{relatedwork}
+\input{conclusions}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BIBLIOGRAPHY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{
+\small
+\setlength\bibsep{0.09em}
+\balance
+\bibliographystyle{acm}
+\bibliography{local,r2d2,phdreferences,rfc}
+
+}
+
+% \theendnotes
+
+\end{document}

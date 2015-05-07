@@ -1,0 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 3) Evaluation
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Related Work}
+
+\todo{AWM comments:}
+\begin{enumerate}
+ \item \emph{isn't this all solved by hardware offload stuff?} -- not sure what the answer is there\ms{a NIC could potentially DMA larger, better-aligned frames, but that would be wasteful of bus bandwidht...}
+ \item \emph{but my machine has lots of cores...} -- not helpful, since packet decoding is unsplittable and cannot be parallelised. Even a single TCP flow cannot be parallelised over multiple cores.
+\end{enumerate}
+
+
+The penetration of hardware offload features promotes a belief that we have solved the mismatch between network speed and host capacity. However, beyond the most rudimentary offload --- those plausible on a packet-by-packet basis: checksum offload, packetization and packet aggregation --- offload has not proven to be widely useful.\ms{why?} Mogul~\cite{mogul2003tcp} provided a sober insight into this by noting that best-use offload was in extremely specialised circumstance: the per-application networking including per-application offload engines. However, in opposition to this networking continues to be the provenance of the operating system: providing a generic service to every application. Thus providing limited ability to specialise tasks for specific hardware.
+\awm{jibberish written by a tired brain}
+

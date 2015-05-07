@@ -1,0 +1,11 @@
+#! /bin/bash
+
+cd pin
+
+rm stats
+./pin 11 "../bin/fast_net -p 1200000 -i 1" > stats 
+wait 
+../do_hist.py stats 100
+
+cd -
+

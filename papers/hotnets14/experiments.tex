@@ -1,0 +1,117 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 2) Experimental Setup
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Making a conscious effort to remove "britishisms" from the text -- thus, hence, whilst, while, yet, furthermore, whereas, etc. 
+%Also trying to slim down on adjectives. One mans's "very" is another man's "some". 
+%To make diff/merge easier. I am now putting 1 "statement" (sentence) per line. 
+%Trying to apply the KISS principle, especially to the language used, to help out our American reviewers. 
+
+\begin{algorithm}
+
+ \SetKw{To}{to}
+ \SetKw{StartTimer}{start $\leftarrow$ timer}
+ \SetKw{StopTimer}{stop $\leftarrow$ timer}
+ \SetKw{Continue}{continue}
+ \ForEach{ packet in packet\_buffer }{
+    \BlankLine          
+     \StartTimer{}\;
+     \BlankLine
+     packet.ethernet.src $\leftarrow$ 0xFFFFFF\; 
+     packet.ethernet.dst $\leftarrow$ 0x000001\;
+     packet.ethernet.type $\leftarrow$ 0x0800\; 
+     $\cdots$\\     
+     packet.ip.size $\leftarrow$ \emph{big\_endian}(IP\_SIZE)\;
+     $\cdots$\\     
+     packet.ip.protocol $\leftarrow$  0x11\;
+     $\cdots$\\         
+     packet.udp.size $\leftarrow$ \emph{big\_endian}(UDP\_SIZE)\;          
+     $\cdots$\\
+     \For{ i $\leftarrow$ 0 \To{} UDP\_SIZE $\div{}$ WORD\_SIZE}{
+         packet.udp.data[\emph{i}] $\leftarrow$ const integer\;
+     }
+     \BlankLine
+     \StopTimer{}\;
+     \BlankLine
+ }
+
+
+\caption{Generating packets}
+\label{alg:net_gen}
+\end{algorithm}
+
+
+\section{Testing High Speed Networks}
+\label{s:experiments}
+To test the effect of packet layouts on processing speed, we would like to use a flexible, high speed network adapter. 
+Some FPGA based 100Gb/s network adapters are beginning to appear on the market~\cite{100gnic}, but they are rare and expensive. 
+Additionally, adapting 1000's of lines of legacy network stack code to process new packet formats will be time consuming. 
+To work around these problems, we take a different approach. 
+Instead of building a network stack for a particular adapter, we use our experience in high speed network adapter design \emph{[reference removed for blind review]} to build a generic network stack that runs directly out of system memory. 
+We assume that an adapter will eventually become available to place packets there. 
+This allows us to test the absolute speed of packet processing quickly and flexibly 
+It also gives us an indication of the expected upper limits that software could expect to achieve. 
+By writing our own network stack, we free ourselves from legacy code bases and can ensure that our packet processor is flexible enough to cope with a range of different packet formats. 
+
+
+Our initial network stack only processes UDP packets, delivered over IP version 4.0 transport using Ethernet frames. 
+In principle any protocol or transport could be supported, but this is the simplest to implement. 
+By doing so, we can get a strong indication of the practical upper bounds of any reasonable network stack. 
+
+
+Our network stack is divided into two parts: generating and receiving packets. 
+Packet generation is detailed in Algorithm~\ref{alg:net_gen} and packet receiving is detailed in Algorithm~\ref{alg:net_rcv}. 
+For each experiment, we first run the generation phase and then the receiving phase. This way we can test both parts independently. 
+As with any sensible network stack, we only perform endian conversions for values that are non-constant. 
+For example, the ethernet packet type field is a constant, but the IP header size is not. 
+Our packet buffer is pinned so that swapping cannot happen and aligned to a 4kB page boundary. 
+
+Our experiments are run using a top-of-the range Intel Core i7 Ivy Bridge CPU (4930K), with 12 threads running at 3.4GHz. 
+We ensure that the network-stack process is pinned to a unique CPU, with no other processes or hyperthreads interfering and that the process is run with full-realtime priority. 
+This environment is overly generous. 
+Real in-kernel network stacks have limited time to run and have to contend with interrupts and threads from other competing resources. 
+
+
+
+
+\begin{algorithm}
+ \SetKw{Continue}{continue}
+ \SetKw{To}{to}
+ \SetKw{StartTimer}{start $\leftarrow$ timer}
+ \SetKw{StopTimer}{stop $\leftarrow$ timer}
+
+ \ForEach{ packet in packet\_buffer }{
+     \BlankLine
+     \StartTimer{}\;
+     \BlankLine
+     \If{ packet.ethernet.src $\neq$ 0xFFFFFF }{
+        \Continue{};
+     }
+     \If{ packet.ethernet.dst $\neq$ 0x000001 }{
+        \Continue{};
+     }
+     \If{ packet.ethernet.type $\neq$  0x0800 }{
+        \Continue{};
+     }
+     $\cdots$\\
+     ip\_size $\leftarrow$ \emph{little\_endian}(packet.ip.size)\;     total\_ip\_bytes $\leftarrow$ total\_ip\_bytes + ip\_size\;
+     $\cdots$\\     
+      \If{ packet.ip.protocol $\neq$  0x11 }{
+        \Continue{}\;
+     }
+     $\cdots$\\         
+     udp\_size $\leftarrow$ \emph{little\_endian}(packet.udp.size)\;          total\_udp\_bytes $\leftarrow$ total\_udp\_bytes + udp\_size\;     
+     $\cdots$\\
+     counter $\leftarrow$ 0\;
+     \For{ i $\leftarrow$ 0 \To{} udp\_size $\div{}$ WORD\_SIZE}{
+         counter $\leftarrow$ packet.udp.data[\emph{i}];
+     }
+     \BlankLine
+     \StopTimer{}\;    
+     \BlankLine     
+ }
+
+\caption{Receiving packets}
+\label{alg:net_rcv}
+\end{algorithm}
+

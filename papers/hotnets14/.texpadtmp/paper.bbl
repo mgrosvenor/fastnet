@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{100gnic}
+{\sc Inveatech}.
+\newblock {COMBO-100G FPGA Card}, July 2014.
+
+\bibitem{rfc1144}
+{\sc Jacobson, V.}
+\newblock {Compressing TCP/IP Headers for Low-Speed Serial Links}.
+\newblock RFC 1144 (Proposed Standard), Feb. 1990.
+
+\bibitem{mogul2003tcp}
+{\sc Mogul, J.~C.}
+\newblock Tcp offload is a dumb idea whose time has come.
+\newblock In {\em Proceedings of the 9th Conference on Hot Topics in Operating
+  Systems - Volume 9\/} (2003), HOTOS'03, pp.~25--30.
+
+\end{thebibliography}

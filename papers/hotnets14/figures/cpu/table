@@ -1,0 +1,1719 @@
+
+AMD
+Name	Codename	Cores	Socket	Process	Clock	Multi	Voltage	Cache L1/L2/L3	TDP	Released
+A10-7850K	Kaveri	4-Core	AMD Socket FM2	28 nm	3700 MHz	37.0x	1.475 V	128K / 1024K / 0K	95W	Jan 2014
+A10-7700K	Kaveri	4-Core	AMD Socket FM2	28 nm	3500 MHz	35.0x	1.475 V	128K / 1024K / 0K	95W	Jan 2014
+A10-6790K	Richland	4-Core	AMD Socket FM2	32 nm	4000 MHz	40.0x	1.475 V	128K / 1024K / 0K	100W	Oct 2013
+A10-6700T	Richland	4-Core	AMD Socket FM2	32 nm	2500 MHz	25.0x	1.475 V	128K / 1024K / 0K	45W	Sep 2013
+FX-9370	Vishera	8-Core	AMD Socket AM3+	32 nm	4400 MHz	22.0x	1.912 V	384K / 8192K / 8192K	220W	Jul 2013
+FX-9590	Vishera	8-Core	AMD Socket AM3+	32 nm	4700 MHz	23.5x	1.912 V	384K / 8192K / 8192K	220W	Jul 2013
+A10-6800K	Richland	4-Core	AMD Socket FM2	32 nm	4100 MHz	41.0x	1.475 V	128K / 1024K / 0K	100W	Jun 2013
+A10-6700	Richland	4-Core	AMD Socket FM2	32 nm	3700 MHz	37.0x	1.475 V	128K / 1024K / 0K	65W	Jun 2013
+A8-6600K	Richland	4-Core	AMD Socket FM2	32 nm	3900 MHz	39.0x	1.475 V	128K / 1024K / 0K	100W	Jun 2013
+A8-6500	Richland	4-Core	AMD Socket FM2	32 nm	3500 MHz	35.0x	1.475 V	128K / 1024K / 0K	65W	Jun 2013
+A6-6400K	Richland	2-Core	AMD Socket FM2	32 nm	3900 MHz	39.0x	1.475 V	128K / 1024K / 0K	65W	Jun 2013
+A4-6300	Richland	2-Core	AMD Socket FM2	32 nm	3700 MHz	37.0x	1.475 V	128K / 1024K / 0K	65W	Jun 2013
+A4-4000	Richland	2-Core	AMD Socket FM2	32 nm	3000 MHz	30.0x	1.475 V	128K / 1024K / 0K	65W	Jun 2013
+FX-6350	Vishera	6-Core	AMD Socket AM3+	32 nm	3900 MHz	19.5x	1.4 V	288K / 6144K / 8192K	125W	Apr 2013
+FX-4350	Vishera	4-Core	AMD Socket AM3+	32 nm	4200 MHz	19.5x	1.4 V	288K / 4096K / 8192K	125W	Apr 2013
+Athlon II X2 280	Regor	2-Core	AMD Socket AM3	45 nm	3600 MHz	18.0x	1.15 V	128K / 1024K / 0K	65W	Feb 2013
+FX-4130	Vishera	4-Core	AMD Socket AM3+	32 nm	3800 MHz	19.0x	1.425 V	192K / 4096K / 8192K	125W	Jan 2013
+E2-2000	Zacate	2-Core	AMD Socket FT1	40 nm	1750 MHz	9.0x	1.35 V	64K / 512K / 0K	18W	Jan 2013
+E1-1500	Zacate	2-Core	AMD Socket FT1	40 nm	1480 MHz	7.5x	1.35 V	64K / 512K / 0K	18W	Jan 2013
+FX-8350	Vishera	8-Core	AMD Socket AM3+	32 nm	4000 MHz	20.0x	1.45 V	384K / 8192K / 8192K	125W	Oct 2012
+FX-8300	Vishera	8-Core	AMD Socket AM3+	32 nm	3300 MHz	16.5x	1.425 V	384K / 8192K / 8192K	95W	Oct 2012
+FX-8140	Zambezi	8-Core	AMD Socket AM3+	32 nm	3200 MHz	16.0x	1.425 V	384K / 8192K / 8192K	95W	Oct 2012
+FX-8170	Zambezi	8-Core	AMD Socket AM3+	32 nm	3900 MHz	19.5x	1.45 V	384K / 8192K / 8192K	125W	Oct 2012
+FX-6120	Zambezi	6-Core	AMD Socket AM3+	32 nm	3600 MHz	18.0x	1.425 V	288K / 6144K / 8192K	95W	Oct 2012
+FX-6130	Zambezi	6-Core	AMD Socket AM3+	32 nm	3600 MHz	18.0x	1.425 V	288K / 6144K / 8192K	95W	Oct 2012
+FX-4120	Zambezi	4-Core	AMD Socket AM3+	32 nm	3900 MHz	19.5x	1.425 V	192K / 4096K / 8192K	95W	Oct 2012
+FX-4150	Zambezi	4-Core	AMD Socket AM3+	32 nm	3800 MHz	19.0x	1.425 V	192K / 4096K / 8192K	95W	Oct 2012
+FX-6300	Vishera	6-Core	AMD Socket AM3+	32 nm	3500 MHz	17.5x	1.4 V	288K / 6144K / 8192K	95W	Oct 2012
+FX-4320	Vishera	4-Core	AMD Socket AM3+	32 nm	4000 MHz	20.0x	1.425 V	192K / 4096K / 8192K	95W	Oct 2012
+FX-8320	Vishera	8-Core	AMD Socket AM3+	32 nm	3500 MHz	17.5x	1.425 V	384K / 8192K / 8192K	125W	Oct 2012
+FX-4300	Vishera	4-Core	AMD Socket AM3+	32 nm	3800 MHz	19.0x	1.425 V	192K / 4096K / 8192K	95W	Oct 2012
+A10-5800K	Trinity	4-Core	AMD Socket FM2	32 nm	3800 MHz	38.0x	1.475 V	128K / 1024K / 0K	100W	Oct 2012
+A8-5600K	Trinity	4-Core	AMD Socket FM2	32 nm	3600 MHz	36.0x	1.475 V	128K / 1024K / 0K	100W	Oct 2012
+A10-5700	Trinity	4-Core	AMD Socket FM2	32 nm	3400 MHz	34.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+A6-5400K	Trinity	4-Core	AMD Socket FM2	32 nm	3600 MHz	36.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+A8-5500	Trinity	4-Core	AMD Socket FM2	32 nm	3200 MHz	32.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+A10-5800B	Trinity	4-Core	AMD Socket FM2	32 nm	3800 MHz	38.0x	1.475 V	128K / 1024K / 0K	100W	Oct 2012
+A8-5500B	Trinity	4-Core	AMD Socket FM2	32 nm	3200 MHz	32.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+A6-5400B	Trinity	4-Core	AMD Socket FM2	32 nm	3600 MHz	36.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+A4-5300B	Trinity	2-Core	AMD Socket FM2	32 nm	3400 MHz	36.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+A4-5300	Trinity	2-Core	AMD Socket FM2	32 nm	3400 MHz	36.0x	1.475 V	128K / 1024K / 0K	65W	Oct 2012
+E1-1200	Zacate	2-Core	AMD Socket FT1	40 nm	1400 MHz	7.0x	1.35 V	64K / 512K / 0K	18W	Jun 2012
+E2-1800	Zacate	2-Core	AMD Socket FT1	40 nm	1700 MHz	8.5x	1.35 V	64K / 512K / 0K	18W	Jun 2012
+FX-6200	Zambezi	6-Core	AMD Socket AM3+	32 nm	3800 MHz	19.0x	1.4 V	288K / 6144K / 8192K	125W	Feb 2012
+FX-4170	Zambezi	4-Core	AMD Socket AM3+	32 nm	4200 MHz	21.0x	1.4 V	192K / 4096K / 8192K	125W	Feb 2012
+Athlon II X4 641	Llano	4-Core	AMD Socket FM1	32 nm	2800 MHz	28.0x	1.4125 V	128K / 1024K / 0K	100W	Feb 2012
+Athlon II X4 638	Llano	4-Core	AMD Socket FM1	32 nm	2700 MHz	27.0x	1.4125 V	128K / 1024K / 0K	65W	Feb 2012
+A8-3870K	Llano	4-Core	AMD Socket FM1	32 nm	3000 MHz	30.0x	1.4125 V	128K / 1024K / 0K	100W	Dec 2011
+A6-3670K	Llano	4-Core	AMD Socket FM1	32 nm	2700 MHz	27.0x	1.4125 V	128K / 1024K / 0K	100W	Dec 2011
+A8-3820	Llano	4-Core	AMD Socket FM1	32 nm	2500 MHz	25.0x	1.4125 V	128K / 1024K / 0K	65W	Dec 2011
+A6-3620	Llano	4-Core	AMD Socket FM1	32 nm	2200 MHz	22.0x	1.4125 V	128K / 1024K / 0K	65W	Dec 2011
+A4-3420	Llano	2-Core	AMD Socket FM1	32 nm	2800 MHz	28.0x	1.4125 V	128K / 512K / 0K	65W	Dec 2011
+Athlon II X4 651	Llano	4-Core	AMD Socket FM1	32 nm	3000 MHz	30.0x	1.4125 V	128K / 1024K / 0K	100W	Nov 2011
+Athlon II X4 651K	Llano	4-Core	AMD Socket FM1	32 nm	3000 MHz	30.0x	1.4125 V	128K / 1024K / 0K	100W	Nov 2011
+FX-8150	Zambezi	8-Core	AMD Socket AM3+	32 nm	3600 MHz	18.0x	1.425 V	384K / 8192K / 8192K	125W	Oct 2011
+FX-8120	Zambezi	8-Core	AMD Socket AM3+	32 nm	3100 MHz	15.5x	1.425 V	384K / 8192K / 8192K	125W	Oct 2011
+FX-6100	Zambezi	6-Core	AMD Socket AM3+	32 nm	3300 MHz	16.5x	1.425 V	288K / 6144K / 8192K	95W	Oct 2011
+FX-4100	Zambezi	4-Core	AMD Socket AM3+	32 nm	3600 MHz	18.0x	1.425 V	192K / 4096K / 8192K	95W	Oct 2011
+FX-8100	Zambezi	8-Core	AMD Socket AM3+	32 nm	2800 MHz	14.0x	1.425 V	384K / 8192K / 8192K	95W	Oct 2011
+A4-3400	Llano	2-Core	AMD Socket FM1	32 nm	2700 MHz	27.0x	1.4125 V	128K / 512K / 0K	65W	Sep 2011
+A4-3300	Llano	2-Core	AMD Socket FM1	32 nm	2500 MHz	25.0x	1.4125 V	128K / 512K / 0K	65W	Sep 2011
+E2-3200	Llano	2-Core	AMD Socket FM1	32 nm	2400 MHz	24.0x	1.4125 V	128K / 512K / 0K	65W	Sep 2011
+A6-3500	Llano	3-Core	AMD Socket FM1	32 nm	2100 MHz	21.0x	1.4125 V	128K / 1024K / 0K	65W	Aug 2011
+Athlon II X4 631	Llano	4-Core	AMD Socket FM1	32 nm	2600 MHz	26.0x	1.4125 V	128K / 1024K / 0K	100W	Aug 2011
+Sempron 130	Sargas	1-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.35 V	128K / 512K / 0K	45W	Aug 2011
+Phenom II X4 650T	Zosma	4-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.4 V	128K / 512K / 4096K	95W	Jul 2011
+Athlon II X2 270	Regor	2-Core	AMD Socket AM3	45 nm	3400 MHz	17.0x	1.15 V	128K / 1024K / 0K	65W	Jul 2011
+A8-3850	Llano	4-Core	AMD Socket FM1	32 nm	2900 MHz	29.0x	1.4125 V	128K / 1024K / 0K	100W	Jun 2011
+A6-3650	Llano	4-Core	AMD Socket FM1	32 nm	2600 MHz	26.0x	1.4125 V	128K / 1024K / 0K	100W	Jun 2011
+A6-3600	Llano	4-Core	AMD Socket FM1	32 nm	2100 MHz	21.0x	1.4125 V	128K / 1024K / 0K	65W	Jun 2011
+A8-3800	Llano	4-Core	AMD Socket FM1	32 nm	2400 MHz	24.0x	1.4125 V	128K / 1024K / 0K	65W	Jun 2011
+Phenom II X4 850	Propus	4-Core	AMD Socket AM3	45 nm	3300 MHz	16.5x	1.4 V	128K / 512K / 0K	95W	Jun 2011
+Phenom II X4 980 BE	Deneb	4-Core	AMD Socket AM3	45 nm	3700 MHz	18.5x	1.325 V	128K / 512K / 6144K	125W	May 2011
+Athlon II X3 425e	Rana	3-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.25 V	128K / 512K / 0K	45W	May 2011
+Athlon II X3 460	Rana	3-Core	AMD Socket AM3	45 nm	3400 MHz	17.0x	1.4 V	128K / 512K / 0K	95W	May 2011
+Athlon II X4 620e	Propus	4-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.25 V	128K / 512K / 0K	45W	May 2011
+Phenom II X4 975 BE	Deneb	4-Core	AMD Socket AM3	45 nm	3600 MHz	18.0x	1.4 V	128K / 512K / 6144K	125W	Jan 2011
+Phenom II X4 840	Propus	4-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.4 V	128K / 512K / 0K	95W	Jan 2011
+Phenom II X6 1100T BE	Thuban	6-Core	AMD Socket AM3	45 nm	3300 MHz	16.5x	1.475 V	128K / 512K / 6144K	125W	Dec 2010
+Phenom II X6 1065T	Thuban	6-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.475 V	128K / 512K / 6144K	125W	Dec 2010
+Phenom II X2 565 BE	Callisto	2-Core	AMD Socket AM3	45 nm	3400 MHz	17.0x	1.4 V	128K / 512K / 6144K	80W	Dec 2010
+Athlon II X3 455	Rana	3-Core	AMD Socket AM3	45 nm	3300 MHz	16.5x	1.4 V	128K / 512K / 0K	95W	Dec 2010
+Sempron 150	Sargas	1-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.35 V	128K / 1024K / 0K	45W	Dec 2010
+Phenom II X4 970 BE	Zosma	4-Core	AMD Socket AM3	45 nm	3500 MHz	17.5x	1.475 V	128K / 512K / 6144K	125W	Oct 2010
+Phenom II X3 715 BE	Heka	3-Core	AMD Socket AM2+	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	95W	Oct 2010
+Phenom II X6 1075T	Thuban	6-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.475 V	128K / 512K / 6144K	125W	Sep 2010
+Phenom II X2 560 BE	Callisto	2-Core	AMD Socket AM3	45 nm	3300 MHz	16.5x	1.4 V	128K / 512K / 6144K	80W	Sep 2010
+Athlon II X2 210e	Regor	2-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.15 V	128K / 512K / 0K	45W	Sep 2010
+Athlon II X2 220	Regor	2-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.15 V	128K / 512K / 0K	65W	Sep 2010
+Athlon II X3 450	Rana	3-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.4 V	128K / 512K / 0K	95W	Sep 2010
+Phenom II X4 970 BE	Deneb	4-Core	AMD Socket AM3	45 nm	3500 MHz	17.5x	1.4 V	128K / 512K / 6144K	125W	Sep 2010
+Athlon II X3 420e	Rana	3-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.25 V	128K / 512K / 0K	45W	Sep 2010
+Athlon II X4 615e	Propus	4-Core	AMD Socket AM3	45 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 0K	45W	Sep 2010
+Athlon II X4 645	Propus	4-Core	AMD Socket AM3	45 nm	3100 MHz	15.5x	1.4 V	128K / 512K / 0K	95W	Sep 2010
+Athlon II X2 265	Regor	2-Core	AMD Socket AM3	45 nm	3300 MHz	16.5x	1.15 V	128K / 1024K / 0K	65W	Sep 2010
+Athlon II X2 270u	Regor	2-Core	AMD Socket AM3	45 nm	2000 MHz	10.0x	1.05 V	128K / 1024K / 0K	25W	Sep 2010
+Athlon II X2 250e	Regor	2-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.15 V	128K / 1024K / 0K	45W	Sep 2010
+Sempron 145	Sargas	1-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.35 V	128K / 1024K / 0K	45W	Sep 2010
+Phenom II X6 1045T	Thuban	6-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.375 V	128K / 512K / 6144K	95W	Sep 2010
+Phenom II X4 840T	Zosma	4-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.4 V	128K / 512K / 6144K	95W	Sep 2010
+Sempron 180	Regor	2-Core	AMD Socket AM3	45 nm	2400 MHz	12.0x	1.35 V	128K / 512K / 0K	45W	Sep 2010
+Phenom II X4 960T BE	Zosma	4-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.4 V	128K / 512K / 6144K	95W	Jun 2010
+Athlon II X2 245e	Regor	2-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.15 V	128K / 1024K / 0K	45W	May 2010
+Athlon II X2 260	Regor	2-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.15 V	128K / 1024K / 0K	65W	May 2010
+Athlon II X3 415e	Rana	3-Core	AMD Socket AM3	45 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 0K	45W	May 2010
+Athlon II X3 445	Rana	3-Core	AMD Socket AM3	45 nm	3100 MHz	15.5x	1.4 V	128K / 512K / 0K	95W	May 2010
+Phenom II X4 B97	Deneb	4-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.425 V	128K / 512K / 6144K	95W	May 2010
+Phenom II X3 B77	Heka	3-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.425 V	128K / 512K / 6144K	95W	May 2010
+Phenom II X2 B57	Callisto	2-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.425 V	128K / 512K / 6144K	80W	May 2010
+Athlon II X4 610e	Propus	4-Core	AMD Socket AM3	45 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 0K	45W	May 2010
+Athlon II X4 640	Propus	4-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.4 V	128K / 512K / 0K	95W	May 2010
+Phenom II X2 570 BE	Callisto	2-Core	AMD Socket AM3	45 nm	3500 MHz	17.5x	1.4 V	128K / 512K / 6144K	80W	May 2010
+Phenom II X6 1055T (95W)	Thuban	6-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.375 V	128K / 512K / 6144K	95W	May 2010
+Phenom II X6 1090T BE	Thuban	6-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.4 V	128K / 512K / 6144K	125W	Apr 2010
+Phenom II X6 1055T (125W)	Thuban	6-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.4 V	128K / 512K / 6144K	125W	Apr 2010
+Phenom II X6 1035T	Thuban	6-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.425 V	128K / 512K / 6144K	95W	Apr 2010
+Phenom II X4 910e	Deneb	4-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.25 V	128K / 512K / 6144K	65W	Jan 2010
+Phenom II X2 555 BE	Callisto	2-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.4 V	128K / 512K / 6144K	80W	Jan 2010
+Athlon II X2 255	Regor	2-Core	AMD Socket AM3	45 nm	3100 MHz	15.5x	1.15 V	128K / 1024K / 0K	65W	Jan 2010
+Athlon II X3 440	Rana	3-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 0K	95W	Jan 2010
+Athlon II X4 635	Propus	4-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.425 V	128K / 512K / 0K	95W	Jan 2010
+Phenom II X3 720	Heka	3-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	95W	Jan 2010
+Phenom II X4 965 BE (125W)	Deneb	4-Core	AMD Socket AM3	45 nm	3400 MHz	17.0x	1.4 V	128K / 512K / 6144K	125W	Nov 2009
+Phenom II X2 550	Callisto	2-Core	AMD Socket AM3	45 nm	3100 MHz	15.5x	1.4 V	128K / 512K / 6144K	80W	Nov 2009
+Athlon II X3 400e	Rana	3-Core	AMD Socket AM3	45 nm	2200 MHz	11.0x	1.25 V	128K / 512K / 0K	45W	Oct 2009
+Athlon II X3 405e	Rana	3-Core	AMD Socket AM3	45 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 0K	45W	Oct 2009
+Athlon II X2 250u	Regor	2-Core	AMD Socket AM3	45 nm	1600 MHz	8.0x	1.05 V	128K / 1024K / 0K	25W	Oct 2009
+Athlon II X2 260u	Regor	2-Core	AMD Socket AM3	45 nm	1800 MHz	9.0x	1.05 V	128K / 1024K / 0K	25W	Oct 2009
+Athlon II X2 235e	Regor	2-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.15 V	128K / 1024K / 0K	45W	Oct 2009
+Athlon II X2 240e	Regor	2-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.15 V	128K / 1024K / 0K	45W	Oct 2009
+Athlon II X2 215	Regor	2-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.15 V	128K / 512K / 0K	65W	Oct 2009
+Athlon II X3 425	Rana	3-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.425 V	128K / 512K / 0K	95W	Oct 2009
+Athlon II X4 600e	Propus	4-Core	AMD Socket AM3	45 nm	2200 MHz	11.0x	1.2 V	128K / 512K / 0K	45W	Oct 2009
+Athlon II X4 605e	Propus	4-Core	AMD Socket AM3	45 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 0K	45W	Oct 2009
+Athlon II X3 435	Rana	3-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.425 V	128K / 512K / 0K	95W	Oct 2009
+Phenom II X4 B93	Deneb	4-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	95W	Oct 2009
+Phenom II X4 B95	Deneb	4-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 6144K	95W	Oct 2009
+Phenom II X3 B73	Heka	3-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	95W	Oct 2009
+Phenom II X3 B75	Heka	3-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 6144K	95W	Oct 2009
+Phenom II X2 B53	Callisto	2-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	80W	Oct 2009
+Phenom II X2 B55	Callisto	2-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 6144K	80W	Oct 2009
+Athlon II X4 620	Propus	4-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.425 V	128K / 512K / 0K	95W	Sep 2009
+Athlon II X4 630	Propus	4-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 0K	95W	Sep 2009
+Phenom II X3 740 BE	Heka	3-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 6144K	95W	Sep 2009
+Phenom II X4 820	Deneb	4-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 4096K	95W	Sep 2009
+Phenom II X4 830	Deneb	4-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 4096K	95W	Sep 2009
+Phenom II X4 965 BE (140W)	Deneb	4-Core	AMD Socket AM3	45 nm	3400 MHz	17.0x	1.425 V	128K / 512K / 6144K	140W	Aug 2009
+Athlon II X2 240	Regor	2-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.25 V	256K / 2048K / 0K	65W	Jul 2009
+Athlon II X2 245	Regor	2-Core	AMD Socket AM3	45 nm	2900 MHz	14.5x	1.25 V	256K / 2048K / 0K	65W	Jul 2009
+Phenom II X4 945 (95W)	Deneb	4-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 6144K	95W	Jul 2009
+Sempron 140	Sargas	1-Core	AMD Socket AM3	45 nm	2700 MHz	13.5x	1.35 V	128K / 1024K / 0K	45W	Jul 2009
+Athlon II X2 250	Regor	2-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.25 V	256K / 2048K / 0K	65W	Jun 2009
+Phenom II X3 700e	Heka	3-Core	AMD Socket AM3	45 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 6144K	65W	Jun 2009
+Phenom II X3 705e	Heka	3-Core	AMD Socket AM3	45 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 6144K	65W	Jun 2009
+Phenom II X4 900e	Deneb	4-Core	AMD Socket AM3	45 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 6144K	65W	Jun 2009
+Phenom II X4 905e	Deneb	4-Core	AMD Socket AM3	45 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 6144K	65W	Jun 2009
+Phenom II X2 545	Callisto	2-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.425 V	128K / 512K / 6144K	80W	Jun 2009
+Phenom II X2 550 BE	Callisto	2-Core	AMD Socket AM3	45 nm	3100 MHz	15.5x	1.425 V	128K / 512K / 6144K	80W	Jun 2009
+Phenom II 42 TWKR Black Edition	Deneb	4-Core	AMD Socket AM3	45 nm	2000 MHz	10.0x	1.425 V	128K / 512K / 6144K	125W	Jun 2009
+Phenom II X4 925	Deneb	4-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	95W	May 2009
+Athlon X2 7850 BE	Kuma	2-Core	AMD Socket AM2+	65 nm	2800 MHz	14.0x	1.325 V	128K / 512K / 2048K	95W	Apr 2009
+Phenom II X4 945 (125W)	Deneb	4-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.5 V	128K / 512K / 6144K	125W	Apr 2009
+Phenom II X4 955 BE	Deneb	4-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.5 V	128K / 512K / 6144K	125W	Apr 2009
+Phenom II X4 955 (125W)	Deneb	4-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.4 V	128K / 512K / 6144K	125W	Apr 2009
+Phenom II X4 955 (95W)	Deneb	4-Core	AMD Socket AM3	45 nm	3200 MHz	16.0x	1.4 V	128K / 512K / 6144K	95W	Apr 2009
+Phenom II X3 710	Heka	3-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.425 V	128K / 512K / 6144K	95W	Feb 2009
+Phenom II X4 805	Deneb	4-Core	AMD Socket AM3	45 nm	2500 MHz	12.5x	1.425 V	128K / 512K / 4096K	95W	Feb 2009
+Phenom II X3 720 BE	Heka	3-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.425 V	128K / 512K / 6144K	95W	Feb 2009
+Phenom II X4 810	Deneb	4-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.425 V	128K / 512K / 4096K	95W	Feb 2009
+Phenom II X4 910	Deneb	4-Core	AMD Socket AM3	45 nm	2600 MHz	13.0x	1.425 V	128K / 512K / 6144K	95W	Feb 2009
+Phenom II X4 920	Deneb	4-Core	AMD Socket AM3	45 nm	2800 MHz	14.0x	1.5 V	128K / 512K / 6144K	125W	Jan 2009
+Phenom II X4 940 BE	Deneb	4-Core	AMD Socket AM3	45 nm	3000 MHz	15.0x	1.5 V	128K / 512K / 6144K	125W	Jan 2009
+Athlon 64 2650e	Lima	1-Core	AMD Socket AM2	65 nm	1600 MHz	8.0x	1.35 V	128K / 512K / 0K	15W	Jan 2009
+Athlon X2 7450	Kuma	2-Core	AMD Socket AM2+	65 nm	2400 MHz	12.0x	1.325 V	128K / 512K / 2048K	95W	Dec 2008
+Athlon X2 7550	Kuma	2-Core	AMD Socket AM2+	65 nm	2500 MHz	12.5x	1.325 V	128K / 512K / 2048K	95W	Dec 2008
+Athlon X2 7750 BE	Kuma	2-Core	AMD Socket AM2+	65 nm	2700 MHz	13.5x	1.325 V	128K / 512K / 2048K	95W	Dec 2008
+Athlon X2 5050e	Brisbane	2-Core	AMD Socket AM2	65 nm	2600 MHz	13.0x	1.15 V	256K / 512K / 0K	45W	Oct 2008
+Phenom X3 8850	Toliman	3-Core	AMD Socket AM2+	65 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 2048K	95W	Oct 2008
+Phenom X4 9450e	Agena	4-Core	AMD Socket AM2+	65 nm	2100 MHz	10.5x	1.125 V	128K / 512K / 2048K	65W	Oct 2008
+Phenom X4 9850 (95W)	Agena	4-Core	AMD Socket AM2+	65 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 2048K	95W	Oct 2008
+Phenom X4 9950 BE (125W)	Agena	4-Core	AMD Socket AM2+	65 nm	2600 MHz	13.0x	1.3 V	128K / 512K / 2048K	125W	Oct 2008
+Phenom X3 8250e	Toliman	3-Core	AMD Socket AM2+	65 nm	1900 MHz	9.5x	1.25 V	128K / 512K / 2048K	65W	Sep 2008
+Phenom X3 8450e	Toliman	3-Core	AMD Socket AM2+	65 nm	2100 MHz	10.5x	1.25 V	128K / 512K / 2048K	65W	Sep 2008
+Phenom X3 8750 BE	Toliman	3-Core	AMD Socket AM2+	65 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 2048K	95W	Sep 2008
+Athlon X2 6500 BE	Kuma	2-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Sep 2008
+Phenom X4 9750B	Agena	4-Core	AMD Socket AM2+	65 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 2048K	95W	Aug 2008
+Phenom X4 9850B	Agena	4-Core	AMD Socket AM2+	65 nm	2500 MHz	12.5x	1.25 V	128K / 512K / 2048K	95W	Aug 2008
+Phenom X4 9150e	Agena	4-Core	AMD Socket AM2+	65 nm	1800 MHz	9.0x	1.125 V	128K / 512K / 2048K	65W	Jul 2008
+Phenom X4 9350e	Agena	4-Core	AMD Socket AM2+	65 nm	2000 MHz	10.0x	1.125 V	128K / 512K / 2048K	65W	Jul 2008
+Phenom X4 9850 (125W)	Agena	4-Core	AMD Socket AM2+	65 nm	2500 MHz	12.5x	1.3 V	128K / 512K / 2048K	125W	Jul 2008
+Athlon 64 2000+	Lima	1-Core	AMD Socket AM2	65 nm	1000 MHz	5.0x	0.9 V	128K / 512K / 0K	8W	Jun 2008
+Athlon 64 LE-1660	Lima	1-Core	AMD Socket AM2	65 nm	2800 MHz	14.0x	1.4 V	128K / 512K / 0K	45W	May 2008
+Phenom X4 9600B	Agena	4-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Apr 2008
+Phenom X3 8450	Toliman	3-Core	AMD Socket AM2+	65 nm	2100 MHz	10.5x	1.25 V	128K / 512K / 2048K	95W	Apr 2008
+Phenom X3 8650	Toliman	3-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Apr 2008
+Phenom X3 8750	Toliman	3-Core	AMD Socket AM2+	65 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 2048K	95W	Apr 2008
+Phenom X3 8550	Toliman	3-Core	AMD Socket AM2+	65 nm	2200 MHz	11.0x	1.25 V	128K / 512K / 2048K	95W	Apr 2008
+Athlon 64 X2 4600+	Brisbane	2-Core	AMD Socket AM2	65 nm	2400 MHz	12.0x	1.325 V	256K / 512K / 0K	65W	Apr 2008
+Athlon X2 4050e	Brisbane	2-Core	AMD Socket AM2	65 nm	2100 MHz	10.5x	1.15 V	256K / 512K / 0K	45W	Apr 2008
+Athlon X2 4450e	Brisbane	2-Core	AMD Socket AM2	65 nm	2300 MHz	11.5x	1.15 V	256K / 512K / 0K	45W	Apr 2008
+Athlon 64 X2 5800+	Brisbane	2-Core	AMD Socket AM2	65 nm	3000 MHz	15.0x	1.4 V	256K / 512K / 0K	89W	Apr 2008
+Athlon 64 LE-1640	Lima	1-Core	AMD Socket AM2	65 nm	2700 MHz	13.5x	1.4 V	128K / 512K / 0K	45W	Apr 2008
+Phenom X4 9100e	Agena	4-Core	AMD Socket AM2+	65 nm	1800 MHz	9.0x	1.15 V	128K / 512K / 2048K	65W	Mar 2008
+Phenom X4 9550	Agena	4-Core	AMD Socket AM2+	65 nm	2200 MHz	11.0x	1.25 V	128K / 512K / 2048K	95W	Mar 2008
+Phenom X4 9650	Agena	4-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Mar 2008
+Phenom X4 9750 (95W)	Agena	4-Core	AMD Socket AM2+	65 nm	2400 MHz	12.0x	1.25 V	128K / 512K / 2048K	95W	Mar 2008
+Phenom X4 9750 (125W)	Agena	4-Core	AMD Socket AM2+	65 nm	2400 MHz	12.0x	1.3 V	128K / 512K / 2048K	125W	Mar 2008
+Phenom X4 9850 BE	Agena	4-Core	AMD Socket AM2+	65 nm	2500 MHz	12.5x	1.3 V	128K / 512K / 2048K	125W	Mar 2008
+Phenom X4 9950 BE (140W)	Agena	4-Core	AMD Socket AM2+	65 nm	2600 MHz	13.0x	1.3 V	128K / 512K / 2048K	140W	Mar 2008
+Phenom X3 8400	Toliman	3-Core	AMD Socket AM2+	65 nm	2100 MHz	10.5x	1.25 V	128K / 512K / 2048K	95W	Mar 2008
+Phenom X3 8600	Toliman	3-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Mar 2008
+Athlon X2 4850e	Brisbane	2-Core	AMD Socket AM2	65 nm	2500 MHz	12.5x	1.15 V	256K / 512K / 0K	45W	Mar 2008
+Sempron X2 2100	Brisbane	2-Core	AMD Socket AM2	65 nm	1800 MHz	9.0x	unknown	128K / 256K / 0K	65W	Mar 2008
+Sempron X2 2200	Brisbane	2-Core	AMD Socket AM2	65 nm	2000 MHz	10.0x	unknown	128K / 256K / 0K	65W	Mar 2008
+Sempron X2 2300	Brisbane	2-Core	AMD Socket AM2	65 nm	2200 MHz	11.0x	unknown	128K / 256K / 0K	65W	Mar 2008
+Sempron X2 2100	Brisbane	2-Core	AMD Socket AM2	65 nm	1800 MHz	9.0x	unknown	128K / 256K / 0K	65W	Mar 2008
+Athlon 64 X2 5600+	Brisbane	2-Core	AMD Socket AM2	65 nm	2900 MHz	14.5x	1.325 V	256K / 512K / 0K	65W	Feb 2008
+Athlon 64 X2 5400+ BE	Brisbane	2-Core	AMD Socket AM2	65 nm	2800 MHz	14.0x	1.325 V	256K / 512K / 0K	65W	Feb 2008
+Athlon 64 X2 5400+	Brisbane	2-Core	AMD Socket AM2	65 nm	2800 MHz	14.0x	1.325 V	256K / 512K / 0K	65W	Jan 2008
+Athlon 64 2600+	Lima	1-Core	AMD Socket AM2	65 nm	1600 MHz	8.0x	1.1 V	128K / 512K / 0K	15W	Jan 2008
+Phenom X4 9600 BE	Agena	4-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Dec 2007
+Phenom X4 9500	Agena	4-Core	AMD Socket AM2+	65 nm	2200 MHz	11.0x	1.25 V	128K / 512K / 2048K	95W	Nov 2007
+Phenom X4 9600	Agena	4-Core	AMD Socket AM2+	65 nm	2300 MHz	11.5x	1.25 V	128K / 512K / 2048K	95W	Nov 2007
+Athlon 64 X2 5200+	Brisbane	2-Core	AMD Socket AM2	65 nm	2700 MHz	13.5x	1.25 V	256K / 512K / 0K	65W	Oct 2007
+Athlon X2 BE-2300	Brisbane	2-Core	AMD Socket AM2	65 nm	1900 MHz	9.5x	1.25 V	256K / 512K / 0K	45W	Oct 2007
+Athlon X2 BE-2350	Brisbane	2-Core	AMD Socket AM2	65 nm	2100 MHz	10.5x	1.25 V	256K / 512K / 0K	45W	Oct 2007
+Athlon X2 BE-2400	Brisbane	2-Core	AMD Socket AM2	65 nm	2300 MHz	11.5x	1.25 V	256K / 512K / 0K	45W	Oct 2007
+Sempron LE-1250	Sparta	1-Core	AMD Socket AM2	65 nm	2200 MHz	11.0x	1.35 V	128K / 512K / 0K	45W	Oct 2007
+Sempron LE-1300	Sparta	1-Core	AMD Socket AM2	65 nm	2300 MHz	11.5x	1.35 V	128K / 512K / 0K	45W	Oct 2007
+Athlon 64 LE-1600	Windsor	1-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	45W	Oct 2007
+Athlon 64 LE-1620	Windsor	1-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	45W	Oct 2007
+Athlon 64 LE-1640	Windsor	1-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.4 V	128K / 1024K / 0K	45W	Oct 2007
+Athlon 64 X2 5000+ BE	Brisbane	2-Core	AMD Socket AM2	65 nm	2600 MHz	13.0x	1.325 V	256K / 512K / 0K	65W	Sep 2007
+Athlon 64 X2 6400+ BE	Windsor	2-Core	AMD Socket AM2	90 nm	3200 MHz	16.0x	1.35 V	256K / 1024K / 0K	125W	Aug 2007
+Athlon 64 X2 6000+	Brisbane	2-Core	AMD Socket AM2	65 nm	3100 MHz	15.5x	1.4 V	256K / 512K / 0K	89W	Aug 2007
+Sempron LE-1100	Sparta	1-Core	AMD Socket AM2	65 nm	1900 MHz	9.5x	1.35 V	128K / 256K / 0K	45W	Aug 2007
+Sempron LE-1150	Sparta	1-Core	AMD Socket AM2	65 nm	2000 MHz	10.0x	1.35 V	128K / 256K / 0K	45W	Aug 2007
+Sempron LE-1200	Sparta	1-Core	AMD Socket AM2	65 nm	2100 MHz	10.5x	1.35 V	128K / 512K / 0K	45W	Aug 2007
+Athlon 64 3500+ EE	Orleans	1-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.25 V	128K / 512K / 0K	35W	Feb 2007
+Athlon 64 X2 6000+	Windsor	2-Core	AMD Socket AM2	90 nm	3000 MHz	15.0x	1.35 V	256K / 1024K / 0K	125W	Feb 2007
+Athlon 64 4000+	Orleans	1-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.4 V	128K / 512K / 0K	62W	Feb 2007
+Athlon 64 3500+	Windsor	1-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	62W	Feb 2007
+Athlon 64 3800+	Windsor	1-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.4 V	128K / 512K / 0K	62W	Feb 2007
+Athlon 64 4000+	Windsor	1-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.4 V	128K / 512K / 0K	62W	Feb 2007
+Athlon 64 3200+	Lima	1-Core	AMD Socket AM2	65 nm	2000 MHz	10.0x	1.35 V	128K / 512K / 0K	45W	Feb 2007
+Athlon 64 3500+	Lima	1-Core	AMD Socket AM2	65 nm	2200 MHz	11.0x	1.35 V	128K / 512K / 0K	45W	Feb 2007
+Athlon 64 3800+	Lima	1-Core	AMD Socket AM2	65 nm	2400 MHz	12.0x	1.4 V	128K / 512K / 0K	45W	Feb 2007
+Athlon 64 X2 5000+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.25 V	256K / 1024K / 0K	65W	Feb 2007
+Athlon 64 X2 5400+	Windsor	2-Core	AMD Socket AM2	90 nm	2800 MHz	14.0x	1.35 V	256K / 512K / 0K	89W	Dec 2006
+Athlon 64 X2 5600+	Windsor	2-Core	AMD Socket AM2	90 nm	2800 MHz	14.0x	1.35 V	256K / 1024K / 0K	89W	Dec 2006
+Athlon 64 X2 5000+	Brisbane	2-Core	AMD Socket AM2	65 nm	2600 MHz	13.0x	1.325 V	256K / 512K / 0K	65W	Dec 2006
+Athlon 64 X2 4800+	Brisbane	2-Core	AMD Socket AM2	65 nm	2500 MHz	12.5x	1.325 V	256K / 512K / 0K	65W	Dec 2006
+Athlon 64 X2 4400+	Brisbane	2-Core	AMD Socket AM2	65 nm	2300 MHz	11.5x	1.25 V	256K / 512K / 0K	65W	Dec 2006
+Athlon 64 X2 4000+	Brisbane	2-Core	AMD Socket AM2	65 nm	2100 MHz	10.5x	1.25 V	256K / 512K / 0K	65W	Dec 2006
+Athlon 64 X2 3600+	Brisbane	2-Core	AMD Socket AM2	65 nm	1900 MHz	9.5x	1.25 V	256K / 512K / 0K	65W	Dec 2006
+Athlon 64 X2 4200+	Brisbane	2-Core	AMD Socket AM2	65 nm	2200 MHz	11.0x	1.25 V	256K / 512K / 0K	65W	Dec 2006
+Athlon 64 FX-70	Windsor	2-Core	AMD Socket F	90 nm	2600 MHz	13.0x	1.35 V	128K / 1024K / 0K	125W	Nov 2006
+Athlon 64 FX-72	Windsor	2-Core	AMD Socket F	90 nm	2800 MHz	14.0x	1.35 V	128K / 1024K / 0K	125W	Nov 2006
+Athlon 64 FX-74	Windsor	2-Core	AMD Socket F	90 nm	3000 MHz	15.0x	1.35 V	128K / 1024K / 0K	125W	Nov 2006
+Athlon 64 FX-76	Windsor	2-Core	AMD Socket F	90 nm	3200 MHz	16.0x	1.35 V	128K / 1024K / 0K	125W	Nov 2006
+Sempron 3800+	Manila	1-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.4 V	128K / 256K / 0K	62W	Oct 2006
+Athlon 64 X2 5200+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.25 V	256K / 1024K / 0K	65W	Sep 2006
+Athlon 64 X2 5200+	Windsor	2-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.35 V	256K / 1024K / 0K	89W	Sep 2006
+Athlon 64 X2 5000+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.25 V	128K / 512K / 0K	65W	Sep 2006
+Athlon 64 X2 3600+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.25 V	256K / 256K / 0K	65W	Aug 2006
+Athlon 64 X2 4600+	Manchester	2-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.35 V	128K / 512K / 0K	110W	May 2006
+Athlon 64 X2 4400+	Toledo	2-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	110W	May 2006
+Athlon 64 X2 4800+	Toledo	2-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	110W	May 2006
+Athlon 64 X2 4200+	Manchester	2-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.35 V	128K / 512K / 0K	89W	May 2006
+Athlon 64 FX-62	Windsor	2-Core	AMD Socket AM2	90 nm	2800 MHz	14.0x	1.35 V	256K / 1024K / 0K	125W	May 2006
+Athlon 64 X2 5000+	Windsor	2-Core	AMD Socket AM2	90 nm	2600 MHz	13.0x	1.35 V	256K / 512K / 0K	89W	May 2006
+Athlon 64 X2 4800+	Windsor	2-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.35 V	256K / 1024K / 0K	89W	May 2006
+Athlon 64 X2 4600+	Windsor	2-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.35 V	256K / 512K / 0K	89W	May 2006
+Athlon 64 X2 4400+	Windsor	2-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.35 V	256K / 1024K / 0K	89W	May 2006
+Athlon 64 X2 4200+	Windsor	2-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.35 V	256K / 512K / 0K	89W	May 2006
+Athlon 64 X2 4000+	Windsor	2-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.35 V	256K / 1024K / 0K	89W	May 2006
+Athlon 64 X2 3800+	Windsor	2-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.35 V	256K / 512K / 0K	89W	May 2006
+Athlon 64 X2 4800+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.25 V	256K / 1024K / 0K	65W	May 2006
+Athlon 64 X2 3800+ EE SFF	Windsor	2-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.075 V	256K / 512K / 0K	35W	May 2006
+Athlon 64 X2 4600+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.25 V	256K / 512K / 0K	65W	May 2006
+Athlon 64 X2 4400+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.25 V	256K / 1024K / 0K	65W	May 2006
+Athlon 64 X2 4200+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.25 V	256K / 512K / 0K	65W	May 2006
+Athlon 64 X2 4000+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.25 V	256K / 1024K / 0K	65W	May 2006
+Athlon 64 X2 3800+ EE	Windsor	2-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.25 V	256K / 512K / 0K	65W	May 2006
+Athlon 64 3800+	Orleans	1-Core	AMD Socket AM2	90 nm	2400 MHz	12.0x	1.4 V	128K / 512K / 0K	62W	May 2006
+Athlon 64 3500+	Orleans	1-Core	AMD Socket AM2	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	62W	May 2006
+Athlon 64 3200+	Orleans	1-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.4 V	128K / 512K / 0K	62W	May 2006
+Athlon 64 3000+	Orleans	1-Core	AMD Socket AM2	90 nm	1800 MHz	9.0x	1.4 V	128K / 512K / 0K	62W	May 2006
+Athlon 64 X2 4600+	Toledo	2-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.35 V	128K / 512K / 0K	89W	May 2006
+Athlon 64 X2 4200+	Toledo	2-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.35 V	128K / 512K / 0K	89W	May 2006
+Sempron 2800+	Manila	1-Core	AMD Socket AM2	90 nm	1600 MHz	8.0x	1.4 V	128K / 128K / 0K	62W	May 2006
+Sempron 3000+	Manila	1-Core	AMD Socket AM2	90 nm	1600 MHz	8.0x	1.4 V	128K / 256K / 0K	62W	May 2006
+Sempron 3200+	Manila	1-Core	AMD Socket AM2	90 nm	1800 MHz	9.0x	1.4 V	128K / 128K / 0K	62W	May 2006
+Sempron 3500+	Manila	1-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.4 V	128K / 128K / 0K	62W	May 2006
+Sempron 3400+	Manila	1-Core	AMD Socket AM2	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	May 2006
+Sempron 3600+	Manila	1-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.4 V	128K / 256K / 0K	62W	May 2006
+Sempron 3200+ EE SFF	Manila	1-Core	AMD Socket AM2	90 nm	1800 MHz	9.0x	1.25 V	128K / 128K / 0K	35W	May 2006
+Sempron 3500+ EE SFF	Manila	1-Core	AMD Socket AM2	90 nm	2000 MHz	10.0x	1.25 V	128K / 128K / 0K	35W	May 2006
+Sempron 3400+ EE SFF	Manila	1-Core	AMD Socket AM2	90 nm	1800 MHz	9.0x	1.25 V	128K / 256K / 0K	35W	May 2006
+Sempron 3000+ EE SFF	Manila	1-Core	AMD Socket AM2	90 nm	1600 MHz	8.0x	1.25 V	128K / 256K / 0K	35W	May 2006
+Athlon 64 FX-60	Toledo	2-Core	AMD Socket 939	90 nm	2600 MHz	13.0x	1.35 V	128K / 2048K / 0K	110W	Jan 2006
+Athlon 64 1500+	Venice	1-Core	AMD Socket 754	90 nm	1000 MHz	5.0x	0.9 V	128K / 512K / 0K	9W	Nov 2005
+Sempron 3400+	Palermo	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 128K / 0K	62W	Oct 2005
+Sempron 3500+	Palermo	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 256K / 0K	62W	Oct 2005
+Sempron 3200+	Palermo	1-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	Oct 2005
+Sempron 3000+	Palermo	1-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.4 V	128K / 128K / 0K	62W	Oct 2005
+Athlon 64 X2 3800+	Manchester	2-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.35 V	128K / 512K / 0K	89W	Aug 2005
+Sempron 3400+	Palermo	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.4 V	128K / 256K / 0K	62W	Aug 2005
+Athlon 64 X2 3800+	Toledo	2-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.35 V	128K / 512K / 0K	89W	Aug 2005
+Sempron 2500+	Palermo	1-Core	AMD Socket 754	90 nm	1400 MHz	7.0x	1.4 V	128K / 256K / 0K	62W	Jul 2005
+Athlon 64 FX-57	San Diego	1-Core	AMD Socket 939	90 nm	2800 MHz	14.0x	1.4 V	128K / 1024K / 0K	104W	Jun 2005
+Athlon 64 3200+	Manchester	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.35 V	128K / 512K / 0K	67W	May 2005
+Athlon 64 3500+	Manchester	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.35 V	128K / 512K / 0K	67W	May 2005
+Athlon 64 3800+	Venice	1-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.4 V	128K / 512K / 0K	89W	Apr 2005
+Athlon 64 3500+	Venice	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	67W	Apr 2005
+Athlon 64 3200+	Venice	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 512K / 0K	67W	Apr 2005
+Athlon 64 3000+	Venice	1-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.4 V	128K / 512K / 0K	67W	Apr 2005
+Sempron 3300+	Palermo	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.4 V	128K / 256K / 0K	62W	Apr 2005
+Sempron 3100+	Palermo	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	Apr 2005
+Sempron 3000+	Palermo	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	Apr 2005
+Sempron 3000+	Paris	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.4 V	128K / 128K / 0K	62W	Feb 2005
+Athlon 64 4000+	San Diego	1-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	89W	Oct 2004
+Athlon 64 4000+	Clawhammer	1-Core	AMD Socket 939	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	Oct 2004
+Athlon 64 3500+	Winchester	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	67W	Oct 2004
+Athlon 64 3200+	Winchester	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 512K / 0K	67W	Oct 2004
+Athlon 64 3000+	Winchester	1-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.4 V	128K / 512K / 0K	67W	Oct 2004
+Athlon 64 FX-55	San Diego	1-Core	AMD Socket 939	90 nm	2600 MHz	13.0x	1.4 V	128K / 1024K / 0K	104W	Oct 2004
+Athlon 64 FX-55	Clawhammer	1-Core	AMD Socket 939	130 nm	2600 MHz	13.0x	1.5 V	128K / 1024K / 0K	104W	Oct 2004
+Sempron 3000+	Barton	1-Core	AMD Socket A	130 nm	2000 MHz	12.0x	1.6 V	128K / 512K / 0K	62W	Sep 2004
+Sempron 2800+	Palermo	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.4 V	128K / 256K / 0K	62W	Aug 2004
+Sempron 2600+	Palermo	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.4 V	128K / 128K / 0K	62W	Aug 2004
+Sempron 2200+	Thorton	1-Core	AMD Socket A	130 nm	1500 MHz	9.0x	1.6 V	128K / 256K / 0K	62W	Aug 2004
+Sempron 2400+	Thorton	1-Core	AMD Socket A	130 nm	1667 MHz	10.0x	1.6 V	128K / 256K / 0K	62W	Aug 2004
+Sempron 2800+	Thorton	1-Core	AMD Socket A	130 nm	1992 MHz	12.0x	1.6 V	128K / 256K / 0K	62W	Aug 2004
+Sempron 3100+	Paris	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 2800+	Thoroughbred	1-Core	AMD Socket A	130 nm	1992 MHz	12.0x	1.6 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 2500+	Thoroughbred	1-Core	AMD Socket A	130 nm	1750 MHz	10.5x	1.6 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 2600+	Thoroughbred	1-Core	AMD Socket A	130 nm	1833 MHz	11.0x	1.6 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 2400+	Thoroughbred	1-Core	AMD Socket A	130 nm	1667 MHz	10.0x	1.6 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 2300+	Thoroughbred	1-Core	AMD Socket A	130 nm	1583 MHz	9.5x	1.6 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 2200+	Thoroughbred	1-Core	AMD Socket A	130 nm	1500 MHz	9.0x	1.6 V	128K / 256K / 0K	62W	Jul 2004
+Athlon 64 FX-53	Clawhammer	1-Core	AMD Socket 939	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	Jun 2004
+Athlon 64 3500+	NewCastle	1-Core	AMD Socket 939	130 nm	2200 MHz	11.0x	1.5 V	128K / 512K / 0K	89W	Jun 2004
+Athlon 64 3700+	Clawhammer	1-Core	AMD Socket 754	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	Jun 2004
+Athlon 64 3800+	NewCastle	1-Core	AMD Socket 939	130 nm	2400 MHz	12.0x	1.5 V	128K / 512K / 0K	89W	Jun 2004
+Athlon 64 3500+	Clawhammer	1-Core	AMD Socket 939	130 nm	2200 MHz	11.0x	1.5 V	128K / 512K / 0K	89W	Jun 2004
+Athlon 64 3700+	San Diego	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	89W	May 2004
+Athlon 64 3200+	NewCastle	1-Core	AMD Socket 939	130 nm	2000 MHz	10.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 3400+	NewCastle	1-Core	AMD Socket 754	130 nm	2400 MHz	12.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 3200+	NewCastle	1-Core	AMD Socket 754	130 nm	2200 MHz	11.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 3000+	NewCastle	1-Core	AMD Socket 754	130 nm	2000 MHz	10.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 2800+	NewCastle	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 2800+	Clawhammer	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 3300+	NewCastle	1-Core	AMD Socket 754	130 nm	2400 MHz	12.0x	1.5 V	128K / 256K / 0K	89W	Apr 2004
+Athlon 64 3000+	NewCastle	1-Core	AMD Socket 939	130 nm	1800 MHz	9.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 3400+	NewCastle	1-Core	AMD Socket 939	130 nm	2200 MHz	11.0x	1.5 V	128K / 512K / 0K	89W	Apr 2004
+Athlon 64 FX-53	SledgeHammer	1-Core	AMD Socket 940	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	Mar 2004
+Athlon 64 3400+	Clawhammer	1-Core	AMD Socket 754	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	Jan 2004
+Athlon 64 3000+	Clawhammer	1-Core	AMD Socket 754	130 nm	2000 MHz	10.0x	1.5 V	128K / 512K / 0K	89W	Dec 2003
+Athlon XP 3100+	Thorton	1-Core	AMD Socket A	130 nm	2200 MHz	16.0x	1.65 V	128K / 256K / 0K	68W	Dec 2003
+Athlon 64 FX-51	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	Sep 2003
+Athlon 64 3200+	Clawhammer	1-Core	AMD Socket 754	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	89W	Sep 2003
+Athlon XP 2400+	Thorton	1-Core	AMD Socket A	130 nm	2000 MHz	15.0x	1.65 V	128K / 256K / 0K	68W	Sep 2003
+Athlon XP 2400+	Thorton	1-Core	AMD Socket A	130 nm	2000 MHz	15.0x	1.6 V	128K / 256K / 0K	68W	Sep 2003
+Athlon XP 2200+	Thorton	1-Core	AMD Socket A	130 nm	1800 MHz	13.5x	1.6 V	128K / 256K / 0K	63W	Sep 2003
+Athlon XP 2000+	Thorton	1-Core	AMD Socket A	130 nm	1667 MHz	12.5x	1.6 V	128K / 256K / 0K	60W	Sep 2003
+Athlon XP 2200+	Thorton	1-Core	AMD Socket A	130 nm	1800 MHz	13.5x	1.5 V	128K / 256K / 0K	63W	Sep 2003
+Athlon XP 2000+	Thorton	1-Core	AMD Socket A	130 nm	1667 MHz	12.5x	1.5 V	128K / 256K / 0K	60W	Sep 2003
+Athlon XP 2600+	Thorton	1-Core	AMD Socket A	130 nm	2133 MHz	16.0x	1.65 V	128K / 256K / 0K	68W	Sep 2003
+Athlon XP 2600+	Thorton	1-Core	AMD Socket A	130 nm	2083 MHz	12.5x	1.65 V	128K / 256K / 0K	68W	Sep 2003
+Athlon XP 2500+	Barton	1-Core	AMD Socket A	130 nm	1833 MHz	11.0x	1.65 V	128K / 512K / 0K	68W	Feb 2003
+Athlon XP 2500+ DTR	Barton	1-Core	AMD Socket A	130 nm	1833 MHz	11.0x	1.5 V	128K / 512K / 0K	68W	Feb 2003
+Athlon XP 2700+	Thoroughbred	1-Core	AMD Socket A	130 nm	2167 MHz	13.0x	1.65 V	128K / 256K / 0K	68W	Oct 2002
+Athlon XP 2600+	Thoroughbred	1-Core	AMD Socket A	130 nm	2133 MHz	16.0x	1.65 V	128K / 256K / 0K	68W	Oct 2002
+Athlon XP 2800+	Thoroughbred	1-Core	AMD Socket A	130 nm	2250 MHz	13.5x	1.65 V	128K / 256K / 0K	74W	Oct 2002
+Athlon XP 2600+	Thoroughbred	1-Core	AMD Socket A	130 nm	2083 MHz	12.5x	1.65 V	128K / 256K / 0K	68W	Aug 2002
+Athlon XP 2400+	Thoroughbred	1-Core	AMD Socket A	130 nm	2000 MHz	15.0x	1.65 V	128K / 256K / 0K	68W	Aug 2002
+Athlon XP 2400+	Thoroughbred	1-Core	AMD Socket A	130 nm	2000 MHz	15.0x	1.6 V	128K / 256K / 0K	65W	Aug 2002
+Athlon XP 2200+	Thoroughbred	1-Core	AMD Socket A	130 nm	1800 MHz	13.5x	1.65 V	128K / 256K / 0K	68W	Jun 2002
+Athlon XP 2000+	Thoroughbred	1-Core	AMD Socket A	130 nm	1667 MHz	12.5x	1.6 V	128K / 256K / 0K	60W	Jun 2002
+Athlon XP 2000+	Thoroughbred	1-Core	AMD Socket A	130 nm	1667 MHz	12.5x	1.65 V	128K / 256K / 0K	60W	Jun 2002
+Athlon XP 1800+	Thoroughbred	1-Core	AMD Socket A	130 nm	1533 MHz	11.5x	1.6 V	128K / 256K / 0K	51W	Jun 2002
+Athlon XP 2100+	Palomino	1-Core	AMD Socket A	180 nm	1733 MHz	13.0x	1.75 V	128K / 256K / 0K	72W	Mar 2002
+Athlon XP 2000+	Palomino	1-Core	AMD Socket A	180 nm	1667 MHz	12.5x	1.75 V	128K / 256K / 0K	70W	Jan 2002
+Athlon XP 1900+	Palomino	1-Core	AMD Socket A	180 nm	1600 MHz	12.0x	1.75 V	128K / 256K / 0K	68W	Nov 2001
+Athlon XP 1800+	Palomino	1-Core	AMD Socket A	180 nm	1533 MHz	11.5x	1.75 V	128K / 256K / 0K	66W	Oct 2001
+Athlon XP 1700+	Palomino	1-Core	AMD Socket A	180 nm	1467 MHz	11.0x	1.75 V	128K / 256K / 0K	64W	Oct 2001
+Athlon XP 1600+	Palomino	1-Core	AMD Socket A	180 nm	1400 MHz	10.5x	1.75 V	128K / 256K / 0K	63W	Oct 2001
+Athlon XP 1500+	Palomino	1-Core	AMD Socket A	180 nm	1333 MHz	10.0x	1.75 V	128K / 256K / 0K	60W	Oct 2001
+Athlon 1400	Thunderbird C	1-Core	AMD Socket A	180 nm	1400 MHz	10.5x	1.75 V	128K / 256K / 0K	72W	Jun 2001
+Athlon 1400	Thunderbird B	1-Core	AMD Socket A	180 nm	1400 MHz	14.0x	1.75 V	128K / 256K / 0K	72W	Jun 2001
+Athlon 1333	Thunderbird C	1-Core	AMD Socket A	180 nm	1333 MHz	10.0x	1.75 V	128K / 256K / 0K	70W	Mar 2001
+Athlon 1300	Thunderbird B	1-Core	AMD Socket A	180 nm	1300 MHz	13.0x	1.75 V	128K / 256K / 0K	68W	Mar 2001
+Sempron 2800+	Barton	1-Core	AMD Socket A	130 nm	2000 MHz	12.0x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Sempron 2600+	Barton	1-Core	AMD Socket A	130 nm	1833 MHz	11.0x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Sempron 2500+	Barton	1-Core	AMD Socket A	130 nm	1750 MHz	10.5x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Sempron 2400+	Barton	1-Core	AMD Socket A	130 nm	1667 MHz	10.0x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Sempron 2300+	Barton	1-Core	AMD Socket A	130 nm	1583 MHz	9.5x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Sempron 2200+	Barton	1-Core	AMD Socket A	130 nm	1500 MHz	9.0x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Athlon XP 3200+	Barton	1-Core	AMD Socket A	130 nm	2200 MHz	11.0x	1.65 V	128K / 512K / 0K	77W	Jan 2001
+Athlon XP 3000+	Barton	1-Core	AMD Socket A	130 nm	2100 MHz	10.5x	1.65 V	128K / 512K / 0K	68W	Jan 2001
+Athlon XP 3000+	Barton	1-Core	AMD Socket A	130 nm	2167 MHz	13.0x	1.65 V	128K / 512K / 0K	68W	Jan 2001
+Athlon XP 2800+	Barton	1-Core	AMD Socket A	130 nm	2083 MHz	12.5x	1.65 V	128K / 512K / 0K	68W	Jan 2001
+Athlon XP 2600+	Barton	1-Core	AMD Socket A	130 nm	1917 MHz	11.5x	1.65 V	128K / 512K / 0K	68W	Jan 2001
+Athlon XP 2800+ DTR	Barton	1-Core	AMD Socket A	130 nm	2083 MHz	12.5x	1.5 V	128K / 512K / 0K	68W	Jan 2001
+Athlon XP 2600+ DTR	Barton	1-Core	AMD Socket A	130 nm	1917 MHz	11.5x	1.5 V	128K / 512K / 0K	68W	Jan 2001
+Athlon XP 2200+	Thoroughbred	1-Core	AMD Socket A	130 nm	1800 MHz	13.5x	1.6 V	128K / 256K / 0K	63W	Jan 2001
+Athlon XP 2100+	Thoroughbred	1-Core	AMD Socket A	130 nm	1733 MHz	13.0x	1.6 V	128K / 256K / 0K	62W	Jan 2001
+Athlon XP 1900+	Thoroughbred	1-Core	AMD Socket A	130 nm	1600 MHz	12.0x	1.5 V	128K / 256K / 0K	53W	Jan 2001
+Athlon XP 1800+	Thoroughbred	1-Core	AMD Socket A	130 nm	1533 MHz	11.5x	1.5 V	128K / 256K / 0K	51W	Jan 2001
+Athlon XP 1700+	Thoroughbred	1-Core	AMD Socket A	130 nm	1467 MHz	11.0x	1.6 V	128K / 256K / 0K	50W	Jan 2001
+Athlon XP 1700+	Thoroughbred	1-Core	AMD Socket A	130 nm	1467 MHz	11.0x	1.5 V	128K / 256K / 0K	50W	Jan 2001
+Athlon XP 1600+	Thoroughbred	1-Core	AMD Socket A	130 nm	1400 MHz	10.5x	1.6 V	128K / 256K / 0K	49W	Jan 2001
+Sempron 3300+	Barton	1-Core	AMD Socket A	130 nm	2200 MHz	11.0x	1.65 V	128K / 512K / 0K	62W	Jan 2001
+Athlon 64 3000+	Venice	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.4 V	128K / 512K / 0K	51W	Jan 2001
+Athlon 64 3200+	Venice	1-Core	AMD Socket 754	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	59W	Jan 2001
+Athlon 64 X2 3600+	Manchester	2-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.35 V	128K / 256K / 0K	89W	Jan 2001
+Athlon 64 3400+	Venice	1-Core	AMD Socket 754	90 nm	2400 MHz	12.0x	1.4 V	128K / 512K / 0K	67W	Jan 2001
+Athlon 64 3200+	Clawhammer	1-Core	AMD Socket 754	130 nm	2200 MHz	11.0x	1.5 V	128K / 512K / 0K	89W	Jan 2001
+Athlon 64 3400+	Clawhammer	1-Core	AMD Socket 754	130 nm	2400 MHz	12.0x	1.5 V	128K / 512K / 0K	89W	Jan 2001
+Athlon 64 3000+	Venice	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.35 V	128K / 512K / 0K	51W	Jan 2001
+Athlon 64 3400+	Venice	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	67W	Jan 2001
+Athlon 64 3500+	San Diego	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 512K / 0K	67W	Jan 2001
+Athlon 64 3700+	Toledo	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	89W	Jan 2001
+Athlon 64 4000+	Toledo	1-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	89W	Jan 2001
+Athlon 1200	Thunderbird C	1-Core	AMD Socket A	180 nm	1200 MHz	9.0x	1.75 V	128K / 256K / 0K	66W	Oct 2000
+Athlon 1133	Thunderbird C	1-Core	AMD Socket A	180 nm	1133 MHz	8.5x	1.75 V	128K / 256K / 0K	63W	Oct 2000
+Athlon 1000	Thunderbird C	1-Core	AMD Socket A	180 nm	1000 MHz	7.5x	1.75 V	128K / 256K / 0K	54W	Oct 2000
+Athlon 1200	Thunderbird B	1-Core	AMD Socket A	180 nm	1200 MHz	12.0x	1.75 V	128K / 256K / 0K	66W	Oct 2000
+Athlon 1100	Thunderbird B	1-Core	AMD Socket A	180 nm	1100 MHz	11.0x	1.75 V	128K / 256K / 0K	60W	Aug 2000
+Athlon 1000	Thunderbird B	1-Core	AMD Socket A	180 nm	1000 MHz	10.0x	1.75 V	128K / 256K / 0K	54W	Jun 2000
+Athlon 950	Thunderbird	1-Core	AMD Socket A	180 nm	950 MHz	9.5x	1.75 V	128K / 256K / 0K	52W	Jun 2000
+Athlon 900	Thunderbird	1-Core	AMD Socket A	180 nm	900 MHz	9.0x	1.75 V	128K / 256K / 0K	50W	Jun 2000
+Athlon 850	Thunderbird	1-Core	AMD Socket A	180 nm	850 MHz	8.5x	1.75 V	128K / 256K / 0K	47W	Jun 2000
+Athlon 800	Thunderbird	1-Core	AMD Socket A	180 nm	800 MHz	8.0x	1.75 V	128K / 256K / 0K	45W	Jun 2000
+Athlon 750	Thunderbird	1-Core	AMD Socket A	180 nm	750 MHz	7.5x	1.75 V	128K / 256K / 0K	43W	Jun 2000
+Athlon 600	Thunderbird	1-Core	AMD Socket A	180 nm	600 MHz	6.0x	1.75 V	128K / 256K / 0K	38W	Jun 2000
+Athlon 700	Thunderbird	1-Core	AMD Socket A	180 nm	700 MHz	7.0x	1.75 V	128K / 256K / 0K	40W	Jun 2000
+Athlon 650	Thunderbird	1-Core	AMD Socket A	180 nm	650 MHz	6.5x	1.75 V	128K / 256K / 0K	38W	Jun 2000
+AMD Mobile
+Name	Codename	Cores	Socket	Process	Clock	Multi	Voltage	Cache L1/L2/L3	TDP	Released
+A4-5050	Kabini	4-Core	AMD Socket FT3	32 nm	1500 MHz	15.0x	1.475 V	128K / 512K / 0K	15W	Feb 2014
+E1-2150	Kabini	2-Core	AMD Socket FT3	32 nm	1050 MHz	10.5x	1.475 V	128K / 512K / 0K	9W	Feb 2014
+A4-1350	Kabini	4-Core	AMD Socket FT3	32 nm	1000 MHz	10.0x	1.475 V	128K / 512K / 0K	8W	Oct 2013
+A10-5750M	Richland	4-Core	AMD Socket FS1r2	32 nm	2500 MHz	25.0x	1.475 V	128K / 1024K / 0K	35W	Jun 2013
+A8-5550M	Richland	4-Core	AMD Socket FS1r2	32 nm	2100 MHz	21.0x	1.475 V	128K / 1024K / 0K	35W	Jun 2013
+A6-5350M	Richland	2-Core	AMD Socket FS1r2	32 nm	2900 MHz	29.0x	1.475 V	128K / 512K / 0K	35W	Jun 2013
+A4-5150M	Richland	2-Core	AMD Socket FS1r2	32 nm	2700 MHz	27.0x	1.475 V	128K / 512K / 0K	35W	Jun 2013
+A8-5557M	Richland	4-Core	AMD Socket FP2	32 nm	2100 MHz	21.0x	1.475 V	128K / 1024K / 0K	35W	Jun 2013
+A10-5745M	Richland	4-Core	AMD Socket FP2	32 nm	2100 MHz	21.0x	1.475 V	128K / 1024K / 0K	25W	Jun 2013
+A10-5757M	Richland	4-Core	AMD Socket FP2	32 nm	2500 MHz	25.0x	1.475 V	128K / 1024K / 0K	35W	Jun 2013
+A8-5545M	Richland	4-Core	AMD Socket FP2	32 nm	1700 MHz	17.0x	1.475 V	128K / 1024K / 0K	25W	Jun 2013
+A4-5145M	Richland	2-Core	AMD Socket FP2	32 nm	2000 MHz	20.0x	1.475 V	128K / 512K / 0K	17W	Jun 2013
+A6-5345M	Richland	2-Core	AMD Socket FP2	32 nm	2200 MHz	22.0x	1.475 V	128K / 512K / 0K	17W	Jun 2013
+A6-5357M	Richland	2-Core	AMD Socket FP2	32 nm	2900 MHz	29.0x	1.475 V	128K / 512K / 0K	35W	Jun 2013
+A6-1450	Temash	4-Core	AMD Socket FT3	32 nm	1000 MHz	10.0x	1.475 V	128K / 512K / 0K	8W	May 2013
+A4-1250	Temash	2-Core	AMD Socket FT3	32 nm	1000 MHz	10.0x	1.475 V	128K / 512K / 0K	8W	May 2013
+A4-1200	Temash	2-Core	AMD Socket FT3	32 nm	1000 MHz	10.0x	1.475 V	128K / 512K / 0K	4W	May 2013
+E1-2100	Kabini	2-Core	AMD Socket FT3	32 nm	1000 MHz	10.0x	1.475 V	128K / 512K / 0K	9W	May 2013
+E1-2500	Kabini	2-Core	AMD Socket FT3	32 nm	1400 MHz	14.0x	1.475 V	128K / 512K / 0K	15W	May 2013
+E2-3000	Kabini	2-Core	AMD Socket FT3	32 nm	1650 MHz	16.5x	1.475 V	128K / 512K / 0K	15W	May 2013
+A4-5000	Kabini	4-Core	AMD Socket FT3	32 nm	1500 MHz	15.0x	1.475 V	128K / 512K / 0K	15W	May 2013
+A6-5200	Kabini	4-Core	AMD Socket FT3	32 nm	2000 MHz	20.0x	1.475 V	128K / 512K / 0K	25W	May 2013
+Z-60	Hondo	2-Core	AMD Socket FT1	40 nm	1000 MHz	5.0x	unknown	64K / 1024K / 0K	5W	Oct 2012
+A4-4355M	Trinity	2-Core	AMD Socket FP2	32 nm	1900 MHz	25.0x	1.15 V	96K / 1024K / 0K	17W	Sep 2012
+A8-4555M	Trinity	4-Core	AMD Socket FP2	32 nm	1600 MHz	16.0x	1.15 V	192K / 4096K / 0K	19W	Sep 2012
+C-70	Ontario	2-Core	AMD Socket FT1	40 nm	1000 MHz	5.0x	1.35 V	64K / 512K / 0K	9W	Sep 2012
+A10-4600M	Trinity	4-Core	AMD Socket FS1r2	32 nm	2300 MHz	23.0x	1.3 V	192K / 4096K / 0K	35W	May 2012
+A8-4500M	Trinity	4-Core	AMD Socket FS1r2	32 nm	1900 MHz	19.0x	1.3 V	192K / 4096K / 0K	35W	May 2012
+A6-4400M	Trinity	2-Core	AMD Socket FS1r2	32 nm	2700 MHz	27.0x	1.325 V	96K / 1024K / 0K	35W	May 2012
+A10-4655M	Trinity	4-Core	AMD Socket FP2	32 nm	2000 MHz	20.0x	1.2 V	192K / 4096K / 0K	25W	May 2012
+A6-4455M	Trinity	2-Core	AMD Socket FP2	32 nm	2100 MHz	21.0x	1.15 V	92K / 2048K / 0K	17W	May 2012
+A4-4300M	Trinity	2-Core	AMD Socket FS1r2	32 nm	2500 MHz	25.0x	1.325 V	96K / 1024K / 0K	35W	May 2012
+E2-3000M	Llano	2-Core	AMD Socket FS1	32 nm	1800 MHz	18.0x	1.4125 V	128K / 512K / 0K	35W	Dec 2011
+A4-3320M	Llano	2-Core	AMD Socket FS1	32 nm	2000 MHz	20.0x	1.4125 V	128K / 1024K / 0K	35W	Dec 2011
+A4-3330MX	Llano	2-Core	AMD Socket FS1	32 nm	2200 MHz	22.0x	1.4125 V	128K / 1024K / 0K	45W	Dec 2011
+A6-3420M	Llano	4-Core	AMD Socket FS1	32 nm	1500 MHz	15.0x	1.4125 V	128K / 1024K / 0K	35W	Dec 2011
+A6-3430MX	Llano	4-Core	AMD Socket FS1	32 nm	1700 MHz	17.0x	1.4125 V	128K / 1024K / 0K	45W	Dec 2011
+A8-3520M	Llano	4-Core	AMD Socket FS1	32 nm	1600 MHz	16.0x	1.4125 V	128K / 1024K / 0K	35W	Dec 2011
+A8-3550MX	Llano	4-Core	AMD Socket FS1	32 nm	2000 MHz	20.0x	1.4125 V	128K / 1024K / 0K	45W	Dec 2011
+E-450	Zacate	2-Core	AMD Socket FT1	40 nm	1650 MHz	16.5x	1.35 V	64K / 512K / 0K	18W	Aug 2011
+E-300	Zacate	2-Core	AMD Socket FT1	40 nm	1300 MHz	13.0x	1.35 V	64K / 512K / 0K	18W	Aug 2011
+C-60	Ontario	2-Core	AMD Socket FT1	40 nm	1000 MHz	10.0x	1.35 V	64K / 512K / 0K	9W	Aug 2011
+A4-3300M	Llano	2-Core	AMD Socket FS1	32 nm	1900 MHz	19.0x	1.4125 V	128K / 1024K / 0K	35W	Jun 2011
+A4-3305M	Llano	2-Core	AMD Socket FS1	32 nm	1900 MHz	19.0x	1.4125 V	128K / 512K / 0K	35W	Jun 2011
+A4-3310MX	Llano	2-Core	AMD Socket FS1	32 nm	2100 MHz	21.0x	1.4125 V	128K / 1024K / 0K	35W	Jun 2011
+A6-3400M	Llano	4-Core	AMD Socket FS1	32 nm	1400 MHz	14.0x	1.4125 V	128K / 1024K / 0K	35W	Jun 2011
+A6-3410MX	Llano	4-Core	AMD Socket FS1	32 nm	1600 MHz	16.0x	1.4125 V	128K / 1024K / 0K	45W	Jun 2011
+A8-3500M	Llano	4-Core	AMD Socket FS1	32 nm	1500 MHz	15.0x	1.4125 V	128K / 1024K / 0K	35W	Jun 2011
+A8-3510MX	Llano	4-Core	AMD Socket FS1	32 nm	1800 MHz	18.0x	1.4125 V	128K / 1024K / 0K	45W	Jun 2011
+A8-3530MX	Llano	4-Core	AMD Socket FS1	32 nm	1900 MHz	19.0x	1.4125 V	128K / 1024K / 0K	45W	Jun 2011
+Z-01	Desna	2-Core	AMD Socket FT1	40 nm	1000 MHz	5.0x	unknown	64K / 1024K / 0K	6W	Jun 2011
+E-350	Zacate	2-Core	AMD Socket FT1	40 nm	1600 MHz	16.0x	1.35 V	64K / 512K / 0K	18W	Jan 2011
+E-240	Zacate	1-Core	AMD Socket FT1	40 nm	1500 MHz	15.0x	1.35 V	64K / 512K / 0K	18W	Jan 2011
+C-30	Ontario	1-Core	AMD Socket FT1	40 nm	1200 MHz	12.0x	1.35 V	64K / 512K / 0K	9W	Jan 2011
+C-50	Ontario	2-Core	AMD Socket FT1	40 nm	1000 MHz	10.0x	1.35 V	64K / 512K / 0K	9W	Jan 2011
+Turion X2 RM-74	Griffin	2-Core	AMD Socket S1	65 nm	2200 MHz	11.0x	unknown	256K / 1024K / 0K	35W	Dec 2008
+Turion X2 RM-75	Griffin	2-Core	AMD Socket S1	65 nm	2200 MHz	11.0x	unknown	256K / 1024K / 0K	35W	Dec 2008
+Turion X2 RM-77	Griffin	2-Core	AMD Socket S1	65 nm	2300 MHz	11.5x	unknown	256K / 1024K / 0K	35W	Dec 2008
+Turion X2 Ultra ZM-88	Griffin	2-Core	AMD Socket S1	65 nm	2500 MHz	12.5x	unknown	256K / 2048K / 0K	35W	Dec 2008
+Athlon X2 QL-64	Griffin	2-Core	AMD Socket S1	65 nm	2100 MHz	10.5x	unknown	256K / 1024K / 0K	35W	Dec 2008
+Athlon X2 QL-65	Griffin	2-Core	AMD Socket S1	65 nm	2100 MHz	10.5x	unknown	256K / 1024K / 0K	35W	Dec 2008
+Athlon X2 QL-67	Griffin	2-Core	AMD Socket S1	65 nm	2200 MHz	11.0x	unknown	256K / 1024K / 0K	35W	Dec 2008
+Turion X2 RM-72	Griffin	2-Core	AMD Socket S1	65 nm	2100 MHz	10.5x	unknown	256K / 1024K / 0K	35W	Sep 2008
+Turion X2 Ultra ZM-84	Griffin	2-Core	AMD Socket S1	65 nm	2300 MHz	11.5x	unknown	256K / 2048K / 0K	35W	Sep 2008
+Turion X2 Ultra ZM-85	Griffin	2-Core	AMD Socket S1	65 nm	2300 MHz	11.5x	unknown	256K / 2048K / 0K	35W	Sep 2008
+Athlon X2 QL-62	Griffin	2-Core	AMD Socket S1	65 nm	2000 MHz	10.0x	unknown	256K / 1024K / 0K	25W	Sep 2008
+Turion X2 Ultra ZM-80	Griffin	2-Core	AMD Socket S1	65 nm	2100 MHz	10.5x	unknown	256K / 2048K / 0K	32W	Jun 2008
+Turion X2 Ultra ZM-82	Griffin	2-Core	AMD Socket S1	65 nm	2200 MHz	11.0x	unknown	256K / 2048K / 0K	35W	Jun 2008
+Turion X2 Ultra ZM-86	Griffin	2-Core	AMD Socket S1	65 nm	2400 MHz	12.0x	unknown	256K / 2048K / 0K	35W	Jun 2008
+Turion X2 Ultra ZM-87	Griffin	2-Core	AMD Socket S1	65 nm	2400 MHz	12.0x	unknown	256K / 2048K / 0K	35W	Jun 2008
+Athlon X2 QL-60	Griffin	2-Core	AMD Socket S1	65 nm	1900 MHz	9.5x	unknown	256K / 1024K / 0K	35W	Jun 2008
+Turion X2 RM-70	Griffin	2-Core	AMD Socket S1	65 nm	2000 MHz	10.0x	unknown	256K / 1024K / 0K	31W	Jun 2006
+Sempron 3600+	Albany	1-Core	AMD Socket 754	90 nm	2200 MHz	11.0x	1.4 V	128K / 128K / 0K	62W	May 2006
+Sempron 3400+	Roma	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.2 V	128K / 256K / 0K	25W	May 2006
+Sempron 3400+	Albany	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.4 V	128K / 256K / 0K	62W	Jan 2006
+Turion 64 ML-44	Lancaster	1-Core	AMD Socket 754	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	35W	Jan 2006
+Turion 64 ML-42	Lancaster	1-Core	AMD Socket 754	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	35W	Oct 2005
+Sempron 3300+	Georgetown	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.4 V	128K / 128K / 0K	62W	Aug 2005
+Athlon 64 4000+	Newark	1-Core	AMD Socket 754	130 nm	2600 MHz	13.0x	1.5 V	128K / 1024K / 0K	62W	Aug 2005
+Turion 64 MT-40	Lancaster	1-Core	AMD Socket 754	90 nm	2200 MHz	11.0x	1.2 V	128K / 1024K / 0K	25W	Aug 2005
+Turion 64 MT-37	Lancaster	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.2 V	128K / 1024K / 0K	25W	Aug 2005
+Sempron 3300+	Albany	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.4 V	128K / 128K / 0K	62W	Jul 2005
+Sempron 3100+	Albany	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	Jul 2005
+Sempron 3000+	Albany	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 128K / 0K	62W	Jul 2005
+Sempron 3000+	Roma	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.2 V	128K / 128K / 0K	25W	Jul 2005
+Sempron 2800+	Roma	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.2 V	128K / 256K / 0K	25W	Jul 2005
+Sempron 3300+	Roma	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.2 V	128K / 128K / 0K	25W	Jul 2005
+Sempron 3100+	Roma	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.2 V	128K / 256K / 0K	25W	Jul 2005
+Turion 64 ML-40	Lancaster	1-Core	AMD Socket 754	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	35W	Jun 2005
+Turion 64 ML-28	Lancaster	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.35 V	128K / 512K / 0K	32W	Jun 2005
+Turion 64 MT-28	Lancaster	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.2 V	128K / 512K / 0K	22W	Jun 2005
+Sempron 3100+	Georgetown	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	62W	May 2005
+Athlon 64 3400+	Newark	1-Core	AMD Socket 754	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	83W	Apr 2005
+Athlon 64 3700+	Newark	1-Core	AMD Socket 754	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	83W	Apr 2005
+Athlon 64 3200+	Newark	1-Core	AMD Socket 754	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	83W	Apr 2005
+Athlon 64 3200+	Newark	1-Core	AMD Socket 754	130 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	62W	Apr 2005
+Athlon 64 3000+	Newark	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.4 V	128K / 1024K / 0K	62W	Apr 2005
+Turion 64 ML-37	Lancaster	1-Core	AMD Socket 754	90 nm	2000 MHz	10.0x	1.35 V	128K / 1024K / 0K	35W	Mar 2005
+Turion 64 ML-34	Lancaster	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.35 V	128K / 1024K / 0K	35W	Mar 2005
+Turion 64 MT-34	Lancaster	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.2 V	128K / 1024K / 0K	25W	Mar 2005
+Turion 64 ML-32	Lancaster	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.35 V	128K / 512K / 0K	35W	Mar 2005
+Turion 64 MT-32	Lancaster	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.2 V	128K / 512K / 0K	25W	Mar 2005
+Turion 64 ML-30	Lancaster	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.35 V	128K / 1024K / 0K	35W	Mar 2005
+Turion 64 MT-30	Lancaster	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.2 V	128K / 1024K / 0K	22W	Mar 2005
+Sempron 3100+	Sonora	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 256K / 0K	25W	Jan 2005
+Sempron 3000+	Sonora	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 128K / 0K	25W	Nov 2004
+Sempron 2800+	Georgetown	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.4 V	128K / 256K / 0K	62W	Jul 2004
+Sempron 3000+	Georgetown	1-Core	AMD Socket 754	90 nm	1800 MHz	9.0x	1.4 V	128K / 128K / 0K	62W	Jul 2004
+Sempron 2600+	Georgetown	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.4 V	128K / 128K / 0K	62W	Jul 2004
+Sempron 2600+	Sonora	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.4 V	128K / 128K / 0K	25W	Jul 2004
+Sempron 2800+	Sonora	1-Core	AMD Socket 754	90 nm	1600 MHz	8.0x	1.4 V	128K / 256K / 0K	25W	Jul 2004
+Athlon 64 3000+	NewCastle	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.2 V	128K / 512K / 0K	32W	Apr 2004
+Athlon 64 2800+	NewCastle	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.2 V	128K / 512K / 0K	32W	Apr 2004
+Athlon 64 2700+	NewCastle	1-Core	AMD Socket 754	130 nm	1600 MHz	8.0x	1.2 V	128K / 512K / 0K	32W	Apr 2004
+Athlon XP-M 2200+	Thoroughbred	1-Core	AMD Socket A	130 nm	1800 MHz	13.5x	1.45 V	128K / 256K / 0K	45W	Nov 2002
+Sempron 2800+	Paris	1-Core	AMD Socket 754	130 nm	1600 MHz	8.0x	1.25 V	128K / 256K / 0K	25W	Jan 2001
+Sempron 2600+	Paris	1-Core	AMD Socket 754	130 nm	1600 MHz	8.0x	1.25 V	128K / 128K / 0K	25W	Jan 2001
+Athlon XP-M 3000+	Barton	1-Core	AMD Socket A	130 nm	2200 MHz	16.5x	1.65 V	128K / 512K / 0K	45W	Jan 2001
+Athlon XP-M 2600+	Barton	1-Core	AMD Socket A	130 nm	2000 MHz	15.0x	1.45 V	128K / 512K / 0K	45W	Jan 2001
+Athlon XP-M 2500+	Barton	1-Core	AMD Socket A	130 nm	1862 MHz	14.0x	1.45 V	128K / 512K / 0K	45W	Jan 2001
+Athlon XP-M 2400+	Barton	1-Core	AMD Socket A	130 nm	1800 MHz	13.5x	1.45 V	128K / 512K / 0K	45W	Jan 2001
+Athlon XP-M 2200+	Barton	1-Core	AMD Socket A	130 nm	1667 MHz	12.5x	1.35 V	128K / 512K / 0K	45W	Jan 2001
+Athlon XP-M 2000+	Barton	1-Core	AMD Socket A	130 nm	1533 MHz	11.5x	1.35 V	128K / 512K / 0K	45W	Jan 2001
+Sempron 3000+	Paris	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.25 V	128K / 128K / 0K	25W	Jan 2001
+Sempron 3100+	Paris	1-Core	AMD Socket 754	130 nm	1800 MHz	9.0x	1.25 V	128K / 256K / 0K	25W	Jan 2001
+AMD Server/Workstation
+Name	Codename	Cores	Socket	Process	Clock	Multi	Voltage	Cache L1/L2/L3	TDP	Released
+Opteron 43CX EE	Seoul	4-Core	AMD Socket C32	32 nm	2200 MHz	11.0x	unknown	192K / 4096K / 8192K	35W	Dec 2012
+Opteron 4310 EE	Seoul	4-Core	AMD Socket C32	32 nm	2200 MHz	11.0x	unknown	192K / 4096K / 8192K	35W	Dec 2012
+Opteron 4334	Seoul	6-Core	AMD Socket C32	32 nm	3100 MHz	15.5x	unknown	288K / 6144K / 8192K	95W	Dec 2012
+Opteron 4340	Seoul	6-Core	AMD Socket C32	32 nm	3500 MHz	17.5x	unknown	288K / 6144K / 8192K	95W	Dec 2012
+Opteron 4332 HE	Seoul	6-Core	AMD Socket C32	32 nm	3000 MHz	15.0x	unknown	288K / 6144K / 8192K	65W	Dec 2012
+Opteron 4386	Seoul	8-Core	AMD Socket C32	32 nm	3100 MHz	15.5x	unknown	384K / 8192K / 8192K	95W	Dec 2012
+Opteron 43GK HE	Seoul	8-Core	AMD Socket C32	32 nm	2600 MHz	13.0x	unknown	384K / 8192K / 8192K	65W	Dec 2012
+Opteron 4376 HE	Seoul	8-Core	AMD Socket C32	32 nm	2600 MHz	13.0x	unknown	384K / 8192K / 8192K	65W	Dec 2012
+Opteron 3320 EE	Delhi	4-Core	AMD Socket AM3+	32 nm	1900 MHz	9.5x	unknown	192K / 4096K / 8192K	25W	Dec 2012
+Opteron 3350 HE	Delhi	4-Core	AMD Socket AM3+	32 nm	2800 MHz	14.0x	unknown	192K / 4096K / 8192K	45W	Dec 2012
+Opteron 3380	Delhi	8-Core	AMD Socket AM3+	32 nm	2600 MHz	13.0x	unknown	384K / 8192K / 8192K	65W	Dec 2012
+Opteron 6386 SE	Abu Dhabi	16-Core	AMD Socket G34	32 nm	2800 MHz	14.0x	unknown	768K / 16384K / 8192K	140W	Nov 2012
+Opteron 6380	Abu Dhabi	16-Core	AMD Socket G34	32 nm	2500 MHz	12.5x	unknown	768K / 16384K / 8192K	115W	Nov 2012
+Opteron 6378	Abu Dhabi	16-Core	AMD Socket G34	32 nm	2400 MHz	12.0x	unknown	768K / 16384K / 8192K	115W	Nov 2012
+Opteron 6376	Abu Dhabi	16-Core	AMD Socket G34	32 nm	2300 MHz	11.5x	unknown	768K / 16384K / 8192K	115W	Nov 2012
+Opteron 6366 HE	Abu Dhabi	16-Core	AMD Socket G34	32 nm	1800 MHz	9.0x	unknown	768K / 16384K / 8192K	85W	Nov 2012
+Opteron 6348	Abu Dhabi	12-Core	AMD Socket G34	32 nm	2800 MHz	14.0x	unknown	576K / 12288K / 8192K	115W	Nov 2012
+Opteron 6284 SE	Interlagos	16-Core	AMD Socket G34	32 nm	2700 MHz	13.5x	unknown	768K / 16384K / 8192K	140W	May 2012
+Opteron 6278	Interlagos	16-Core	AMD Socket G34	32 nm	2400 MHz	12.0x	unknown	768K / 16384K / 8192K	115W	May 2012
+Opteron 6262 HE	Interlagos	16-Core	AMD Socket G34	32 nm	1600 MHz	8.0x	unknown	768K / 8196K / 16384K	85W	Nov 2011
+Opteron 6282 SE	Interlagos	16-Core	AMD Socket G34	32 nm	2600 MHz	13.0x	unknown	768K / 16384K / 8192K	140W	Nov 2011
+Opteron 6276	Interlagos	16-Core	AMD Socket G34	32 nm	2300 MHz	11.5x	unknown	768K / 16384K / 8192K	115W	Nov 2011
+Opteron 6274	Interlagos	16-Core	AMD Socket G34	32 nm	2200 MHz	11.0x	unknown	768K / 8196K / 16384K	115W	Nov 2011
+Opteron 6272	Interlagos	16-Core	AMD Socket G34	32 nm	2100 MHz	11.0x	unknown	768K / 8196K / 16384K	115W	Nov 2011
+Opteron 6168	Magny-Cours	12-Core	AMD Socket G34	45 nm	1900 MHz	9.5x	1.1875 V	768K / 6144K / 12288K	115W	Mar 2010
+Opteron 2350 HE	Barcelona	4-Core	AMD Socket Fr2	65 nm	2000 MHz	10.0x	1.25 V	256K / 2048K / 2048K	79W	Oct 2008
+Opteron 856	Athens	1-Core	AMD Socket 940	90 nm	3000 MHz	15.0x	1.4 V	128K / 1024K / 0K	92W	Apr 2006
+Opteron X2 185	Denmark	2-Core	AMD Socket 939	90 nm	2600 MHz	13.0x	1.35 V	128K / 1024K / 0K	110W	Mar 2006
+Opteron X2 285	Italy	2-Core	AMD Socket 940	90 nm	2600 MHz	13.0x	1.35 V	128K / 1024K / 0K	95W	Mar 2006
+Opteron X2 885	Egypt	2-Core	AMD Socket 940	90 nm	2600 MHz	13.0x	1.35 V	128K / 1024K / 0K	95W	Mar 2006
+Opteron X2 890	Egypt	2-Core	AMD Socket 940	90 nm	2800 MHz	14.0x	1.35 V	128K / 1024K / 0K	95W	Mar 2006
+Opteron X2 275 HE	Italy	2-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	55W	Feb 2006
+Opteron X2 875 HE	Egypt	2-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	55W	Feb 2006
+Opteron X2 290	Italy	2-Core	AMD Socket 940	90 nm	2800 MHz	14.0x	1.35 V	128K / 1024K / 0K	95W	Jan 2006
+Opteron X2 870 HE	Egypt	2-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.35 V	128K / 1024K / 0K	55W	Dec 2005
+Opteron X2 270 HE	Italy	2-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.35 V	128K / 1024K / 0K	55W	Dec 2005
+Opteron X2 880	Egypt	2-Core	AMD Socket 940	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	95W	Sep 2005
+Opteron X2 280	Italy	2-Core	AMD Socket 940	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	95W	Sep 2005
+Opteron X2 875	Egypt	2-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	95W	Sep 2005
+Opteron X2 870	Egypt	2-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.35 V	128K / 1024K / 0K	95W	Sep 2005
+Opteron X2 865	Egypt	2-Core	AMD Socket 940	90 nm	1800 MHz	9.0x	1.35 V	128K / 1024K / 0K	95W	Sep 2005
+Opteron X2 180	Denmark	2-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.35 V	128K / 1024K / 0K	110W	Sep 2005
+Opteron X2 175	Denmark	2-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	110W	Aug 2005
+Opteron X2 170	Denmark	2-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.35 V	128K / 1024K / 0K	110W	Aug 2005
+Opteron X2 165	Denmark	2-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.35 V	128K / 1024K / 0K	110W	Aug 2005
+Opteron 154	Venus	1-Core	AMD Socket 939	90 nm	2800 MHz	14.0x	1.4 V	128K / 1024K / 0K	104W	Aug 2005
+Opteron 152	Venus	1-Core	AMD Socket 939	90 nm	2600 MHz	13.0x	1.4 V	128K / 1024K / 0K	104W	Aug 2005
+Opteron 150	Venus	1-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	85W	Aug 2005
+Opteron 148	Venus	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	85W	Aug 2005
+Opteron 146	Venus	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	67W	Aug 2005
+Opteron 144	Venus	1-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.4 V	128K / 1024K / 0K	67W	Aug 2005
+Opteron 152	Venus	1-Core	AMD Socket 939	90 nm	2600 MHz	13.0x	1.4 V	128K / 1024K / 0K	104W	Aug 2005
+Opteron 150	Venus	1-Core	AMD Socket 939	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	85W	Aug 2005
+Opteron 144	Venus	1-Core	AMD Socket 939	90 nm	1800 MHz	9.0x	1.4 V	128K / 1024K / 0K	67W	Aug 2005
+Opteron 146	Venus	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	67W	Aug 2005
+Opteron 148	Venus	1-Core	AMD Socket 939	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	85W	Aug 2005
+Opteron 146	Venus	1-Core	AMD Socket 939	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	67W	Aug 2005
+Opteron X2 865 HE	Egypt	2-Core	AMD Socket 940	90 nm	1800 MHz	9.0x	1.35 V	128K / 1024K / 0K	55W	Aug 2005
+Opteron X2 265 HE	Italy	2-Core	AMD Socket 940	90 nm	1800 MHz	9.0x	1.35 V	128K / 1024K / 0K	55W	Aug 2005
+Opteron X2 860 HE	Egypt	2-Core	AMD Socket 940	90 nm	1600 MHz	8.0x	1.35 V	128K / 1024K / 0K	55W	Aug 2005
+Opteron X2 260 HE	Italy	2-Core	AMD Socket 940	90 nm	1600 MHz	8.0x	1.35 V	128K / 1024K / 0K	55W	Aug 2005
+Opteron 854	Athens	1-Core	AMD Socket 940	90 nm	2800 MHz	14.0x	1.4 V	128K / 1024K / 0K	92W	Aug 2005
+Opteron 254	Troy	1-Core	AMD Socket 940	90 nm	2800 MHz	14.0x	1.4 V	128K / 1024K / 0K	92W	Aug 2005
+Opteron X2 275	Italy	2-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.35 V	128K / 1024K / 0K	95W	May 2005
+Opteron X2 270	Italy	2-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.35 V	128K / 1024K / 0K	95W	May 2005
+Opteron X2 265	Italy	2-Core	AMD Socket 940	90 nm	1800 MHz	9.0x	1.35 V	128K / 1024K / 0K	95W	May 2005
+Opteron 156	Venus	1-Core	AMD Socket 939	90 nm	3000 MHz	15.0x	1.4 V	128K / 1024K / 0K	104W	May 2005
+Opteron 850 HE	Athens	1-Core	AMD Socket 940	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	55W	Mar 2005
+Opteron 250 HE	Troy	1-Core	AMD Socket 940	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	55W	Mar 2005
+Opteron 848 HE	Athens	1-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	55W	Mar 2005
+Opteron 248 HE	Troy	1-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	55W	Mar 2005
+Opteron 246 HE	Troy	1-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	55W	Mar 2005
+Opteron 846 HE	Athens	1-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	55W	Mar 2005
+Opteron 852	Athens	1-Core	AMD Socket 940	90 nm	2600 MHz	13.0x	1.4 V	128K / 1024K / 0K	92W	Feb 2005
+Opteron 252	Troy	1-Core	AMD Socket 940	90 nm	2600 MHz	13.0x	1.4 V	128K / 1024K / 0K	92W	Feb 2005
+Opteron 850	Athens	1-Core	AMD Socket 940	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 250	Troy	1-Core	AMD Socket 940	90 nm	2400 MHz	12.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 848	Athens	1-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 248	Troy	1-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 846	Athens	1-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 246	Troy	1-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 844	Athens	1-Core	AMD Socket 940	90 nm	1800 MHz	9.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 244	Troy	1-Core	AMD Socket 940	90 nm	1800 MHz	9.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 842	Athens	1-Core	AMD Socket 940	90 nm	1600 MHz	8.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 242	Troy	1-Core	AMD Socket 940	90 nm	1600 MHz	8.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 148 HE	Venus	1-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	55W	Dec 2004
+Opteron 246	Troy	1-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 248	Troy	1-Core	AMD Socket 940	90 nm	2200 MHz	11.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 846	Athens	1-Core	AMD Socket 940	90 nm	2000 MHz	10.0x	1.4 V	128K / 1024K / 0K	85W	Dec 2004
+Opteron 150	SledgeHammer	1-Core	AMD Socket 940	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	May 2004
+Opteron 846 HE	SledgeHammer	1-Core	AMD Socket 940	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	55W	May 2004
+Opteron 144	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 840	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 140	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 240	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 840 EE	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.15 V	128K / 1024K / 0K	30W	May 2004
+Opteron 850	SledgeHammer	1-Core	AMD Socket 940	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	May 2004
+Opteron 250	SledgeHammer	1-Core	AMD Socket 940	130 nm	2400 MHz	12.0x	1.5 V	128K / 1024K / 0K	89W	May 2004
+Opteron 848	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	May 2004
+Opteron 248	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	May 2004
+Opteron 148	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	May 2004
+Opteron 242	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 842	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 142	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 244	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 844	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.5 V	128K / 1024K / 0K	82W	May 2004
+Opteron 140 EE	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.15 V	128K / 1024K / 0K	30W	Feb 2004
+Opteron 240 EE	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.15 V	128K / 1024K / 0K	30W	Feb 2004
+Opteron 146 HE	SledgeHammer	1-Core	AMD Socket 940	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	55W	Feb 2004
+Opteron 246 HE	SledgeHammer	1-Core	AMD Socket 940	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	55W	Feb 2004
+Opteron 848	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	Nov 2003
+Opteron 148	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	Nov 2003
+Opteron 248	SledgeHammer	1-Core	AMD Socket 940	130 nm	2200 MHz	11.0x	1.5 V	128K / 1024K / 0K	89W	Nov 2003
+Opteron 846	SledgeHammer	1-Core	AMD Socket 940	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	89W	Sep 2003
+Opteron 842	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.5 V	128K / 1024K / 0K	82W	Sep 2003
+Opteron 140	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.5 V	128K / 1024K / 0K	82W	Sep 2003
+Opteron 840	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.5 V	128K / 1024K / 0K	82W	Sep 2003
+Opteron 144	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.5 V	128K / 1024K / 0K	82W	Sep 2003
+Opteron 142	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.5 V	128K / 1024K / 0K	82W	Sep 2003
+Opteron 844	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.5 V	128K / 1024K / 0K	82W	Sep 2003
+Opteron 146	SledgeHammer	1-Core	AMD Socket 940	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	89W	Sep 2003
+Opteron 240	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.5 V	128K / 1024K / 0K	82W	Aug 2003
+Opteron 242	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.5 V	128K / 1024K / 0K	82W	Aug 2003
+Opteron 244	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.5 V	128K / 1024K / 0K	82W	Aug 2003
+Opteron 246	SledgeHammer	1-Core	AMD Socket 940	130 nm	2000 MHz	10.0x	1.5 V	128K / 1024K / 0K	89W	Aug 2003
+Opteron 144	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.55 V	128K / 1024K / 0K	85W	Jun 2003
+Opteron 842	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.55 V	128K / 1024K / 0K	85W	Jun 2003
+Opteron 140	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.55 V	128K / 1024K / 0K	85W	Jun 2003
+Opteron 840	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.55 V	128K / 1024K / 0K	85W	Jun 2003
+Opteron 142	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.55 V	128K / 1024K / 0K	85W	Jun 2003
+Opteron 844	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.55 V	128K / 1024K / 0K	85W	Jun 2003
+Opteron 240	SledgeHammer	1-Core	AMD Socket 940	130 nm	1400 MHz	7.0x	1.55 V	128K / 1024K / 0K	85W	Apr 2003
+Opteron 242	SledgeHammer	1-Core	AMD Socket 940	130 nm	1600 MHz	8.0x	1.55 V	128K / 1024K / 0K	85W	Apr 2003
+Opteron 244	SledgeHammer	1-Core	AMD Socket 940	130 nm	1800 MHz	9.0x	1.55 V	128K / 1024K / 0K	85W	Apr 2003
+Intel
+Name	Codename	Cores	Socket	Process	Clock	Multi	Voltage	Cache L1/L2/L3	TDP	Released
+Core i5-4690K	Devils Canyon	4-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 6144K	88W	Jun 2014
+Core i7-5820K	Haswell-E	6-Core	Intel Socket 2011-3	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 15360K	140W	Jun 2014
+Core i7-5930K	Haswell-E	6-Core	Intel Socket 2011-3	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 15360K	140W	Jun 2014
+Core i7-5960X	Haswell-E	6-Core	Intel Socket 2011-3	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 20480K	140W	Jun 2014
+Core i7-4790	Haswell	4-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	84W	May 2014
+Core i5-4690	Haswell	4-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 6144K	84W	May 2014
+Core i3-4360	Haswell	2-Core	Intel Socket 1150	22 nm	3700 MHz	37.0x	unknown	64K / 256K / 4096K	54W	May 2014
+Core i5-4590	Haswell	4-Core	Intel Socket 1150	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 6144K	84W	May 2014
+Pentium G3450	Haswell	2-Core	Intel Socket 1150	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 3072K	54W	May 2014
+Celeron G1840	Haswell	2-Core	Intel Socket 1150	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	54W	May 2014
+Core i7-4790S	Haswell	4-Core	Intel Socket 1150	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	65W	May 2014
+Core i5-4590S	Haswell	4-Core	Intel Socket 1150	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 6144K	65W	May 2014
+Core i3-4150T	Haswell	2-Core	Intel Socket 1150	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	35W	May 2014
+Core i7-4790K	Devils Canyon	4-Core	Intel Socket 1150	22 nm	4000 MHz	40.0x	unknown	64K / 256K / 8192K	88W	May 2014
+Core i7-4960X	Ivy Bridge-E	6-Core	Intel Socket 2011	22 nm	3600 MHz	36.0x	1.35 V	64K / 256K / 15360K	130W	Sep 2013
+Core i7-4930K	Ivy Bridge-E	6-Core	Intel Socket 2011	22 nm	3400 MHz	34.0x	1.35 V	64K / 256K / 12288K	130W	Sep 2013
+Core i7-4820K	Ivy Bridge-E	4-Core	Intel Socket 2011	22 nm	3700 MHz	37.0x	1.35 V	64K / 256K / 10240K	130W	Sep 2013
+Core i7-4771	Haswell	4-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	84W	Sep 2013
+Core i3-4340	Haswell	2-Core	Intel Socket 1150	22 nm	3600 MHz	36.0x	unknown	64K / 256K / 4096K	54W	Sep 2013
+Core i3-4330	Haswell	2-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 4096K	54W	Sep 2013
+Core i3-4330T	Haswell	2-Core	Intel Socket 1150	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 4096K	35W	Sep 2013
+Core i3-4130T	Haswell	2-Core	Intel Socket 1150	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	35W	Sep 2013
+Core i3-4130	Haswell	2-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 3072K	54W	Sep 2013
+Pentium G3430	Haswell	2-Core	Intel Socket 1150	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 3072K	54W	Sep 2013
+Pentium G3420	Haswell	2-Core	Intel Socket 1150	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 3072K	54W	Sep 2013
+Pentium G3420T	Haswell	2-Core	Intel Socket 1150	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	35W	Sep 2013
+Pentium G3220	Haswell	2-Core	Intel Socket 1150	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 3072K	54W	Sep 2013
+Core i5-4440	Haswell	4-Core	Intel Socket 1150	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	84W	Sep 2013
+Core i5-4440S	Haswell	4-Core	Intel Socket 1150	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 6144K	65W	Sep 2013
+Pentium G3220T	Haswell	2-Core	Intel Socket 1150	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Sep 2013
+Celeron G1630	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 2048K	55W	Sep 2013
+Celeron G1620T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 2048K	35W	Sep 2013
+Core i7-3910K	Sandy Bridge-E	6-Core	Intel Socket 2011	32 nm	3000 MHz	30.0x	1.35 V	64K / 256K / 12288K	130W	Jul 2013
+Core i7-4770K	Haswell	4-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	84W	Jun 2013
+Core i5-4670K	Haswell	4-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 6144K	84W	Jun 2013
+Core i5-4430	Haswell	4-Core	Intel Socket 1150	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 6144K	84W	Jun 2013
+Core i5-4430S	Haswell	4-Core	Intel Socket 1150	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 6144K	65W	Jun 2013
+Core i5-4570T	Haswell	2-Core	Intel Socket 1150	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 4096K	35W	Jun 2013
+Core i7-4770	Haswell	4-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	84W	Jun 2013
+Core i7-4770S	Haswell	4-Core	Intel Socket 1150	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	65W	Jun 2013
+Core i7-4770T	Haswell	4-Core	Intel Socket 1150	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	45W	Jun 2013
+Core i7-4765T	Haswell	4-Core	Intel Socket 1150	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 8192K	35W	Jun 2013
+Core i5-4670	Haswell	4-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 6144K	84W	Jun 2013
+Core i5-4570	Haswell	4-Core	Intel Socket 1150	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 6144K	84W	Jun 2013
+Core i5-4670S	Haswell	4-Core	Intel Socket 1150	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	65W	Jun 2013
+Core i5-4670T	Haswell	4-Core	Intel Socket 1150	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Jun 2013
+Core i5-4570S	Haswell	4-Core	Intel Socket 1150	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 6144K	65W	Jun 2013
+Core i7-4770R	Haswell	4-Core	Intel BGA1364	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 6144K	65W	Jun 2013
+Core i5-4670R	Haswell	4-Core	Intel BGA1364	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 4096K	65W	Jun 2013
+Core i5-4570R	Haswell	4-Core	Intel BGA1364	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 4096K	65W	Jun 2013
+Core i5-4570TE	Haswell	2-Core	Intel Socket 1150	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 4096K	35W	Jun 2013
+Core i7-4770TE	Haswell	4-Core	Intel Socket 1150	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 8192K	45W	Jun 2013
+Pentium G2020	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	55W	Jan 2013
+Pentium G2010	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	55W	Jan 2013
+Pentium G2020T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Pentium G2130	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 3072K	55W	Jan 2013
+Core i3-3210	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 3072K	55W	Jan 2013
+Celeron G1610	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 2048K	55W	Dec 2012
+Celeron G1620	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 2048K	55W	Dec 2012
+Celeron G1610T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 2048K	35W	Dec 2012
+Core i5-3335S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 6144K	65W	Nov 2012
+Core i7-3970X	Sandy Bridge-E	6-Core	Intel Socket 2011	32 nm	3500 MHz	35.0x	1.35 V	64K / 256K / 15360K	150W	Nov 2012
+Core i3-3225	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 3072K	55W	Sep 2012
+Core i3-3220T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Core i3-3220	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 3072K	55W	Sep 2012
+Core i3-3240	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 3072K	55W	Sep 2012
+Core i3-3240T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Core i5-3330	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 6144K	77W	Sep 2012
+Core i5-3330S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 6144K	77W	Sep 2012
+Core i5-3350P	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	69W	Sep 2012
+Pentium G2120	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 3072K	55W	Sep 2012
+Pentium G2100T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Pentium G645	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	65W	Sep 2012
+Pentium G645T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Celeron G555	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2700 MHz	27.0x	unknown	64K / 256K / 2048K	65W	Sep 2012
+Celeron G465	Sandy Bridge	1-Core	Intel Socket 1155	32 nm	1900 MHz	19.0x	unknown	64K / 256K / 1536K	35W	Sep 2012
+Pentium G640	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	65W	Jun 2012
+Pentium G870	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 3072K	65W	Jun 2012
+Pentium G640T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Pentium G860T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3470	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 6144K	77W	Jun 2012
+Core i5-3470S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 6144K	65W	Jun 2012
+Core i5-3470T	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3475S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 6144K	65W	Jun 2012
+Core i5-3570	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 6144K	77W	Jun 2012
+Core i5-3570S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	65W	Jun 2012
+Celeron G550	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 2048K	65W	Jun 2012
+Core i3-2115C	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2000 MHz	20.0x	unknown	64K / 256K / 3072K	65W	May 2012
+Core i7-3770K	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3500 MHz	35.0x	1.025 V	64K / 256K / 8192K	77W	Apr 2012
+Core i7-3770	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	77W	Apr 2012
+Core i7-3770S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	65W	Apr 2012
+Core i7-3770T	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	45W	Apr 2012
+Core i5-3570K	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3400 MHz	34.0x	1.2 V	64K / 256K / 6144K	77W	Apr 2012
+Core i5-3550	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 6144K	77W	Apr 2012
+Core i5-3550S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 6144K	65W	Apr 2012
+Core i5-3570T	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i5-3450	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	77W	Apr 2012
+Core i5-3450S	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 6144K	65W	Apr 2012
+Core i7-3820	Sandy Bridge-E	4-Core	Intel Socket 2011	32 nm	3600 MHz	36.0x	1.35 V	64K / 256K / 10240K	130W	Feb 2012
+Core i5-2550K	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3400 MHz	34.0x	unknown	64K / 256K / 6144K	95W	Jan 2012
+Core i5-2450P	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3200 MHz	32.0x	unknown	64K / 256K / 6144K	95W	Jan 2012
+Core i5-2380P	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	95W	Jan 2012
+Celeron G460	Sandy Bridge	1-Core	Intel Socket 1155	32 nm	1800 MHz	18.0x	unknown	64K / 256K / 1536K	35W	Dec 2011
+Core i7-3960X	Sandy Bridge-E	6-Core	Intel Socket 2011	32 nm	3300 MHz	33.0x	1.35 V	64K / 256K / 15360K	130W	Nov 2011
+Core i7-3930K	Sandy Bridge-E	6-Core	Intel Socket 2011	32 nm	3200 MHz	32.0x	1.35 V	64K / 256K / 12288K	130W	Nov 2011
+Core i7-2700K	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	95W	Oct 2011
+Core i3-2130	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3400 MHz	34.0x	unknown	64K / 256K / 3072K	65W	Sep 2011
+Core i3-2125	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3300 MHz	33.0x	unknown	64K / 256K / 3072K	65W	Sep 2011
+Core i3-2120T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Core i5-2320	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3000 MHz	30.0x	unknown	64K / 256K / 6144K	95W	Sep 2011
+Pentium G630	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	65W	Sep 2011
+Pentium G630T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Pentium G632	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	65W	Sep 2011
+Pentium G860	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3000 MHz	30.0x	unknown	64K / 256K / 3072K	65W	Sep 2011
+Celeron G530	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 2048K	65W	Sep 2011
+Celeron G540	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 2048K	65W	Sep 2011
+Celeron G530T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2000 MHz	20.0x	unknown	64K / 256K / 2048K	35W	Sep 2011
+Celeron G440	Sandy Bridge	1-Core	Intel Socket 1155	32 nm	1600 MHz	16.0x	unknown	64K / 256K / 1024K	35W	Sep 2011
+Celeron G550T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 2048K	35W	Sep 2011
+Celeron G540T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 2048K	35W	Sep 2011
+Core i7-980	Gulftown	6-Core	Intel Socket 1366	32 nm	3333 MHz	25.0x	1.3 V	64K / 256K / 12288K	130W	Jun 2011
+Core i3-2102	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 3072K	65W	Jun 2011
+Core i5-2405S	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 6144K	65W	May 2011
+Core i5-2310	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2900 MHz	29.0x	unknown	64K / 256K / 6144K	95W	May 2011
+Core i3-2105	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 3072K	65W	May 2011
+Pentium G620	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	65W	May 2011
+Pentium G620T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	35W	May 2011
+Pentium G622	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	65W	May 2011
+Pentium G840	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	65W	May 2011
+Pentium G850	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	65W	May 2011
+Core i7-990X	Gulftown	6-Core	Intel Socket 1366	32 nm	3466 MHz	26.0x	1.375 V	64K / 256K / 12288K	130W	Feb 2011
+Core i5-2390T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i3-2100	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 3072K	65W	Feb 2011
+Core i3-2100T	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i3-2120	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	3300 MHz	33.0x	unknown	64K / 256K / 3072K	65W	Feb 2011
+Core i7-2600K	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	95W	Jan 2011
+Pentium G6960	Clarkdale	2-Core	Intel Socket 1156	32 nm	2933 MHz	22.0x	1.4 V	64K / 256K / 3072K	73W	Jan 2011
+Core i7-2600	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	95W	Jan 2011
+Core i5-2500K	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3300 MHz	33.0x	unknown	64K / 256K / 6144K	95W	Jan 2011
+Core i5-2500	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3300 MHz	33.0x	unknown	64K / 256K / 6144K	95W	Jan 2011
+Core i5-2500S	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2700 MHz	27.0x	unknown	64K / 256K / 6144K	65W	Jan 2011
+Core i7-2600S	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2800 MHz	28.0x	unknown	64K / 256K / 8192K	65W	Jan 2011
+Core i5-2500T	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Core i5-2300	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2800 MHz	28.0x	unknown	64K / 256K / 6144K	95W	Jan 2011
+Core i5-2400	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	95W	Jan 2011
+Core i5-2400S	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 6144K	65W	Jan 2011
+Pentium E5800	Wolfdale	2-Core	Intel Socket 775	45 nm	3200 MHz	16.0x	1.3625 V	64K / 2048K / 0K	65W	Nov 2010
+Pentium G6951	Clarkdale	2-Core	Intel Socket 1156	32 nm	2800 MHz	21.0x	1.4 V	64K / 256K / 3072K	73W	Sep 2010
+Core i3-560	Clarkdale	2-Core	Intel Socket 1156	32 nm	3333 MHz	25.0x	1.4 V	64K / 256K / 4096K	73W	Aug 2010
+Celeron E3500	Wolfdale	2-Core	Intel Socket 775	45 nm	2700 MHz	13.5x	1.3625 V	64K / 1024K / 0K	65W	Aug 2010
+Pentium E6800	Wolfdale	2-Core	Intel Socket 775	45 nm	3333 MHz	12.5x	1.3625 V	64K / 2048K / 0K	65W	Aug 2010
+Pentium E5700	Wolfdale	2-Core	Intel Socket 775	45 nm	3000 MHz	15.0x	1.3625 V	64K / 2048K / 0K	65W	Aug 2010
+Core i7-870S	Lynnfield	4-Core	Intel Socket 1156	45 nm	2666 MHz	20.0x	1.4 V	64K / 256K / 8192K	82W	Jul 2010
+Core i7-970	Gulftown	6-Core	Intel Socket 1366	32 nm	3200 MHz	24.0x	1.3 V	64K / 256K / 12288K	130W	Jul 2010
+Core i5-760	Lynnfield	4-Core	Intel Socket 1156	45 nm	2800 MHz	21.0x	1.4 V	64K / 256K / 8192K	95W	Jul 2010
+Core i7-875K	Lynnfield	4-Core	Intel Socket 1156	45 nm	2933 MHz	22.0x	1.4 V	64K / 256K / 8192K	95W	May 2010
+Core i7-880	Lynnfield	4-Core	Intel Socket 1156	45 nm	3066 MHz	23.0x	1.4 V	64K / 256K / 8192K	95W	May 2010
+Core i5-655K	Clarkdale	2-Core	Intel Socket 1156	32 nm	3200 MHz	24.0x	1.4 V	64K / 256K / 4096K	73W	May 2010
+Core i3-550	Clarkdale	2-Core	Intel Socket 1156	32 nm	3200 MHz	24.0x	1.4 V	64K / 256K / 4096K	73W	May 2010
+Pentium E6700	Wolfdale	2-Core	Intel Socket 775	45 nm	3200 MHz	12.0x	1.3625 V	64K / 2048K / 0K	65W	May 2010
+Core i5-680	Clarkdale	2-Core	Intel Socket 1156	32 nm	3600 MHz	27.0x	1.4 V	64K / 256K / 4096K	73W	Apr 2010
+Pentium E5500	Wolfdale	2-Core	Intel Socket 775	45 nm	2800 MHz	14.0x	1.3625 V	64K / 2048K / 0K	65W	Apr 2010
+Core i7-980X	Gulftown	6-Core	Intel Socket 1366	32 nm	3333 MHz	25.0x	1.375 V	64K / 256K / 12288K	130W	Mar 2010
+Core i7-930	Bloomfield	4-Core	Intel Socket 1366	45 nm	2800 MHz	21.0x	1.375 V	64K / 256K / 8192K	130W	Feb 2010
+Celeron E3400	Wolfdale	2-Core	Intel Socket 775	45 nm	2600 MHz	13.0x	1.3625 V	64K / 1024K / 0K	65W	Jan 2010
+Pentium E6600	Wolfdale	2-Core	Intel Socket 775	45 nm	3067 MHz	11.5x	1.3625 V	64K / 2048K / 0K	65W	Jan 2010
+Core i7-860S	Lynnfield	4-Core	Intel Socket 1156	45 nm	2533 MHz	19.0x	1.4 V	64K / 256K / 8192K	82W	Jan 2010
+Core i5-750s	Lynnfield	4-Core	Intel Socket 1156	45 nm	2400 MHz	18.0x	1.4 V	64K / 256K / 8192K	82W	Jan 2010
+Core i5-670	Clarkdale	2-Core	Intel Socket 1156	32 nm	3466 MHz	26.0x	1.4 V	64K / 256K / 4096K	73W	Jan 2010
+Core i5-660	Clarkdale	2-Core	Intel Socket 1156	32 nm	3333 MHz	25.0x	1.4 V	64K / 256K / 4096K	73W	Jan 2010
+Core i5-650	Clarkdale	2-Core	Intel Socket 1156	32 nm	3200 MHz	24.0x	1.4 V	64K / 256K / 4096K	73W	Jan 2010
+Core i3-540	Clarkdale	2-Core	Intel Socket 1156	32 nm	3066 MHz	23.0x	1.4 V	64K / 256K / 4096K	73W	Jan 2010
+Core i3-530	Clarkdale	2-Core	Intel Socket 1156	32 nm	2933 MHz	22.0x	1.4 V	64K / 256K / 4096K	73W	Jan 2010
+Core i5-661	Clarkdale	2-Core	Intel Socket 1156	32 nm	3333 MHz	25.0x	1.4 V	64K / 256K / 4096K	87W	Jan 2010
+Pentium G6950	Clarkdale	2-Core	Intel Socket 1156	32 nm	2800 MHz	21.0x	1.4 V	64K / 256K / 3072K	73W	Jan 2010
+Celeron G1101	Clarkdale	2-Core	Intel Socket 1156	32 nm	2266 MHz	17.0x	1.4 V	64K / 256K / 2048K	73W	Jan 2010
+Core i7-960	Bloomfield	4-Core	Intel Socket 1366	45 nm	3200 MHz	24.0x	1.375 V	64K / 256K / 8192K	130W	Oct 2009
+Core i7-870	Lynnfield	4-Core	Intel Socket 1156	45 nm	2933 MHz	22.0x	1.4 V	64K / 256K / 8192K	95W	Sep 2009
+Core i7-860	Lynnfield	4-Core	Intel Socket 1156	45 nm	2800 MHz	21.0x	1.4 V	64K / 256K / 8192K	95W	Sep 2009
+Core i5-750	Lynnfield	4-Core	Intel Socket 1156	45 nm	2666 MHz	20.0x	1.4 V	64K / 256K / 8192K	95W	Sep 2009
+Celeron E3200	Wolfdale	2-Core	Intel Socket 775	45 nm	2400 MHz	12.0x	1.3625 V	64K / 1024K / 0K	65W	Aug 2009
+Celeron E3300	Wolfdale	2-Core	Intel Socket 775	45 nm	2500 MHz	12.5x	1.3625 V	64K / 1024K / 0K	65W	Aug 2009
+Pentium E6500	Wolfdale	2-Core	Intel Socket 775	45 nm	2933 MHz	11.0x	1.3625 V	64K / 2048K / 0K	65W	Aug 2009
+Pentium E6500K	Wolfdale	2-Core	Intel Socket 775	45 nm	2933 MHz	11.0x	1.3625 V	64K / 2048K / 0K	65W	Aug 2009
+Core i7-975	Bloomfield	4-Core	Intel Socket 1366	45 nm	3333 MHz	25.0x	1.375 V	64K / 256K / 8192K	130W	Jun 2009
+Core i7-950	Bloomfield	4-Core	Intel Socket 1366	45 nm	3066 MHz	23.0x	1.375 V	64K / 256K / 8192K	130W	Jun 2009
+Pentium Dual-Core E2210	Wolfdale	2-Core	Intel Socket 775	45 nm	2200 MHz	11.0x	1.5 V	64K / 1024K / 0K	65W	Jun 2009
+Celeron E1600	Allendale	2-Core	Intel Socket 775	65 nm	2400 MHz	12.0x	1.5 V	64K / 512K / 0K	65W	May 2009
+Core 2 Duo E7600	Wolfdale	2-Core	Intel Socket 775	45 nm	3067 MHz	11.5x	0.9 V	64K / 3072K / 0K	65W	May 2009
+Pentium E6300	Wolfdale	2-Core	Intel Socket 775	45 nm	2800 MHz	10.5x	1.3625 V	64K / 2048K / 0K	65W	May 2009
+Core 2 Quad Q8400	Yorkfield	4-Core	Intel Socket 775	45 nm	2666 MHz	8.0x	0.9 V	256K / 4096K / 0K	95W	Apr 2009
+Core 2 Quad Q8400s	Yorkfield	4-Core	Intel Socket 775	45 nm	2666 MHz	8.0x	0.9 V	256K / 4096K / 0K	65W	Apr 2009
+Core 2 Quad Q9400s	Yorkfield	4-Core	Intel Socket 775	45 nm	2666 MHz	8.0x	0.9 V	256K / 6144K / 0K	65W	Jan 2009
+Core 2 Quad Q8200s	Yorkfield	4-Core	Intel Socket 775	45 nm	2333 MHz	7.0x	0.9 V	256K / 4096K / 0K	65W	Jan 2009
+Pentium E5400	Wolfdale	2-Core	Intel Socket 775	45 nm	2700 MHz	13.5x	1.3625 V	64K / 2048K / 0K	65W	Jan 2009
+Core 2 Duo E7500	Wolfdale	2-Core	Intel Socket 775	45 nm	2933 MHz	11.0x	0.9 V	64K / 3072K / 0K	65W	Jan 2009
+Core 2 Quad Q8300	Yorkfield	4-Core	Intel Socket 775	45 nm	2500 MHz	7.5x	0.9 V	256K / 4096K / 0K	95W	Nov 2008
+Celeron E1500	Allendale	2-Core	Intel Socket 775	65 nm	2200 MHz	11.0x	1.5 V	64K / 512K / 0K	65W	Nov 2008
+Pentium E5300	Wolfdale	2-Core	Intel Socket 775	45 nm	2600 MHz	13.0x	1.3625 V	64K / 2048K / 0K	65W	Nov 2008
+Core i7-965	Bloomfield	4-Core	Intel Socket 1366	45 nm	3200 MHz	24.0x	1.375 V	64K / 256K / 8192K	130W	Nov 2008
+Core i7-940	Bloomfield	4-Core	Intel Socket 1366	45 nm	2933 MHz	22.0x	1.375 V	64K / 256K / 8192K	130W	Nov 2008
+Core i7-920	Bloomfield	4-Core	Intel Socket 1366	45 nm	2666 MHz	20.0x	1.375 V	64K / 256K / 8192K	130W	Nov 2008
+Core 2 Duo E7400	Wolfdale	2-Core	Intel Socket 775	45 nm	2800 MHz	10.5x	0.9 V	64K / 3072K / 0K	65W	Oct 2008
+Core 2 Quad Q8200	Yorkfield	4-Core	Intel Socket 775	45 nm	2333 MHz	7.0x	0.9 V	256K / 4096K / 0K	95W	Aug 2008
+Celeron 450	Conroe-L	1-Core	Intel Socket 775	65 nm	2200 MHz	11.0x	1.3375 V	64K / 512K / 0K	35W	Aug 2008
+Pentium E5200	Wolfdale	2-Core	Intel Socket 775	45 nm	2500 MHz	12.5x	1.3625 V	64K / 2048K / 0K	65W	Aug 2008
+Core 2 Duo E8600	Wolfdale	2-Core	Intel Socket 775	45 nm	3330 MHz	10.0x	1.2 V	64K / 6144K / 0K	65W	Aug 2008
+Core 2 Duo E7300	Wolfdale	2-Core	Intel Socket 775	45 nm	2667 MHz	10.0x	0.9 V	64K / 3072K / 0K	65W	Aug 2008
+Core 2 Quad Q9400	Yorkfield	4-Core	Intel Socket 775	45 nm	2666 MHz	8.0x	0.9 V	256K / 6144K / 0K	95W	Aug 2008
+Core 2 Quad Q9650	Yorkfield	4-Core	Intel Socket 775	45 nm	3000 MHz	9.0x	1.3625 V	64K / 6144K / 0K	95W	Aug 2008
+Core 2 Duo E8500	Wolfdale	2-Core	Intel Socket 775	45 nm	3330 MHz	10.0x	1.2 V	64K / 6144K / 0K	65W	Aug 2008
+Celeron 445	Conroe-CL	1-Core	Intel Socket 771	65 nm	1866 MHz	7.0x	unknown	64K / 512K / 0K	65W	May 2008
+Core 2 Duo E7200	Wolfdale	2-Core	Intel Socket 775	45 nm	2533 MHz	9.5x	0.9 V	64K / 3072K / 0K	65W	Apr 2008
+Celeron E1400	Allendale	2-Core	Intel Socket 775	65 nm	2000 MHz	10.0x	1.5 V	64K / 512K / 0K	65W	Apr 2008
+Core 2 Duo E8300	Wolfdale	2-Core	Intel Socket 775	45 nm	2833 MHz	9.0x	1.2 V	128K / 6144K / 0K	65W	Apr 2008
+Core 2 Quad Q9450	Yorkfield	4-Core	Intel Socket 775	45 nm	2666 MHz	8.0x	0.9 V	256K / 12288K / 0K	95W	Mar 2008
+Core 2 Quad Q9550	Yorkfield	4-Core	Intel Socket 775	45 nm	2833 MHz	8.5x	0.9 V	256K / 12288K / 0K	95W	Mar 2008
+Core 2 Extreme QX9770	Yorkfield	4-Core	Intel Socket 775	45 nm	3200 MHz	8.0x	1.35 V	256K / 12288K / 0K	135W	Mar 2008
+Core 2 Extreme QX9775	Yorkfield	4-Core	Intel Socket 771	45 nm	3200 MHz	8.0x	1.35 V	128K / 12288K / 0K	150W	Mar 2008
+Core 2 Quad Q9300	Yorkfield	4-Core	Intel Socket 775	45 nm	2500 MHz	7.5x	0.9 V	256K / 6144K / 0K	95W	Mar 2008
+Core 2 Duo E4700	Allendale	2-Core	Intel Socket 775	65 nm	2600 MHz	13.0x	0.9 V	64K / 2048K / 0K	65W	Mar 2008
+Pentium Dual-Core E2220	Allendale	2-Core	Intel Socket 775	65 nm	2400 MHz	12.0x	1.5 V	64K / 1024K / 0K	65W	Mar 2008
+Celeron E1200	Allendale	2-Core	Intel Socket 775	65 nm	1600 MHz	8.0x	1.5 V	64K / 512K / 0K	65W	Jan 2008
+Core 2 Duo E8190	Wolfdale	2-Core	Intel Socket 775	45 nm	2667 MHz	8.0x	1.2 V	128K / 6144K / 0K	65W	Jan 2008
+Core 2 Duo E8400	Wolfdale	2-Core	Intel Socket 775	45 nm	3000 MHz	9.0x	1.2 V	128K / 6144K / 0K	65W	Jan 2008
+Core 2 Duo E8200	Wolfdale	2-Core	Intel Socket 775	45 nm	2667 MHz	8.0x	1.2 V	128K / 6144K / 0K	65W	Jan 2008
+Core 2 Duo E8500	Wolfdale	2-Core	Intel Socket 775	45 nm	3160 MHz	9.5x	1.2 V	128K / 6144K / 0K	65W	Jan 2008
+Pentium Dual-Core E2200	Allendale	2-Core	Intel Socket 775	65 nm	2200 MHz	11.0x	1.5 V	64K / 1024K / 0K	65W	Dec 2007
+Core 2 Extreme QX9650	Yorkfield	4-Core	Intel Socket 775	45 nm	3000 MHz	9.0x	1.25 V	256K / 12288K / 0K	130W	Nov 2007
+Core 2 Duo E4600	Allendale	2-Core	Intel Socket 775	65 nm	2400 MHz	12.0x	0.9 V	64K / 2048K / 0K	65W	Oct 2007
+Celeron 220	Conroe-L	1-Core	Intel Socket 479	65 nm	1200 MHz	9.0x	1.3375 V	64K / 512K / 0K	19W	Oct 2007
+Pentium Dual-Core E2180	Allendale	2-Core	Intel Socket 775	65 nm	2000 MHz	10.0x	1.5 V	64K / 1024K / 0K	65W	Aug 2007
+Core 2 Quad Q6600 (95W)	Kentsfield	4-Core	Intel Socket 775	65 nm	2400 MHz	9.0x	1.34 V	256K / 8192K / 0K	95W	Jul 2007
+Core 2 Duo E4400	Allendale	2-Core	Intel Socket 775	65 nm	2000 MHz	10.0x	1.34 V	64K / 2048K / 0K	65W	Jul 2007
+Core 2 Duo E4500	Allendale	2-Core	Intel Socket 775	65 nm	2200 MHz	11.0x	0.9 V	64K / 2048K / 0K	65W	Jul 2007
+Core 2 Extreme QX6850	Kentsfield	4-Core	Intel Socket 775	65 nm	3000 MHz	9.0x	1.34 V	256K / 8192K / 0K	130W	Jul 2007
+Core 2 Duo E6850	Conroe	2-Core	Intel Socket 775	65 nm	3000 MHz	9.0x	1.25 V	64K / 4096K / 0K	75W	Jul 2007
+Core 2 Duo E6750	Conroe	2-Core	Intel Socket 775	65 nm	2667 MHz	8.0x	1.25 V	64K / 4096K / 0K	65W	Jul 2007
+Core 2 Duo E6550	Conroe	2-Core	Intel Socket 775	65 nm	2333 MHz	7.0x	1.25 V	64K / 4096K / 0K	65W	Jul 2007
+Pentium Dual-Core E2140	Allendale	2-Core	Intel Socket 775	65 nm	1600 MHz	8.0x	1.5 V	64K / 1024K / 0K	65W	Jun 2007
+Pentium Dual-Core E2160	Allendale	2-Core	Intel Socket 775	65 nm	1800 MHz	9.0x	1.5 V	64K / 1024K / 0K	65W	Jun 2007
+Celeron 420	Conroe-L	1-Core	Intel Socket 775	65 nm	1600 MHz	8.0x	1.3375 V	64K / 512K / 0K	35W	Jun 2007
+Celeron 430	Conroe-L	1-Core	Intel Socket 775	65 nm	1800 MHz	9.0x	1.3375 V	64K / 512K / 0K	35W	Jun 2007
+Celeron 440	Conroe-L	1-Core	Intel Socket 775	65 nm	2000 MHz	10.0x	1.3375 V	64K / 512K / 0K	35W	Jun 2007
+Core 2 Quad Q6700	Kentsfield	4-Core	Intel Socket 775	65 nm	2666 MHz	10.0x	1.34 V	256K / 8192K / 0K	95W	Apr 2007
+Core 2 Extreme QX6800	Kentsfield	4-Core	Intel Socket 775	65 nm	2933 MHz	11.0x	1.34 V	256K / 8192K / 0K	130W	Apr 2007
+Core 2 Duo E6320	Conroe	2-Core	Intel Socket 775	65 nm	1860 MHz	7.0x	1.34 V	64K / 4096K / 0K	65W	Apr 2007
+Core 2 Duo E6420	Conroe	2-Core	Intel Socket 775	65 nm	2133 MHz	8.0x	1.2 V	64K / 4096K / 0K	65W	Apr 2007
+Core 2 Quad Q9550s	Yorkfield	4-Core	Intel Socket 775	45 nm	2833 MHz	8.5x	0.9 V	256K / 12288K / 0K	65W	Jan 2007
+Core 2 Quad Q6600 (105W)	Kentsfield	4-Core	Intel Socket 775	65 nm	2400 MHz	9.0x	1.34 V	256K / 8192K / 0K	105W	Jan 2007
+Pentium D 935	Presler	2-Core	Intel Socket 775	65 nm	3200 MHz	16.0x	1.33 V	28K / 4096K / 0K	95W	Jan 2007
+Core 2 Extreme QX6700	Kentsfield	4-Core	Intel Socket 775	65 nm	2666 MHz	10.0x	1.34 V	256K / 8192K / 0K	130W	Nov 2006
+Pentium D 925	Presler	2-Core	Intel Socket 775	65 nm	3000 MHz	15.0x	1.33 V	28K / 4096K / 0K	95W	Oct 2006
+Core 2 Extreme X6800	Conroe XE	2-Core	Intel Socket 775	65 nm	2933 MHz	11.0x	1.34 V	128K / 4096K / 0K	75W	Jul 2006
+Core 2 Duo E6700	Conroe	2-Core	Intel Socket 775	65 nm	2667 MHz	10.0x	1.34 V	64K / 4096K / 0K	65W	Jul 2006
+Core 2 Duo E6600	Conroe	2-Core	Intel Socket 775	65 nm	2400 MHz	9.0x	1.34 V	64K / 4096K / 0K	65W	Jul 2006
+Core 2 Duo E6400	Conroe	2-Core	Intel Socket 775	65 nm	2133 MHz	8.0x	1.34 V	64K / 2048K / 0K	65W	Jul 2006
+Core 2 Duo E6300	Conroe	2-Core	Intel Socket 775	65 nm	1866 MHz	7.0x	1.34 V	64K / 2048K / 0K	65W	Jul 2006
+Core 2 Duo E4300	Allendale	2-Core	Intel Socket 775	65 nm	1800 MHz	9.0x	1.34 V	64K / 2048K / 0K	65W	Jul 2006
+Pentium D 945	Presler	2-Core	Intel Socket 775	65 nm	3400 MHz	17.0x	1.33 V	28K / 4096K / 0K	95W	Jul 2006
+Pentium D 915	Presler	2-Core	Intel Socket 775	65 nm	2800 MHz	14.0x	1.33 V	28K / 4096K / 0K	95W	Jul 2006
+Celeron D 352	Cedar Mill	1-Core	Intel Socket 775	65 nm	3200 MHz	24.0x	1.4 V	16K / 512K / 0K	84W	May 2006
+Pentium D 960	Presler	2-Core	Intel Socket 775	65 nm	3600 MHz	18.0x	1.33 V	28K / 4096K / 0K	130W	May 2006
+Pentium D 965 EE	Presler	2-Core	Intel Socket 775	65 nm	3730 MHz	14.0x	1.33 V	28K / 4096K / 0K	130W	Mar 2006
+Pentium D 955	Presler	2-Core	Intel Socket 775	65 nm	3460 MHz	13.0x	1.33 V	28K / 4096K / 0K	130W	Jan 2006
+Pentium D 950	Presler	2-Core	Intel Socket 775	65 nm	3400 MHz	17.0x	1.33 V	28K / 4096K / 0K	130W	Jan 2006
+Pentium D 940	Presler	2-Core	Intel Socket 775	65 nm	3200 MHz	16.0x	1.33 V	28K / 4096K / 0K	130W	Jan 2006
+Pentium D 930	Presler	2-Core	Intel Socket 775	65 nm	3000 MHz	15.0x	1.33 V	28K / 4096K / 0K	130W	Jan 2006
+Pentium D 920	Presler	2-Core	Intel Socket 775	65 nm	2800 MHz	14.0x	1.33 V	28K / 4096K / 0K	130W	Jan 2006
+Pentium 4 HT 631	Cedar Mill	1-Core	Intel Socket 775	65 nm	3000 MHz	15.0x	1.325 V	28K / 2048K / 0K	86W	Jan 2006
+Pentium 4 HT 641	Cedar Mill	1-Core	Intel Socket 775	65 nm	3200 MHz	16.0x	1.325 V	28K / 2048K / 0K	86W	Jan 2006
+Pentium 4 HT 651	Cedar Mill	1-Core	Intel Socket 775	65 nm	3400 MHz	17.0x	1.325 V	28K / 2048K / 0K	86W	Jan 2006
+Pentium 4 HT 661	Cedar Mill	1-Core	Intel Socket 775	65 nm	3600 MHz	18.0x	1.325 V	28K / 2048K / 0K	86W	Jan 2006
+Pentium 4 HT 672	Prescott	1-Core	Intel Socket 775	90 nm	3800 MHz	19.0x	1.388 V	28K / 2048K / 0K	84W	Nov 2005
+Pentium 4 HT 662	Prescott	1-Core	Intel Socket 775	90 nm	3600 MHz	18.0x	1.388 V	28K / 2048K / 0K	84W	Nov 2005
+Celeron D 350	Prescott	1-Core	Intel Socket 478	90 nm	3200 MHz	24.0x	1.4 V	16K / 256K / 0K	84W	Jun 2005
+Pentium 4 HT 571	Prescott	1-Core	Intel Socket 775	90 nm	3800 MHz	19.0x	1.425 V	16K / 1024K / 0K	115W	Jun 2005
+Pentium 4 HT 521	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	14.0x	1.425 V	16K / 1024K / 0K	84W	Jun 2005
+Pentium 4 HT 551	Prescott	1-Core	Intel Socket 775	90 nm	3400 MHz	17.0x	1.425 V	16K / 1024K / 0K	115W	Jun 2005
+Pentium 4 HT 541	Prescott	1-Core	Intel Socket 775	90 nm	3200 MHz	16.0x	1.425 V	16K / 1024K / 0K	84W	Jun 2005
+Pentium 4 HT 531	Prescott	1-Core	Intel Socket 775	90 nm	3000 MHz	15.0x	1.425 V	16K / 1024K / 0K	84W	Jun 2005
+Pentium 4 HT 561	Prescott	1-Core	Intel Socket 775	90 nm	3600 MHz	18.0x	1.425 V	16K / 1024K / 0K	115W	Jun 2005
+Pentium 4 506	Prescott	1-Core	Intel Socket 775	90 nm	2660 MHz	20.0x	1.4 V	16K / 1024K / 0K	84W	Jun 2005
+Pentium 4 506	Prescott	1-Core	Intel Socket 775	90 nm	2660 MHz	20.0x	1.4 V	16K / 1024K / 0K	84W	Jun 2005
+Pentium 4 506	Prescott	1-Core	Intel Socket 775	90 nm	2660 MHz	20.0x	1.4 V	16K / 1024K / 0K	84W	Jun 2005
+Pentium 4 HT 670	Prescott	1-Core	Intel Socket 775	90 nm	3800 MHz	19.0x	1.388 V	28K / 2048K / 0K	84W	May 2005
+Pentium D 830	Smithfield	2-Core	Intel Socket 775	90 nm	3000 MHz	15.0x	1.4 V	28K / 2048K / 0K	130W	May 2005
+Pentium D 820	Smithfield	2-Core	Intel Socket 775	90 nm	2800 MHz	14.0x	1.4 V	28K / 2048K / 0K	130W	May 2005
+Pentium D 840	Smithfield	2-Core	Intel Socket 775	90 nm	3200 MHz	15.0x	1.4 V	28K / 2048K / 0K	130W	May 2005
+Pentium D 820	Smithfield	2-Core	Intel Socket 775	90 nm	2800 MHz	14.0x	1.4 V	28K / 2048K / 0K	130W	May 2005
+Pentium D 840 EE	Smithfield	2-Core	Intel Socket 775	90 nm	3200 MHz	16.0x	1.4 V	28K / 2048K / 0K	130W	May 2005
+Pentium 4 HT EE 3.73	Prescott	1-Core	Intel Socket 775	90 nm	3733 MHz	14.0x	1.388 V	16K / 2048K / 0K	115W	Feb 2005
+Pentium 4 HT 630	Prescott	1-Core	Intel Socket 775	90 nm	3000 MHz	15.0x	1.388 V	28K / 2048K / 0K	84W	Feb 2005
+Pentium 4 HT 640	Prescott	1-Core	Intel Socket 775	90 nm	3200 MHz	16.0x	1.388 V	28K / 2048K / 0K	84W	Feb 2005
+Pentium 4 HT 650	Prescott	1-Core	Intel Socket 775	90 nm	3400 MHz	17.0x	1.388 V	28K / 2048K / 0K	84W	Feb 2005
+Pentium 4 HT 660	Prescott	1-Core	Intel Socket 775	90 nm	3600 MHz	18.0x	1.388 V	28K / 2048K / 0K	84W	Feb 2005
+Pentium 4 HT 620	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	14.0x	1.388 V	28K / 2048K / 0K	84W	Feb 2005
+Pentium 4 511	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	21.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2005
+Pentium 4 511	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	21.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2005
+Pentium 4 511	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	21.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2005
+Pentium 4 519K	Prescott	1-Core	Intel Socket 775	90 nm	3060 MHz	23.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2005
+Pentium 4 519K	Prescott	1-Core	Intel Socket 775	90 nm	3060 MHz	23.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2005
+Pentium 4 505	Prescott	1-Core	Intel Socket 775	90 nm	2660 MHz	20.0x	1.388 V	16K / 1024K / 0K	84W	Dec 2004
+Pentium 4 505J	Prescott	1-Core	Intel Socket 775	90 nm	2660 MHz	20.0x	1.388 V	16K / 1024K / 0K	84W	Dec 2004
+Pentium 4 519	Prescott	1-Core	Intel Socket 775	90 nm	3060 MHz	23.0x	1.388 V	16K / 1024K / 0K	84W	Dec 2004
+Pentium 4 HT EE 3.46	Gallatin	1-Core	Intel Socket 775	130 nm	3460 MHz	13.0x	1.525 V	8K / 512K / 2048K	110W	Oct 2004
+Celeron D 346	Prescott	1-Core	Intel Socket 775	90 nm	3060 MHz	23.0x	1.4 V	16K / 256K / 0K	73W	Oct 2004
+Celeron D 340	Prescott	1-Core	Intel Socket 775	90 nm	2930 MHz	19.0x	1.4 V	16K / 256K / 0K	84W	Sep 2004
+Celeron D 341	Prescott	1-Core	Intel Socket 775	90 nm	2930 MHz	22.0x	1.4 V	16K / 256K / 0K	84W	Sep 2004
+Celeron D 326	Prescott	1-Core	Intel Socket 775	90 nm	2530 MHz	19.0x	1.4 V	16K / 256K / 0K	73W	Sep 2004
+Pentium 4 HT 3.6E	Prescott	1-Core	Intel Socket 478	90 nm	3600 MHz	18.0x	1.425 V	16K / 1024K / 0K	115W	Aug 2004
+Celeron D 335	Prescott	1-Core	Intel Socket 478	90 nm	2800 MHz	21.0x	1.4 V	16K / 256K / 0K	84W	Jun 2004
+Celeron D 330	Prescott	1-Core	Intel Socket 775	90 nm	2667 MHz	20.0x	1.4 V	16K / 256K / 0K	84W	Jun 2004
+Celeron D 325	Prescott	1-Core	Intel Socket 775	90 nm	2533 MHz	19.0x	1.4 V	16K / 256K / 0K	73W	Jun 2004
+Celeron D 335	Prescott	1-Core	Intel Socket 478	90 nm	2800 MHz	21.0x	1.4 V	16K / 256K / 0K	84W	Jun 2004
+Pentium 4 HT 560	Prescott	1-Core	Intel Socket 775	90 nm	3600 MHz	18.0x	1.425 V	16K / 1024K / 0K	115W	Jun 2004
+Pentium 4 HT 550	Prescott	1-Core	Intel Socket 775	90 nm	3400 MHz	17.0x	1.425 V	16K / 1024K / 0K	115W	Jun 2004
+Pentium 4 HT 540	Prescott	1-Core	Intel Socket 775	90 nm	3200 MHz	16.0x	1.425 V	16K / 1024K / 0K	84W	Jun 2004
+Pentium 4 HT 530	Prescott	1-Core	Intel Socket 775	90 nm	3000 MHz	15.0x	1.425 V	16K / 1024K / 0K	84W	Jun 2004
+Pentium 4 HT 520	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	14.0x	1.425 V	16K / 1024K / 0K	84W	Jun 2004
+Pentium 4 HT 570	Prescott	1-Core	Intel Socket 775	90 nm	3800 MHz	19.0x	1.425 V	16K / 1024K / 0K	115W	Jun 2004
+Pentium 4 HT EE 3.40	Gallatin	1-Core	Intel Socket 478	130 nm	3400 MHz	17.0x	1.525 V	8K / 512K / 2048K	110W	Jun 2004
+Pentium 4 HT 520	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	21.0x	1.4 V	16K / 1024K / 0K	84W	Jun 2004
+Pentium 4 HT 520	Prescott	1-Core	Intel Socket 775	90 nm	2800 MHz	21.0x	1.4 V	16K / 1024K / 0K	84W	Jun 2004
+Pentium 4 HT 520	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.4 V	16K / 1024K / 0K	84W	Jun 2004
+Pentium 4 HT 3.4E	Prescott	1-Core	Intel Socket 478	90 nm	3400 MHz	17.0x	1.425 V	16K / 1024K / 0K	115W	Apr 2004
+Pentium 4 2.40	Prescott	1-Core	Intel Socket 478	90 nm	2400 MHz	18.0x	1.525 V	16K / 1024K / 0K	110W	Mar 2004
+Pentium 4 HT EE 3.40	Gallatin	1-Core	Intel Socket 775	130 nm	3400 MHz	17.0x	1.525 V	8K / 512K / 2048K	110W	Feb 2004
+Pentium 4 HT 3.40	Northwood	1-Core	Intel Socket 478	130 nm	3400 MHz	17.0x	1.4 V	8K / 512K / 0K	89W	Feb 2004
+Pentium 4 HT 3.2E	Prescott	1-Core	Intel Socket 478	90 nm	3200 MHz	16.0x	1.425 V	16K / 1024K / 0K	115W	Feb 2004
+Pentium 4 HT 3.0E	Prescott	1-Core	Intel Socket 478	90 nm	3000 MHz	15.0x	1.425 V	16K / 1024K / 0K	115W	Feb 2004
+Pentium 4 HT 2.8E	Prescott	1-Core	Intel Socket 478	90 nm	2800 MHz	14.0x	1.425 V	16K / 1024K / 0K	115W	Feb 2004
+Pentium 4 HT EE 3.20	Gallatin	1-Core	Intel Socket 478	130 nm	3200 MHz	16.0x	1.525 V	8K / 512K / 2048K	110W	Nov 2003
+Celeron 2.80	Northwood	1-Core	Intel Socket 478	130 nm	2800 MHz	28.0x	1.55 V	8K / 128K / 0K	73W	Nov 2003
+Celeron 2.70	Northwood	1-Core	Intel Socket 478	130 nm	2700 MHz	27.0x	1.55 V	8K / 128K / 0K	73W	Sep 2003
+Celeron 2.60	Northwood	1-Core	Intel Socket 478	130 nm	2600 MHz	26.0x	1.55 V	8K / 128K / 0K	73W	Jun 2003
+Pentium 4 HT 3.20	Northwood	1-Core	Intel Socket 478	130 nm	3200 MHz	16.0x	1.4 V	8K / 512K / 0K	82W	Jun 2003
+Pentium 4 HT 3.06	Northwood	1-Core	Intel Socket 478	130 nm	3060 MHz	23.0x	1.5 V	8K / 512K / 0K	110W	Jun 2003
+Pentium 4 HT 2.80	Northwood	1-Core	Intel Socket 478	130 nm	2800 MHz	14.0x	1.4 V	8K / 512K / 0K	70W	May 2003
+Pentium 4 HT 2.60	Northwood	1-Core	Intel Socket 478	130 nm	2600 MHz	13.0x	1.5 V	8K / 512K / 0K	69W	May 2003
+Pentium 4 HT 2.40	Northwood	1-Core	Intel Socket 478	130 nm	2400 MHz	12.0x	1.4 V	8K / 512K / 0K	66W	May 2003
+Pentium 4 HT 3.00	Northwood	1-Core	Intel Socket 478	130 nm	3000 MHz	15.0x	1.4 V	8K / 512K / 0K	82W	Apr 2003
+Celeron 2.40	Northwood	1-Core	Intel Socket 478	130 nm	2400 MHz	24.0x	1.55 V	8K / 128K / 0K	73W	Mar 2003
+Celeron 2.30	Northwood	1-Core	Intel Socket 478	130 nm	2300 MHz	23.0x	1.55 V	8K / 128K / 0K	73W	Mar 2003
+Celeron 2.20	Northwood	1-Core	Intel Socket 478	130 nm	2200 MHz	22.0x	1.55 V	8K / 128K / 0K	73W	Nov 2002
+Celeron 2.10	Northwood	1-Core	Intel Socket 478	130 nm	2100 MHz	21.0x	1.55 V	8K / 128K / 0K	73W	Nov 2002
+Celeron 2.0	Northwood	1-Core	Intel Socket 478	130 nm	2000 MHz	20.0x	1.55 V	8K / 128K / 0K	73W	Sep 2002
+Celeron 2.0	Northwood	1-Core	Intel Socket 478	130 nm	2000 MHz	20.0x	1.55 V	8K / 128K / 0K	73W	Sep 2002
+Pentium 4 2.80	Northwood	1-Core	Intel Socket 478	130 nm	2793 MHz	21.0x	1.5 V	8K / 512K / 0K	110W	Aug 2002
+Pentium 4 2.66	Northwood	1-Core	Intel Socket 478	130 nm	2660 MHz	20.0x	1.5 V	8K / 512K / 0K	110W	Aug 2002
+Pentium 4 2.60	Northwood	1-Core	Intel Socket 478	130 nm	2600 MHz	26.0x	1.5 V	8K / 512K / 0K	92W	Aug 2002
+Pentium 4 2.53	Northwood	1-Core	Intel Socket 478	130 nm	2527 MHz	19.0x	1.5 V	8K / 512K / 0K	110W	May 2002
+Pentium 4 2.4	Northwood	1-Core	Intel Socket 478	130 nm	2400 MHz	24.0x	1.5 V	8K / 512K / 0K	92W	May 2002
+Pentium 4 2.4	Northwood	1-Core	Intel Socket 478	130 nm	2400 MHz	18.0x	1.5 V	8K / 512K / 0K	110W	Apr 2002
+Pentium III 1400S	Tualatin	1-Core	Intel Socket 370	130 nm	1400 MHz	10.5x	1.45 V	8K / 512K / 0K	32W	Jan 2002
+Pentium 4 2.26	Northwood	1-Core	Intel Socket 478	130 nm	2261 MHz	17.0x	1.5 V	8K / 512K / 0K	110W	Jan 2002
+Pentium 4 2.2	Northwood	1-Core	Intel Socket 478	130 nm	2200 MHz	22.0x	1.5 V	8K / 512K / 0K	92W	Jan 2002
+Pentium 4 2.0	Northwood	1-Core	Intel Socket 478	130 nm	2000 MHz	20.0x	1.5 V	8K / 512K / 0K	92W	Jan 2002
+Pentium III 1400	Tualatin	1-Core	Intel Socket 370	130 nm	1400 MHz	10.5x	1.5 V	8K / 256K / 0K	31W	Dec 2001
+Pentium III 1333	Tualatin	1-Core	Intel Socket 370	130 nm	1333 MHz	10.0x	1.475 V	8K / 256K / 0K	30W	Dec 2001
+Pentium 4 1.9	Willamette	1-Core	Intel Socket 423	180 nm	1900 MHz	19.0x	1.75 V	8K / 256K / 0K	69W	Aug 2001
+Pentium 4 2.0	Willamette	1-Core	Intel Socket 423	180 nm	2000 MHz	20.0x	1.75 V	8K / 256K / 0K	72W	Aug 2001
+Pentium 4 1.4	Willamette	1-Core	Intel Socket 478	180 nm	1400 MHz	14.0x	1.75 V	8K / 256K / 0K	55W	Aug 2001
+Pentium 4 1.5	Willamette	1-Core	Intel Socket 478	180 nm	1500 MHz	15.0x	1.75 V	8K / 256K / 0K	58W	Aug 2001
+Pentium 4 1.6	Willamette	1-Core	Intel Socket 478	180 nm	1600 MHz	16.0x	1.75 V	8K / 256K / 0K	61W	Aug 2001
+Pentium 4 1.7	Willamette	1-Core	Intel Socket 478	180 nm	1700 MHz	17.0x	1.75 V	8K / 256K / 0K	64W	Aug 2001
+Pentium 4 1.80	Willamette	1-Core	Intel Socket 478	180 nm	1800 MHz	18.0x	1.75 V	8K / 256K / 0K	67W	Aug 2001
+Pentium 4 1.9	Willamette	1-Core	Intel Socket 478	180 nm	1900 MHz	19.0x	1.75 V	8K / 256K / 0K	69W	Aug 2001
+Pentium 4 2.0	Willamette	1-Core	Intel Socket 478	180 nm	2000 MHz	20.0x	1.75 V	8K / 256K / 0K	72W	Aug 2001
+Pentium 4 1.8A	Willamette	1-Core	Intel Socket 423	180 nm	1800 MHz	18.0x	1.75 V	8K / 256K / 0K	67W	Jul 2001
+Pentium 4 1.6	Willamette	1-Core	Intel Socket 423	180 nm	1600 MHz	16.0x	1.75 V	8K / 256K / 0K	61W	Jul 2001
+Pentium III 1266S	Tualatin	1-Core	Intel Socket 370	130 nm	1266 MHz	9.5x	1.45 V	8K / 512K / 0K	30W	Jul 2001
+Pentium III 1000	Tualatin	1-Core	Intel Socket 370	130 nm	1000 MHz	7.5x	1.475 V	8K / 256K / 0K	30W	Jul 2001
+Pentium III 1200	Tualatin	1-Core	Intel Socket 370	130 nm	1200 MHz	9.0x	1.475 V	8K / 256K / 0K	30W	Jul 2001
+Pentium III 1133	Tualatin	1-Core	Intel Socket 370	130 nm	1133 MHz	8.5x	1.475 V	8K / 256K / 0K	29W	Jul 2001
+Pentium III 1133S	Tualatin	1-Core	Intel Socket 370	130 nm	1133 MHz	9.5x	1.45 V	8K / 512K / 0K	29W	Jun 2001
+Pentium III 1000S	Tualatin	1-Core	Intel Socket 370	130 nm	1000 MHz	7.5x	1.475 V	8K / 512K / 0K	30W	Jun 2001
+Pentium III 1133	Coppermine T	1-Core	Intel Socket 370	180 nm	1133 MHz	8.5x	1.75 V	8K / 256K / 0K	29W	Jun 2001
+Pentium III 1000	Coppermine T	1-Core	Intel Socket 370	180 nm	1000 MHz	7.5x	1.75 V	8K / 256K / 0K	29W	Jun 2001
+Pentium III 933	Coppermine T	1-Core	Intel Socket 370	180 nm	933 MHz	7.0x	1.75 V	8K / 256K / 0K	27W	Jun 2001
+Pentium III 866	Coppermine T	1-Core	Intel Socket 370	180 nm	866 MHz	6.5x	1.75 V	8K / 256K / 0K	38W	Jun 2001
+Pentium III 800	Coppermine T	1-Core	Intel Socket 370	180 nm	800 MHz	6.0x	1.75 V	8K / 256K / 0K	38W	Jun 2001
+Pentium 4 1.7	Willamette	1-Core	Intel Socket 423	180 nm	1700 MHz	17.0x	1.75 V	8K / 256K / 0K	64W	Apr 2001
+Pentium 4 1.3	Willamette	1-Core	Intel Socket 478	180 nm	1300 MHz	13.0x	1.75 V	8K / 256K / 0K	52W	Jan 2001
+Pentium 4 2.0	Northwood	1-Core	Intel Socket 478	130 nm	2000 MHz	15.0x	1.5 V	8K / 512K / 0K	110W	Jan 2001
+Pentium 4 HT 515	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.388 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 515	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.388 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 516	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 516	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 517	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 517	Prescott	1-Core	Intel Socket 775	90 nm	2933 MHz	22.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 524	Prescott	1-Core	Intel Socket 775	90 nm	3060 MHz	23.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2001
+Pentium 4 HT 524	Prescott	1-Core	Intel Socket 775	90 nm	3060 MHz	23.0x	1.4 V	16K / 1024K / 0K	84W	Jan 2001
+Core 2 Duo E8600	Wolfdale	2-Core	Intel Socket 775	45 nm	3333 MHz	10.0x	1.2 V	128K / 6144K / 0K	65W	Jan 2001
+Core 2 Quad Q7600	Yorkfield	4-Core	Intel Socket 775	45 nm	2666 MHz	8.0x	0.9 V	256K / 2048K / 0K	95W	Jan 2001
+Pentium 4 1.4	Willamette	1-Core	Intel Socket 423	180 nm	1400 MHz	14.0x	1.75 V	8K / 256K / 0K	55W	Nov 2000
+Pentium 4 1.5	Willamette	1-Core	Intel Socket 423	180 nm	1500 MHz	15.0x	1.75 V	8K / 256K / 0K	58W	Nov 2000
+Pentium III 1133	Coppermine	1-Core	Intel Socket 370	180 nm	1133 MHz	8.5x	1.75 V	8K / 256K / 0K	29W	Jul 2000
+Intel Mobile
+Name	Codename	Cores	Socket	Process	Clock	Multi	Voltage	Cache L1/L2/L3	TDP	Released
+Core i7-4940MX	Haswell	4-Core	Intel Socket G3	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	57W	Jan 2014
+Core i7-4910MQ	Haswell	4-Core	Intel Socket G3	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 8192K	47W	Jan 2014
+Core i7-4810MQ	Haswell	4-Core	Intel Socket G3	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 8192K	47W	Jan 2014
+Atom E3845	Bay Trail-I	4-Core	Intel BGA1170	22 nm	1910 MHz	14.4x	unknown	64K / 512K / 0K	10W	Oct 2013
+Atom E3827	Bay Trail-I	2-Core	Intel BGA1170	22 nm	1750 MHz	13.2x	unknown	64K / 512K / 0K	8W	Oct 2013
+Atom E3826	Bay Trail-I	2-Core	Intel BGA1170	22 nm	1467 MHz	11.0x	unknown	64K / 512K / 0K	7W	Oct 2013
+Atom E3825	Bay Trail-I	2-Core	Intel BGA1170	22 nm	1333 MHz	10.0x	unknown	64K / 512K / 0K	6W	Oct 2013
+Atom E3815	Bay Trail-I	1-Core	Intel BGA1170	22 nm	1467 MHz	11.0x	unknown	64K / 512K / 0K	5W	Oct 2013
+Atom Z3770	Bay Trail-T	4-Core	Intel BGA1380	22 nm	1467 MHz	11.0x	unknown	64K / 512K / 0K	8W	Sep 2013
+Atom Z3740	Bay Trail-T	4-Core	Intel BGA1380	22 nm	1333 MHz	10.0x	unknown	64K / 512K / 0K	2W	Sep 2013
+Core i3-4000M	Haswell	2-Core	Intel Socket G3	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	37W	Sep 2013
+Core i3-4100E	Haswell	2-Core	Intel BGA1364	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	37W	Sep 2013
+Core i3-4102E	Haswell	2-Core	Intel BGA1364	22 nm	1600 MHz	16.0x	unknown	64K / 256K / 3072K	25W	Sep 2013
+Core i3-4005U	Haswell	2-Core	Intel BGA1168	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 3072K	15W	Sep 2013
+Core i7-4600M	Haswell	2-Core	Intel Socket G3	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 4096K	37W	Sep 2013
+Core i7-4960HQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 8192K	47W	Sep 2013
+Core i7-4600U	Haswell	2-Core	Intel BGA1168	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 4096K	15W	Sep 2013
+Core i5-4330M	Haswell	2-Core	Intel Socket G3	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	37W	Sep 2013
+Celeron 2950M	Haswell	2-Core	Intel Socket G2 (988B)	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 2048K	37W	Sep 2013
+Pentium 3550M	Haswell	2-Core	Intel Socket G3	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 2048K	37W	Sep 2013
+Core i5-4300M	Haswell	2-Core	Intel Socket G3	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	37W	Sep 2013
+Celeron 2955U	Haswell	2-Core	Intel Socket G2 (988B)	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 2048K	15W	Sep 2013
+Celeron 2980U	Haswell	2-Core	Intel Socket G3	22 nm	1600 MHz	16.0x	unknown	64K / 256K / 2048K	15W	Sep 2013
+Pentium 3556U	Haswell	2-Core	Intel BGA1168	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 2048K	15W	Sep 2013
+Pentium 3560Y	Haswell	2-Core	Intel BGA1168	22 nm	1200 MHz	12.0x	unknown	64K / 256K / 2048K	12W	Sep 2013
+Celeron 2950M	Haswell	2-Core	Intel Socket G3	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 2048K	37W	Sep 2013
+Celeron 2955U	Haswell	2-Core	Intel Socket G3	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 2048K	15W	Sep 2013
+Core i7-4850EQ	Crystalwell	4-Core	Intel BGA1364	22 nm	1600 MHz	16.0x	unknown	64K / 256K / 8192K	47W	Aug 2013
+Core i7-4860EQ	Crystalwell	4-Core	Intel BGA1364	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 8192K	47W	Aug 2013
+Core i7-4950HQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 8192K	47W	Jun 2013
+Core i7-4550U	Haswell	2-Core	Intel BGA1168	22 nm	1500 MHz	15.0x	unknown	64K / 256K / 4096K	15W	Jun 2013
+Core i7-4650U	Haswell	2-Core	Intel BGA1168	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 4096K	15W	Jun 2013
+Core i7-4500U	Haswell	2-Core	Intel BGA1168	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 4096K	15W	Jun 2013
+Core i5-4350U	Haswell	2-Core	Intel BGA1168	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 3072K	15W	Jun 2013
+Core i7-4558U	Haswell	2-Core	Intel BGA1168	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 4096K	28W	Jun 2013
+Core i5-4200Y	Haswell	2-Core	Intel BGA1168	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 3072K	12W	Jun 2013
+Core i5-4200U	Haswell	2-Core	Intel BGA1168	22 nm	1600 MHz	16.0x	unknown	64K / 256K / 3072K	15W	Jun 2013
+Core i5-4250U	Haswell	2-Core	Intel BGA1168	22 nm	1300 MHz	13.0x	unknown	64K / 256K / 3072K	15W	Jun 2013
+Core i5-4258U	Haswell	2-Core	Intel BGA1168	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	28W	Jun 2013
+Core i5-4288U	Haswell	2-Core	Intel BGA1168	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	28W	Jun 2013
+Core i3-4010Y	Haswell	2-Core	Intel BGA1168	22 nm	1300 MHz	13.0x	unknown	64K / 256K / 3072K	12W	Jun 2013
+Core i3-4010U	Haswell	2-Core	Intel BGA1168	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 3072K	15W	Jun 2013
+Core i3-4100U	Haswell	2-Core	Intel BGA1168	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 3072K	15W	Jun 2013
+Core i3-4158U	Haswell	2-Core	Intel BGA1168	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 3072K	28W	Jun 2013
+Core i7-4702HQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 8192K	37W	May 2013
+Core i7-4700HQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 8192K	47W	May 2013
+Core i7-4750HQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 8192K	47W	May 2013
+Core i7-4700MQ	Haswell	4-Core	Intel Socket G3	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 8192K	47W	May 2013
+Core i7-4702MQ	Haswell	4-Core	Intel Socket G3	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 8192K	37W	May 2013
+Core i7-4700EQ	Haswell	4-Core	Intel BGA1364	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 8192K	47W	May 2013
+Core i7-4700EQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 8192K	47W	May 2013
+Core i7-4930MX	Haswell	4-Core	Intel Socket G3	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 8192K	57W	Apr 2013
+Core i7-4900MQ	Haswell	4-Core	Intel Socket G3	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 8192K	47W	Apr 2013
+Core i7-4800MQ	Haswell	4-Core	Intel Socket G3	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 8192K	47W	Apr 2013
+Core i7-4850HQ	Crystalwell	4-Core	Intel BGA1364	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 8192K	47W	Apr 2013
+Atom Z2580	Clovertrail	2-Core	Intel BGA 617	32 nm	2000 MHz	20.0x	1.5 V	64K / 512K / 0K	3W	Feb 2013
+Atom Z2560	Clovertrail	2-Core	Intel BGA 617	32 nm	1600 MHz	16.0x	1.5 V	64K / 512K / 0K	3W	Feb 2013
+Atom Z2520	Clovertrail	2-Core	Intel BGA 617	32 nm	1200 MHz	12.0x	1.5 V	64K / 512K / 0K	3W	Feb 2013
+Pentium 987	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1500 MHz	15.0x	unknown	64K / 256K / 2048K	17W	Feb 2013
+Celeron 1000M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 2048K	35W	Jan 2013
+Celeron 1020M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 2048K	35W	Jan 2013
+Celeron 1020E	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 2048K	35W	Jan 2013
+Celeron 1037U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 2048K	17W	Jan 2013
+Celeron 1007U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1500 MHz	15.0x	unknown	64K / 256K / 2048K	17W	Jan 2013
+Celeron 1047UE	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 2048K	17W	Jan 2013
+Celeron 947UE	Ivy Bridge	1-Core	Intel BGA1023	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 1024K	17W	Jan 2013
+Celeron 1020E	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 2048K	35W	Jan 2013
+Core i5-3439Y	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1500 MHz	15.0x	unknown	64K / 256K / 3072K	13W	Jan 2013
+Core i7-3689Y	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1500 MHz	20.0x	unknown	64K / 256K / 4096K	13W	Jan 2013
+Core i5-3339Y	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1500 MHz	15.0x	unknown	64K / 256K / 3072K	13W	Jan 2013
+Core i7-3687U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 4096K	17W	Jan 2013
+Core i7-3537U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 4096K	17W	Jan 2013
+Core i7-3540M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 4096K	35W	Jan 2013
+Core i7-3540M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 4096K	35W	Jan 2013
+Core i3-3227U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1900 MHz	19.0x	unknown	64K / 256K / 3072K	17W	Jan 2013
+Core i3-3229Y	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1400 MHz	14.0x	unknown	64K / 256K / 3072K	13W	Jan 2013
+Core i3-3130M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3230M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3230M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3340M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3340M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3380M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3380M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 3072K	35W	Jan 2013
+Core i5-3337U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 3072K	17W	Jan 2013
+Core i5-3437U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1900 MHz	19.0x	unknown	64K / 256K / 3072K	17W	Jan 2013
+Atom Z2420	Penwell	1-Core	Intel BGA 617	32 nm	1200 MHz	12.0x	1.5 V	64K / 512K / 0K	3W	Jan 2013
+Atom Z2480	Penwell	1-Core	Intel BGA 617	32 nm	1400 MHz	14.0x	1.5 V	64K / 512K / 0K	3W	Jan 2013
+Pentium 2030M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 2048K	35W	Jan 2013
+Core i7-3525M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 4096K	35W	Nov 2012
+Core i5-3365M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	35W	Nov 2012
+Core i7-3632QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 6144K	35W	Oct 2012
+Core i7-3632QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 6144K	35W	Oct 2012
+Core i3-3120M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Core i3-3120M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Atom Z2760	Cloverview	2-Core	Intel BGA 617	32 nm	1800 MHz	18.0x	1.5 V	64K / 512K / 0K	3W	Sep 2012
+Core i7-3740QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 6144K	45W	Sep 2012
+Core i7-3740QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 6144K	45W	Sep 2012
+Core i7-3840QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 8192K	45W	Sep 2012
+Core i7-3840QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 8192K	45W	Sep 2012
+Core i7-3940XM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 8192K	55W	Sep 2012
+Core i7-3630QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 6144K	45W	Sep 2012
+Core i7-3635QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 6144K	45W	Sep 2012
+Pentium 2020M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 2048K	35W	Sep 2012
+Pentium 2117U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 2048K	17W	Sep 2012
+Pentium B980	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 2048K	35W	Sep 2012
+Pentium 997	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1600 MHz	16.0x	unknown	64K / 256K / 2048K	17W	Sep 2012
+Celeron B830	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1800 MHz	18.0x	unknown	64K / 256K / 2048K	35W	Sep 2012
+Celeron 887	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1500 MHz	15.0x	unknown	64K / 256K / 2048K	17W	Sep 2012
+Core i3-2328M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	35W	Sep 2012
+Core i3-2377M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1500 MHz	15.0x	unknown	64K / 256K / 3072K	17W	Sep 2012
+Pentium 2117U	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 2048K	17W	Sep 2012
+Pentium 2129Y	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1100 MHz	11.0x	unknown	64K / 256K / 2048K	10W	Sep 2012
+Core i3-3217UE	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1600 MHz	16.0x	unknown	64K / 256K / 3072K	17W	Aug 2012
+Core i3-3120ME	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Aug 2012
+Celeron B730	Sandy Bridge	1-Core	Intel Socket G2 (988B)	32 nm	1800 MHz	18.0x	unknown	64K / 256K / 1536K	35W	Jul 2012
+Celeron B820	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1700 MHz	17.0x	unknown	64K / 256K / 2048K	35W	Jul 2012
+Celeron 807	Sandy Bridge	1-Core	Intel BGA1023	32 nm	1500 MHz	15.0x	unknown	64K / 256K / 1536K	17W	Jul 2012
+Celeron 877	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1400 MHz	14.0x	unknown	64K / 256K / 2048K	17W	Jul 2012
+Core i7-3520M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 4096K	35W	Jun 2012
+Core i7-3520M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 4096K	35W	Jun 2012
+Core i7-3555LE	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 4096K	25W	Jun 2012
+Core i7-3517U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1900 MHz	19.0x	unknown	64K / 256K / 4096K	17W	Jun 2012
+Core i7-3667U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 4096K	17W	Jun 2012
+Core i7-3517UE	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 4096K	17W	Jun 2012
+Core i3-3110M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i3-3110M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i3-3217U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 3072K	17W	Jun 2012
+Core i5-3210M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3210M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3320M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3320M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3317U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 3072K	17W	Jun 2012
+Core i5-3360M	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3360M	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3610ME	Ivy Bridge	2-Core	Intel Socket G2 (988B)	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3610ME	Ivy Bridge	2-Core	Intel BGA1023	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 3072K	35W	Jun 2012
+Core i5-3427U	Ivy Bridge	2-Core	Intel BGA1023	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 3072K	17W	Jun 2012
+Pentium B915C	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1500 MHz	15.0x	unknown	64K / 256K / 2048K	35W	May 2012
+Core i7-3920XM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2900 MHz	29.0x	unknown	64K / 256K / 8192K	55W	Apr 2012
+Core i7-3820QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 8192K	45W	Apr 2012
+Core i7-3820QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 8192K	45W	Apr 2012
+Core i7-3720QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i7-3720QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i7-3615QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i7-3615QE	Ivy Bridge	4-Core	Intel BGA1023	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i7-3612QE	Ivy Bridge	4-Core	Intel BGA1023	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 6144K	35W	Apr 2012
+Core i7-3610QE	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i7-3612QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 6144K	35W	Apr 2012
+Core i7-3612QM	Ivy Bridge	4-Core	Intel BGA1224	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 6144K	35W	Apr 2012
+Core i7-3610QM	Ivy Bridge	4-Core	Intel Socket G2 (988B)	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 6144K	45W	Apr 2012
+Core i5-2450M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Jan 2012
+Core i5-2450M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Jan 2012
+Core i3-2370M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Jan 2012
+Pentium B970	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 2048K	35W	Jan 2012
+Pentium 977	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1400 MHz	14.0x	unknown	64K / 256K / 2048K	17W	Jan 2012
+Celeron B720	Sandy Bridge	1-Core	Intel Socket G2 (988B)	32 nm	1700 MHz	17.0x	unknown	64K / 256K / 1536K	35W	Jan 2012
+Celeron B815	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1600 MHz	16.0x	unknown	64K / 256K / 2048K	35W	Jan 2012
+Celeron 797	Sandy Bridge	1-Core	Intel BGA1023	32 nm	1400 MHz	14.0x	unknown	64K / 256K / 1536K	17W	Jan 2012
+Celeron 867	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1300 MHz	13.0x	unknown	64K / 256K / 2048K	17W	Jan 2012
+Atom Z2460	Penwell	1-Core	Intel BGA 617	32 nm	1300 MHz	13.0x	1.5 V	64K / 512K / 0K	3W	Jan 2012
+Atom N2600	Cedarview	2-Core	Intel BGA 559	32 nm	1600 MHz	13.0x	1.175 V	64K / 512K / 0K	4W	Dec 2011
+Atom N2800	Cedarview	2-Core	Intel BGA 559	32 nm	1867 MHz	15.0x	1.175 V	64K / 512K / 0K	7W	Dec 2011
+Atom D2500	Cedarview	2-Core	Intel BGA 437	32 nm	1867 MHz	15.0x	1.21 V	64K / 512K / 0K	10W	Nov 2011
+Atom D2550	Cedarview	2-Core	Intel BGA 437	32 nm	1867 MHz	15.0x	1.21 V	64K / 512K / 0K	10W	Nov 2011
+Atom D2700	Cedarview	2-Core	Intel BGA 437	32 nm	2133 MHz	18.0x	1.21 V	64K / 512K / 0K	10W	Nov 2011
+Core i7-2670QM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 6144K	45W	Oct 2011
+Core i7-2675QM	Sandy Bridge	4-Core	Intel BGA1224	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 6144K	45W	Oct 2011
+Pentium B960	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 2048K	35W	Oct 2011
+Pentium 967	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1300 MHz	13.0x	unknown	64K / 256K / 2048K	17W	Oct 2011
+Core i3-2350M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 3072K	35W	Oct 2011
+Core i5-2430M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Oct 2011
+Core i5-2430M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Oct 2011
+Core i3-2367M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1400 MHz	14.0x	unknown	64K / 256K / 3072K	17W	Oct 2011
+Core i7-2760QM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 6144K	45W	Sep 2011
+Core i7-2760QM	Sandy Bridge	4-Core	Intel BGA1224	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 6144K	45W	Sep 2011
+Core i7-2860QM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	45W	Sep 2011
+Core i7-2860QM	Sandy Bridge	4-Core	Intel BGA1224	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	45W	Sep 2011
+Core i7-2960XM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2700 MHz	27.0x	unknown	64K / 256K / 8192K	55W	Sep 2011
+Core i3-2312M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Core i5-2435M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Core i5-2435M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Core i5-2415M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Core i3-2332M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	35W	Sep 2011
+Celeron B840	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1900 MHz	19.0x	unknown	64K / 256K / 2048K	35W	Jul 2011
+Celeron 787	Sandy Bridge	1-Core	Intel BGA1023	32 nm	1300 MHz	13.0x	unknown	64K / 256K / 1536K	17W	Jul 2011
+Celeron 857	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1200 MHz	12.0x	unknown	64K / 256K / 2048K	17W	Jul 2011
+Celeron 725C	Sandy Bridge	1-Core	Intel BGA1023	32 nm	1300 MHz	13.0x	unknown	64K / 256K / 1536K	17W	Jul 2011
+Pentium B940	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2000 MHz	20.0x	unknown	64K / 256K / 2048K	35W	Jun 2011
+Pentium B950	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 2048K	35W	Jun 2011
+Pentium 957	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1200 MHz	12.0x	unknown	64K / 256K / 2048K	17W	Jun 2011
+Celeron B710	Sandy Bridge	1-Core	Intel Socket G2 (988B)	32 nm	1600 MHz	16.0x	unknown	64K / 256K / 1536K	35W	Jun 2011
+Celeron B800	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1500 MHz	15.0x	unknown	64K / 256K / 2048K	35W	Jun 2011
+Celeron 847	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1100 MHz	11.0x	unknown	64K / 256K / 2048K	17W	Jun 2011
+Core i3-2330M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	35W	Jun 2011
+Core i3-2330M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	35W	Jun 2011
+Core i5-2557M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1700 MHz	17.0x	unknown	64K / 256K / 3072K	17W	Jun 2011
+Core i5-2467M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1600 MHz	16.0x	unknown	64K / 256K / 3072K	17W	Jun 2011
+Core i3-2330E	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	35W	Jun 2011
+Core i3-2357M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1300 MHz	13.0x	unknown	64K / 256K / 3072K	17W	Jun 2011
+Core i3-2340UE	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1300 MHz	13.0x	unknown	64K / 256K / 3072K	17W	Jun 2011
+Atom Z650	Lincroft	1-Core	Intel BGA 518	45 nm	1200 MHz	12.0x	1.5 V	64K / 512K / 0K	3W	Apr 2011
+Atom Z670	Lincroft	1-Core	Intel BGA 518	45 nm	1500 MHz	15.0x	1.5 V	64K / 512K / 0K	3W	Apr 2011
+Celeron B810	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	1600 MHz	16.0x	unknown	64K / 256K / 2048K	35W	Mar 2011
+Core i3-2312M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 3072K	35W	Mar 2011
+Atom N570	Pineview	2-Core	Intel BGA 559	45 nm	1667 MHz	14.0x	1.175 V	64K / 512K / 0K	9W	Mar 2011
+Core i5-2540M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2540M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2600 MHz	26.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2520M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2520M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i3-2310M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i3-2310M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2410M	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2410M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2510E	Sandy Bridge	2-Core	Intel Socket G2 (988B)	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2515E	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Core i5-2537M	Sandy Bridge	2-Core	Intel BGA1023	32 nm	1400 MHz	14.0x	unknown	64K / 256K / 3072K	17W	Feb 2011
+Core i3-2310E	Sandy Bridge	2-Core	Intel BGA1023	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 3072K	35W	Feb 2011
+Pentium P6300	Arrandale	2-Core	Intel Socket G1	32 nm	2266 MHz	17.0x	unknown	64K / 256K / 3072K	35W	Jan 2011
+Pentium U5600	Arrandale	2-Core	Intel BGA1288	32 nm	1333 MHz	10.0x	unknown	64K / 256K / 3072K	18W	Jan 2011
+Core i7-2630QM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2000 MHz	20.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Core i7-2635QM	Sandy Bridge	4-Core	Intel BGA1224	32 nm	2000 MHz	20.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Core i7-2720QM	Sandy Bridge	4-Core	Intel BGA1224	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Core i7-2720QM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Core i7-2820QM	Sandy Bridge	4-Core	Intel BGA1224	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 8192K	45W	Jan 2011
+Core i7-2820QM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2300 MHz	23.0x	unknown	64K / 256K / 8192K	45W	Jan 2011
+Core i7-2920XM	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	55W	Jan 2011
+Core i7-2710QE	Sandy Bridge	4-Core	Intel Socket G2 (988B)	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Core i7-2715QE	Sandy Bridge	4-Core	Intel BGA1023	32 nm	2100 MHz	21.0x	unknown	64K / 256K / 6144K	45W	Jan 2011
+Atom E625C	Stellarton	1-Core	Intel BGA1466	45 nm	600 MHz	6.0x	1.175 V	64K / 512K / 0K	3W	Nov 2010
+Atom E625CT	Stellarton	1-Core	Intel BGA1466	45 nm	600 MHz	6.0x	1.175 V	64K / 512K / 0K	3W	Nov 2010
+Atom E645C	Stellarton	1-Core	Intel BGA1466	45 nm	1000 MHz	10.0x	1.175 V	64K / 512K / 0K	4W	Nov 2010
+Atom E645CT	Stellarton	1-Core	Intel BGA1466	45 nm	1000 MHz	10.0x	1.175 V	64K / 512K / 0K	4W	Nov 2010
+Atom E665C	Stellarton	1-Core	Intel BGA1466	45 nm	1300 MHz	13.0x	1.175 V	64K / 512K / 0K	4W	Nov 2010
+Atom E665CT	Stellarton	1-Core	Intel BGA1466	45 nm	1300 MHz	13.0x	1.175 V	64K / 512K / 0K	7W	Nov 2010
+Pentium P6100	Arrandale	2-Core	Intel Socket G1	32 nm	2000 MHz	15.0x	unknown	64K / 256K / 3072K	35W	Sep 2010
+Pentium P6200	Arrandale	2-Core	Intel Socket G1	32 nm	2133 MHz	16.0x	unknown	64K / 256K / 3072K	35W	Sep 2010
+Atom E620	Tunnel Creek	1-Core	Intel BGA 676	45 nm	600 MHz	6.0x	1.175 V	64K / 512K / 0K	3W	Sep 2010
+Atom E620T	Tunnel Creek	1-Core	Intel BGA 676	45 nm	600 MHz	6.0x	1.175 V	64K / 512K / 0K	3W	Sep 2010
+Atom E640	Tunnel Creek	1-Core	Intel BGA 676	45 nm	1000 MHz	10.0x	1.175 V	64K / 512K / 0K	3W	Sep 2010
+Atom E640T	Tunnel Creek	1-Core	Intel BGA 676	45 nm	1000 MHz	10.0x	1.175 V	64K / 512K / 0K	3W	Sep 2010
+Atom E660	Tunnel Creek	1-Core	Intel BGA 676	45 nm	1300 MHz	13.0x	1.175 V	64K / 512K / 0K	3W	Sep 2010
+Atom E660T	Tunnel Creek	1-Core	Intel BGA 676	45 nm	1300 MHz	13.0x	1.175 V	64K / 512K / 0K	3W	Sep 2010
+Atom E680	Tunnel Creek	1-Core	Intel BGA 676	45 nm	1600 MHz	16.0x	1.175 V	64K / 512K / 0K	4W	Sep 2010
+Atom E680T	Tunnel Creek	1-Core	Intel BGA 676	45 nm	1600 MHz	16.0x	1.175 V	64K / 512K / 0K	4W	Sep 2010
+Core i7-640M	Arrandale	2-Core	Intel Socket G1	32 nm	2800 MHz	21.0x	unknown	64K / 256K / 4096K	35W	Sep 2010
+Core i7-640M	Arrandale	2-Core	Intel BGA1288	32 nm	2800 MHz	21.0x	unknown	64K / 256K / 4096K	35W	Sep 2010
+Atom N550	Pineview	2-Core	Intel BGA 559	45 nm	1500 MHz	13.0x	1.175 V	64K / 512K / 0K	9W	Aug 2010
+Atom D425	Pineview	1-Core	Intel BGA 437	45 nm	1834 MHz	14.0x	1.175 V	64K / 512K / 0K	10W	Jun 2010
+Atom D525	Pineview	2-Core	Intel BGA 437	45 nm	1834 MHz	14.0x	1.175 V	64K / 512K / 0K	13W	Jun 2010
+Pentium P6000	Arrandale	2-Core	Intel Socket G1	32 nm	1877 MHz	14.0x	unknown	64K / 256K / 3072K	35W	Jun 2010
+Atom N455	Pineview	1-Core	Intel BGA 559	45 nm	1667 MHz	14.0x	1.175 V	64K / 512K / 0K	7W	Jun 2010
+Atom N475	Pineview	1-Core	Intel BGA 559	45 nm	1834 MHz	15.0x	1.175 V	64K / 512K / 0K	7W	Jun 2010
+Atom Z560	Silverthorne	1-Core	Intel BGA 441	45 nm	2133 MHz	16.0x	1.1 V	64K / 512K / 0K	2W	Jun 2010
+Pentium U5400	Arrandale	2-Core	Intel BGA1288	32 nm	1200 MHz	9.0x	unknown	64K / 256K / 3072K	18W	May 2010
+Atom Z600	Lincroft	1-Core	Intel BGA 518	45 nm	1200 MHz	12.0x	1.1 V	64K / 512K / 0K	1W	May 2010
+Atom Z605	Lincroft	1-Core	Intel BGA 518	45 nm	1000 MHz	10.0x	1.1 V	64K / 512K / 0K	2W	May 2010
+Atom Z610	Lincroft	1-Core	Intel BGA 518	45 nm	800 MHz	8.0x	1.1 V	64K / 512K / 0K	1W	May 2010
+Atom Z612	Lincroft	1-Core	Intel BGA 518	45 nm	900 MHz	9.0x	1.1 V	64K / 512K / 0K	1W	May 2010
+Atom Z615	Lincroft	1-Core	Intel BGA 518	45 nm	1600 MHz	16.0x	1.1 V	64K / 512K / 0K	2W	May 2010
+Atom Z620	Lincroft	1-Core	Intel BGA 518	45 nm	900 MHz	9.0x	1.1 V	64K / 512K / 0K	1W	May 2010
+Atom Z625	Lincroft	1-Core	Intel BGA 518	45 nm	1900 MHz	19.0x	1.1 V	64K / 512K / 0K	2W	May 2010
+Atom N470	Pineview	1-Core	Intel BGA 559	45 nm	1834 MHz	15.0x	1.175 V	64K / 512K / 0K	7W	Mar 2010
+Atom D410	Pineview	1-Core	Intel BGA 437	45 nm	1667 MHz	12.0x	1.175 V	64K / 512K / 0K	10W	Jan 2010
+Pentium Dual-Core T4500	Penryn	2-Core	Intel Socket P	45 nm	2300 MHz	11.5x	1.15 V	64K / 1024K / 0K	35W	Jan 2010
+Core i7-620M	Arrandale	2-Core	Intel BGA1288	32 nm	2677 MHz	20.0x	unknown	64K / 256K / 4096K	35W	Jan 2010
+Core i7-620M	Arrandale	2-Core	Intel Socket G1	32 nm	2677 MHz	20.0x	unknown	64K / 256K / 4096K	35W	Jan 2010
+Atom D510	Pineview	2-Core	Intel BGA 437	45 nm	1667 MHz	12.0x	1.175 V	64K / 512K / 0K	13W	Dec 2009
+Atom N450	Pineview	1-Core	Intel BGA 559	45 nm	1667 MHz	14.0x	1.175 V	64K / 512K / 0K	6W	Dec 2009
+Pentium Dual-Core T4400	Penryn	2-Core	Intel Socket P	45 nm	2200 MHz	11.0x	1.15 V	64K / 1024K / 0K	35W	Dec 2009
+Atom CE4100	Sodaville	1-Core	Intel BGA 951	45 nm	1200 MHz	12.0x	1.1625 V	64K / 512K / 0K	7W	Sep 2009
+Atom CE4130	Sodaville	1-Core	Intel BGA 951	45 nm	1200 MHz	12.0x	1.1625 V	64K / 512K / 0K	7W	Sep 2009
+Atom CE4150	Sodaville	1-Core	Intel BGA 951	45 nm	1200 MHz	12.0x	1.1625 V	64K / 512K / 0K	7W	Sep 2009
+Pentium SU4100	Penryn	2-Core	Intel BGA 956	45 nm	1300 MHz	6.5x	1.15 V	64K / 2048K / 0K	10W	Sep 2009
+Pentium SU2700	Penryn	1-Core	Intel BGA 956	45 nm	1300 MHz	6.5x	1.15 V	64K / 2048K / 0K	10W	Jun 2009
+Atom Z515	Silverthorne	1-Core	Intel BGA 441	45 nm	1200 MHz	12.0x	1.1 V	64K / 512K / 0K	1W	Apr 2009
+Atom Z550	Silverthorne	1-Core	Intel BGA 441	45 nm	2000 MHz	15.0x	1.1 V	64K / 512K / 0K	2W	Apr 2009
+Pentium Dual-Core T4300	Penryn	2-Core	Intel Socket P	45 nm	2100 MHz	10.5x	1.15 V	64K / 1024K / 0K	35W	Apr 2009
+Core 2 Solo ULV SU3500	Penryn-L	1-Core	Intel BGA 956	45 nm	1400 MHz	7.0x	1.15 V	64K / 3072K / 0K	5W	Mar 2009
+Atom Z510P	Silverthorne	1-Core	Intel BGA 437	45 nm	1100 MHz	11.0x	1.1 V	64K / 512K / 0K	2W	Mar 2009
+Atom Z510PT	Silverthorne	1-Core	Intel BGA 437	45 nm	1100 MHz	11.0x	1.1 V	64K / 512K / 0K	2W	Mar 2009
+Atom Z520PT	Silverthorne	1-Core	Intel BGA 437	45 nm	1334 MHz	10.0x	1.1 V	64K / 512K / 0K	2W	Mar 2009
+Atom Z530P	Silverthorne	1-Core	Intel BGA 437	45 nm	1600 MHz	12.0x	1.1 V	64K / 512K / 0K	2W	Mar 2009
+Pentium Dual-Core T4200	Penryn	2-Core	Intel Socket P	45 nm	2000 MHz	10.0x	1.15 V	64K / 1024K / 0K	35W	Jan 2009
+Core 2 Quad Q9100	Penryn QC	4-Core	Intel Socket P	45 nm	2267 MHz	8.5x	1.175 V	64K / 6144K / 0K	45W	Aug 2008
+Core 2 Extreme QX9300	Penryn QC XE	4-Core	Intel Socket P	45 nm	2534 MHz	9.5x	1.175 V	64K / 6144K / 0K	45W	Aug 2008
+Core 2 Extreme X9100	Penryn XE	2-Core	Intel Socket P	45 nm	3067 MHz	11.5x	1.15 V	64K / 6144K / 0K	44W	Jul 2008
+Atom N270	Diamondville	1-Core	Intel BGA 437	45 nm	1600 MHz	12.0x	1.1625 V	64K / 512K / 0K	3W	Jun 2008
+Atom N280	Diamondville	1-Core	Intel BGA 437	45 nm	1667 MHz	10.0x	1.1625 V	64K / 512K / 0K	3W	Jun 2008
+Atom 230	Diamondville	1-Core	Intel BGA 437	45 nm	1600 MHz	12.0x	1.1625 V	64K / 512K / 0K	4W	Jun 2008
+Atom 330	Diamondville	2-Core	Intel BGA 437	45 nm	1600 MHz	12.0x	1.1625 V	64K / 512K / 0K	8W	Jun 2008
+Core 2 Solo ULV SU3300	Penryn-L	1-Core	Intel BGA 956	45 nm	1200 MHz	6.0x	1.15 V	64K / 3072K / 0K	5W	May 2008
+Atom Z500	Silverthorne	1-Core	Intel BGA 441	45 nm	800 MHz	8.0x	1.1 V	64K / 512K / 0K	1W	Apr 2008
+Atom Z510	Silverthorne	1-Core	Intel BGA 441	45 nm	1100 MHz	11.0x	1.1 V	64K / 512K / 0K	2W	Apr 2008
+Atom Z520	Silverthorne	1-Core	Intel BGA 441	45 nm	1334 MHz	10.0x	1.1 V	64K / 512K / 0K	2W	Apr 2008
+Atom Z530	Silverthorne	1-Core	Intel BGA 441	45 nm	1600 MHz	12.0x	1.1 V	64K / 512K / 0K	2W	Apr 2008
+Atom Z540	Silverthorne	1-Core	Intel BGA 441	45 nm	1867 MHz	14.0x	1.1 V	64K / 512K / 0K	2W	Apr 2008
+Core 2 Duo U7700	Merom	2-Core	Intel Socket P	65 nm	1333 MHz	10.0x	0.975 V	64K / 2048K / 0K	10W	Feb 2008
+Core 2 Duo U7500	Merom	2-Core	Intel Socket P	65 nm	1073 MHz	8.0x	0.975 V	64K / 2048K / 0K	10W	Feb 2008
+Core 2 Duo U7700	Merom	2-Core	Intel Socket M	65 nm	1333 MHz	10.0x	0.975 V	64K / 2048K / 0K	10W	Dec 2007
+Core 2 Duo T7800	Merom	2-Core	Intel Socket P	65 nm	2600 MHz	13.0x	1.3 V	64K / 4096K / 0K	35W	Sep 2007
+Core 2 Duo T7250	Merom	2-Core	Intel Socket P	65 nm	2000 MHz	10.0x	1.175 V	64K / 2048K / 0K	35W	Sep 2007
+Core 2 Solo ULV U2100	Merom-L	1-Core	Intel BGA 956	65 nm	1067 MHz	8.0x	1 V	64K / 1024K / 0K	5W	Sep 2007
+Core 2 Solo ULV U2200	Merom-L	1-Core	Intel BGA 956	65 nm	1200 MHz	9.0x	1 V	64K / 1024K / 0K	5W	Sep 2007
+Core 2 Extreme X7900	Merom XE	2-Core	Intel Socket P	65 nm	2800 MHz	14.0x	1.3 V	64K / 4096K / 0K	44W	Aug 2007
+A100	Stealey	1-Core	Intel BGA 437	90 nm	600 MHz	6.0x	1.175 V	64K / 512K / 0K	3W	Jun 2007
+A110	Stealey	1-Core	Intel BGA 437	90 nm	800 MHz	8.0x	1.175 V	64K / 512K / 0K	3W	Jun 2007
+Core 2 Duo T7500	Merom	2-Core	Intel Socket P	65 nm	2200 MHz	11.0x	1.3 V	64K / 4096K / 0K	35W	May 2007
+Core 2 Duo T7700	Merom	2-Core	Intel Socket P	65 nm	2400 MHz	12.0x	1.3 V	64K / 4096K / 0K	35W	May 2007
+Core 2 Duo T7100	Merom	2-Core	Intel Socket P	65 nm	1800 MHz	9.0x	1.175 V	64K / 2048K / 0K	35W	May 2007
+Core 2 Duo U7600	Merom	2-Core	Intel Socket P	65 nm	1200 MHz	9.0x	0.975 V	64K / 2048K / 0K	10W	Apr 2007
+Core 2 Duo U7600	Merom	2-Core	Intel Socket M	65 nm	1200 MHz	9.0x	0.975 V	64K / 2048K / 0K	10W	Apr 2007
+Core 2 Duo U7500	Merom	2-Core	Intel Socket M	65 nm	1073 MHz	8.0x	0.975 V	64K / 2048K / 0K	10W	Apr 2007
+Core 2 Duo T7600G	Merom	2-Core	Intel Socket M	65 nm	2333 MHz	14.0x	1.3 V	64K / 4096K / 0K	35W	Dec 2006
+Core Duo LV L2500	Yonah	2-Core	Intel Socket 479	65 nm	1833 MHz	11.0x	1.212 V	0K / 2048K / 0K	15W	Sep 2006
+Core Duo ULV L2400	Yonah	2-Core	Intel Socket 479	65 nm	1066 MHz	8.0x	unknown	0K / 2048K / 0K	9W	Sep 2006
+Core 2 Duo T7600	Merom	2-Core	Intel Socket 479	65 nm	2333 MHz	14.0x	1.3 V	64K / 4096K / 0K	35W	Jul 2006
+Core 2 Duo T7200	Merom	2-Core	Intel Socket 479	65 nm	2000 MHz	12.0x	1.3 V	64K / 4096K / 0K	35W	Jul 2006
+Core 2 Duo T7400	Merom	2-Core	Intel Socket 479	65 nm	2166 MHz	13.0x	1.3 V	64K / 4096K / 0K	35W	Jul 2006
+Core 2 Duo T5600	Merom	2-Core	Intel Socket 479	65 nm	1833 MHz	11.0x	1.3 V	64K / 2048K / 0K	35W	Jul 2006
+Core 2 Duo T5500	Merom	2-Core	Intel Socket M	65 nm	1667 MHz	10.0x	1.3 V	64K / 2048K / 0K	35W	Jul 2006
+Core 2 Duo T5200	Merom	2-Core	Intel Socket 479	65 nm	1600 MHz	12.0x	1.3 V	64K / 2048K / 0K	35W	Jul 2006
+Core 2 Duo T7300	Merom	2-Core	Intel Socket 479	65 nm	2000 MHz	12.0x	1.3 V	64K / 4096K / 0K	35W	Jul 2006
+Core Duo T2700	Yonah	2-Core	Intel Socket 479	65 nm	2333 MHz	14.0x	1.325 V	0K / 2048K / 0K	31W	Jun 2006
+Core Duo ULV L2500	Yonah	2-Core	Intel Socket 479	65 nm	1200 MHz	9.0x	unknown	0K / 2048K / 0K	9W	Jun 2006
+Core Duo T2250	Yonah	2-Core	Intel Socket 479	65 nm	1733 MHz	13.0x	1.31 V	0K / 2048K / 0K	31W	May 2006
+Core Solo ULV U1300	Yonah	1-Core	Intel Socket 479	65 nm	1066 MHz	8.0x	unknown	64K / 2048K / 0K	5W	Apr 2006
+Core Solo ULV U1400	Yonah	1-Core	Intel Socket 479	65 nm	1200 MHz	9.0x	unknown	64K / 2048K / 0K	5W	Apr 2006
+Core Solo T1300	Yonah	1-Core	Intel Socket 479	65 nm	1660 MHz	10.0x	1.325 V	64K / 2048K / 0K	27W	Jan 2006
+Core Duo T2300	Yonah	2-Core	Intel Socket 479	65 nm	1660 MHz	10.0x	1.325 V	0K / 2048K / 0K	31W	Jan 2006
+Core Duo T2400	Yonah	2-Core	Intel Socket 479	65 nm	1826 MHz	11.0x	1.325 V	0K / 2048K / 0K	31W	Jan 2006
+Core Duo T2600	Yonah	2-Core	Intel Socket 479	65 nm	2166 MHz	13.0x	1.325 V	0K / 2048K / 0K	31W	Jan 2006
+Core Duo T2500	Yonah	2-Core	Intel Socket 479	65 nm	1992 MHz	12.0x	1.325 V	0K / 2048K / 0K	31W	Jan 2006
+Core Solo T1200	Yonah	1-Core	Intel Socket 479	65 nm	1500 MHz	9.0x	1.325 V	64K / 2048K / 0K	27W	Jan 2006
+Core Solo T1350	Yonah	1-Core	Intel Socket 479	65 nm	1866 MHz	14.0x	1.325 V	64K / 2048K / 0K	27W	Jan 2006
+Core Solo T1400	Yonah	1-Core	Intel Socket 479	65 nm	1833 MHz	11.0x	1.325 V	64K / 2048K / 0K	27W	Jan 2006
+Core Duo LV L2300	Yonah	2-Core	Intel Socket 479	65 nm	1500 MHz	9.0x	1.212 V	0K / 2048K / 0K	15W	Jan 2006
+Core Duo LV L2400	Yonah	2-Core	Intel Socket 479	65 nm	1666 MHz	10.0x	1.212 V	0K / 2048K / 0K	15W	Jan 2006
+Pentium M 780	Dothan	1-Core	Intel Socket 479	90 nm	2260 MHz	17.0x	1.375 V	32K / 2048K / 0K	27W	Jul 2005
+Core Duo T2050	Yonah	2-Core	Intel Socket 479	65 nm	1600 MHz	12.0x	1.31 V	0K / 2048K / 0K	31W	May 2005
+Pentium M 770	Dothan	1-Core	Intel Socket 479	90 nm	2130 MHz	16.0x	1.375 V	32K / 2048K / 0K	27W	Jan 2005
+Pentium M 760	Dothan	1-Core	Intel Socket 479	90 nm	2000 MHz	15.0x	1.375 V	32K / 2048K / 0K	27W	Jan 2005
+Pentium M 750	Dothan	1-Core	Intel Socket 479	90 nm	1860 MHz	14.0x	1.375 V	32K / 2048K / 0K	27W	Jan 2005
+Pentium M 740	Dothan	1-Core	Intel Socket 479	90 nm	1730 MHz	13.0x	1.375 V	32K / 2048K / 0K	27W	Jan 2005
+Pentium M 730	Dothan	1-Core	Intel Socket 479	90 nm	1600 MHz	12.0x	1.375 V	32K / 2048K / 0K	27W	Jan 2005
+Mobile Pentium 4 HT 552	Prescott	1-Core	Intel Socket 478	90 nm	3467 MHz	26.0x	1.4 V	8K / 1024K / 0K	88W	Jan 2005
+Pentium M 765	Dothan	1-Core	Intel Socket 479	90 nm	2100 MHz	21.0x	1.34 V	32K / 2048K / 0K	21W	Oct 2004
+Mobile Pentium 4 HT 548	Prescott	1-Core	Intel Socket 478	90 nm	3334 MHz	25.0x	1.4 V	8K / 1024K / 0K	88W	Sep 2004
+Pentium M 725	Dothan	1-Core	Intel Socket 479	90 nm	1600 MHz	16.0x	1.34 V	32K / 2048K / 0K	21W	Jun 2004
+Pentium M 715	Dothan	1-Core	Intel Socket 479	90 nm	1500 MHz	15.0x	1.34 V	32K / 2048K / 0K	21W	Jun 2004
+Mobile Pentium 4 HT 538	Prescott	1-Core	Intel Socket 478	90 nm	3200 MHz	24.0x	1.4 V	8K / 1024K / 0K	88W	Jun 2004
+Mobile Pentium 4 HT 532	Prescott	1-Core	Intel Socket 478	90 nm	3067 MHz	23.0x	1.4 V	8K / 1024K / 0K	88W	Jun 2004
+Mobile Pentium 4 HT 518	Prescott	1-Core	Intel Socket 478	90 nm	2800 MHz	21.0x	1.4 V	8K / 1024K / 0K	88W	Jun 2004
+Pentium M 755	Dothan	1-Core	Intel Socket 479	90 nm	2000 MHz	20.0x	1.34 V	32K / 2048K / 0K	21W	May 2004
+Pentium M 745	Dothan	1-Core	Intel Socket 479	90 nm	1800 MHz	18.0x	1.34 V	32K / 2048K / 0K	21W	May 2004
+Pentium M 735	Dothan	1-Core	Intel Socket 479	90 nm	1700 MHz	17.0x	1.34 V	32K / 2048K / 0K	21W	May 2004
+Mobile Pentium 4 HT 2.66	Northwood	1-Core	Intel Socket 478	130 nm	2667 MHz	20.0x	1.55 V	8K / 512K / 0K	66W	Sep 2003
+Mobile Pentium 4 HT 2.80	Northwood	1-Core	Intel Socket 478	130 nm	2800 MHz	21.0x	1.55 V	8K / 512K / 0K	68W	Sep 2003
+Mobile Pentium 4 HT 3.06	Northwood	1-Core	Intel Socket 478	130 nm	3067 MHz	23.0x	1.55 V	8K / 512K / 0K	70W	Sep 2003
+Mobile Pentium 4 HT 3.20	Northwood	1-Core	Intel Socket 478	130 nm	3200 MHz	24.0x	1.55 V	8K / 512K / 0K	76W	Sep 2003
+Pentium 4-M 2.60	Northwood	1-Core	Intel Socket 478	130 nm	2600 MHz	26.0x	1.3 V	8K / 512K / 0K	35W	Jun 2003
+Mobile Pentium 4 2.66	Northwood	1-Core	Intel Socket 478	130 nm	2667 MHz	20.0x	1.55 V	8K / 512K / 0K	66W	Jun 2003
+Mobile Pentium 4 2.80	Northwood	1-Core	Intel Socket 478	130 nm	2800 MHz	21.0x	1.55 V	8K / 512K / 0K	68W	Jun 2003
+Mobile Pentium 4 3.06	Northwood	1-Core	Intel Socket 478	130 nm	3067 MHz	23.0x	1.55 V	8K / 512K / 0K	70W	Jun 2003
+Mobile Pentium 4 2.40	Northwood	1-Core	Intel Socket 478	130 nm	2400 MHz	18.0x	1.55 V	8K / 512K / 0K	60W	Jun 2003
+Pentium M 1.70	Banias	1-Core	Intel Socket 478	130 nm	1700 MHz	17.0x	1.485 V	16K / 1024K / 0K	24W	Jun 2003
+Pentium 4-M 2.50	Northwood	1-Core	Intel Socket 478	130 nm	2500 MHz	25.0x	1.3 V	8K / 512K / 0K	35W	Apr 2003
+Pentium M 1.60	Banias	1-Core	Intel Socket 478	130 nm	1600 MHz	16.0x	1.485 V	16K / 1024K / 0K	24W	Mar 2003
+Pentium M 1.50	Banias	1-Core	Intel Socket 478	130 nm	1500 MHz	15.0x	1.485 V	16K / 1024K / 0K	24W	Mar 2003
+Pentium M 1.40	Banias	1-Core	Intel Socket 478	130 nm	1400 MHz	14.0x	1.485 V	16K / 1024K / 0K	24W	Mar 2003
+Pentium M 1.30	Banias	1-Core	Intel Socket 478	130 nm	1300 MHz	13.0x	1.485 V	16K / 1024K / 0K	24W	Mar 2003
+Pentium 4-M 2.40	Northwood	1-Core	Intel Socket 478	130 nm	2400 MHz	24.0x	1.3 V	8K / 512K / 0K	35W	Jan 2003
+Pentium 4-M 2.20	Northwood	1-Core	Intel Socket 478	130 nm	2200 MHz	22.0x	1.3 V	8K / 512K / 0K	35W	Sep 2002
+Pentium 4-M 1.90	Northwood	1-Core	Intel Socket 478	130 nm	1900 MHz	19.0x	1.3 V	8K / 512K / 0K	32W	Jun 2002
+Pentium 4-M 2.00	Northwood	1-Core	Intel Socket 478	130 nm	2000 MHz	20.0x	1.3 V	8K / 512K / 0K	32W	Jun 2002
+Pentium 4-M 1.40	Northwood	1-Core	Intel Socket 478	130 nm	1400 MHz	14.0x	1.3 V	8K / 512K / 0K	21W	Apr 2002
+Pentium 4-M 1.50	Northwood	1-Core	Intel Socket 478	130 nm	1500 MHz	15.0x	1.3 V	8K / 512K / 0K	26W	Apr 2002
+Pentium 4-M 1.80	Northwood	1-Core	Intel Socket 478	130 nm	1800 MHz	18.0x	1.3 V	8K / 512K / 0K	30W	Apr 2002
+Pentium 4-M 1.70	Northwood	1-Core	Intel Socket 478	130 nm	1700 MHz	17.0x	1.3 V	8K / 512K / 0K	30W	Mar 2002
+Pentium 4-M 1.60	Northwood	1-Core	Intel Socket 478	130 nm	1600 MHz	16.0x	1.3 V	8K / 512K / 0K	30W	Mar 2002
+Intel Server/Workstation
+Name	Codename	Cores	Socket	Process	Clock	Multi	Voltage	Cache L1/L2/L3	TDP	Released
+Xeon E5-2630L v2	Ivy Bridge-EP	6-Core	Intel Socket 2011	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 15360K	60W	Sep 2013
+Xeon E5-2609 v2	Ivy Bridge-EP	4-Core	Intel Socket 2011	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 10240K	80W	Sep 2013
+Xeon E5-2643 v2	Ivy Bridge-EP	6-Core	Intel Socket 2011	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 15360K	130W	Sep 2013
+Xeon E5-2630 v2	Ivy Bridge-EP	6-Core	Intel Socket 2011	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 15360K	80W	Sep 2013
+Xeon E5-2620 v2	Ivy Bridge-EP	6-Core	Intel Socket 2011	22 nm	2100 MHz	21.0x	unknown	64K / 256K / 15360K	80W	Sep 2013
+Xeon E5-2637 v2	Ivy Bridge-EP	4-Core	Intel Socket 2011	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 10240K	130W	Sep 2013
+Xeon E5-2603 v2	Ivy Bridge-EP	4-Core	Intel Socket 2011	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 10240K	80W	Sep 2013
+Xeon E5-2640 v2	Ivy Bridge-EP	8-Core	Intel Socket 2011	22 nm	2000 MHz	20.0x	unknown	64K / 256K / 20480K	95W	Sep 2013
+Xeon E5-2650 v2	Ivy Bridge-EP	8-Core	Intel Socket 2011	22 nm	2600 MHz	26.0x	unknown	64K / 256K / 20480K	95W	Sep 2013
+Xeon E5-2667 v2	Ivy Bridge-EP	8-Core	Intel Socket 2011	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 20480K	130W	Sep 2013
+Xeon E5-2687W v2	Ivy Bridge-EP	8-Core	Intel Socket 2011	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 20480K	130W	Sep 2013
+Xeon E5-2660 v2	Ivy Bridge-EP	10-Core	Intel Socket 2011	22 nm	2200 MHz	32.0x	unknown	64K / 256K / 25600K	95W	Sep 2013
+Xeon E5-2670 v2	Ivy Bridge-EP	10-Core	Intel Socket 2011	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 25600K	115W	Sep 2013
+Xeon E5-2680 v2	Ivy Bridge-EP	10-Core	Intel Socket 2011	22 nm	2800 MHz	28.0x	unknown	64K / 256K / 25600K	115W	Sep 2013
+Xeon E5-2690 v2	Ivy Bridge-EP	10-Core	Intel Socket 2011	22 nm	3000 MHz	30.0x	unknown	64K / 256K / 25600K	130W	Sep 2013
+Xeon E5-2650L v2	Ivy Bridge-EP	10-Core	Intel Socket 2011	22 nm	1700 MHz	17.0x	unknown	64K / 256K / 25600K	70W	Sep 2013
+Xeon E5-2692 v2	Ivy Bridge-EP	12-Core	Intel Socket 2011	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 30720K	100W	Sep 2013
+Xeon E5-2695 v2	Ivy Bridge-EP	12-Core	Intel Socket 2011	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 30720K	115W	Sep 2013
+Xeon E5-2697 v2	Ivy Bridge-EP	12-Core	Intel Socket 2011	22 nm	2700 MHz	27.0x	unknown	64K / 256K / 30720K	130W	Sep 2013
+Xeon E5-1620 v2	Ivy Bridge-E	4-Core	Intel Socket 2011	22 nm	3700 MHz	37.0x	unknown	64K / 256K / 10240K	130W	Sep 2013
+Xeon E5-1650 v2	Ivy Bridge-E	6-Core	Intel Socket 2011	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 12288K	130W	Sep 2013
+Xeon E5-1660 v2	Ivy Bridge-E	6-Core	Intel Socket 2011	22 nm	3700 MHz	37.0x	unknown	64K / 256K / 15360K	130W	Sep 2013
+Xeon E5-2403 v2	Ivy Bridge-EN	4-Core	Intel Socket 1366	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 10240K	80W	Sep 2013
+Xeon E5-2407 v2	Ivy Bridge-EN	4-Core	Intel Socket 1366	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 10240K	80W	Sep 2013
+Xeon E5-2420 v2	Ivy Bridge-EN	6-Core	Intel Socket 1366	22 nm	2200 MHz	22.0x	unknown	64K / 256K / 15360K	80W	Sep 2013
+Xeon E5-2430 v2	Ivy Bridge-EN	6-Core	Intel Socket 1366	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 15360K	80W	Sep 2013
+Xeon E5-2440 v2	Ivy Bridge-EN	8-Core	Intel Socket 1366	22 nm	1900 MHz	19.0x	unknown	64K / 256K / 20480K	95W	Sep 2013
+Xeon E5-2450 v2	Ivy Bridge-EN	8-Core	Intel Socket 1366	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 20480K	95W	Sep 2013
+Xeon E5-2470 v2	Ivy Bridge-EN	10-Core	Intel Socket 1366	22 nm	2400 MHz	24.0x	unknown	64K / 256K / 25600K	95W	Sep 2013
+Xeon E3-1220 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	80W	Jun 2013
+Xeon E3-1230 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 8192K	80W	Jun 2013
+Xeon E3-1240 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	80W	Jun 2013
+Xeon E3-1270 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	80W	Jun 2013
+Xeon E3-1280 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3600 MHz	36.0x	unknown	64K / 256K / 8192K	82W	Jun 2013
+Xeon E3-1285 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3600 MHz	36.0x	unknown	64K / 256K / 8192K	84W	Jun 2013
+Xeon E3-1225 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 8192K	84W	Jun 2013
+Xeon E3-1245 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	84W	Jun 2013
+Xeon E3-1275 v3	Haswell	4-Core	Intel Socket 1150	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	84W	Jun 2013
+Xeon E3-1220L v3	Haswell	2-Core	Intel Socket 1150	22 nm	1600 MHz	16.0x	unknown	64K / 256K / 4096K	16W	Jun 2013
+Xeon E3-1230L v3	Haswell	4-Core	Intel Socket 1150	22 nm	1800 MHz	18.0x	unknown	64K / 256K / 8192K	25W	Jun 2013
+Xeon E3-1265L v3	Haswell	4-Core	Intel Socket 1150	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	45W	Jun 2013
+Xeon E3-1285L v3	Haswell	4-Core	Intel Socket 1150	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	65W	Jun 2013
+Atom S1260	Centerton	2-Core	Intel BGA1283	32 nm	2000 MHz	20.0x	unknown	56K / 512K / 0K	9W	Dec 2012
+Atom S1240	Centerton	2-Core	Intel BGA1283	32 nm	1600 MHz	16.0x	unknown	56K / 512K / 0K	6W	Dec 2012
+Atom S1220	Centerton	2-Core	Intel BGA1283	32 nm	1600 MHz	16.0x	unknown	56K / 512K / 0K	8W	Dec 2012
+Xeon E3-1290 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3700 MHz	37.0x	unknown	64K / 256K / 8192K	87W	May 2012
+Xeon E3-1280 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3600 MHz	36.0x	unknown	64K / 256K / 8192K	69W	May 2012
+Xeon E3-1270 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	69W	May 2012
+Xeon E3-1240 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	69W	May 2012
+Xeon E3-1230 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3300 MHz	33.0x	unknown	64K / 256K / 8192K	69W	May 2012
+Xeon E3-1220 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	69W	May 2012
+Xeon E3-1275 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	77W	May 2012
+Xeon E3-1265L v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	2500 MHz	25.0x	unknown	64K / 256K / 8192K	45W	May 2012
+Xeon E3-1245 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	77W	May 2012
+Xeon E3-1225 v2	Ivy Bridge	4-Core	Intel Socket 1155	22 nm	3200 MHz	32.0x	unknown	64K / 256K / 8192K	77W	May 2012
+Xeon E3-1220L v2	Ivy Bridge	2-Core	Intel Socket 1155	22 nm	2300 MHz	23.0x	unknown	64K / 256K / 8192K	17W	May 2012
+Xeon E5-4650	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2700 MHz	27.0x	1.35 V	64K / 256K / 20480K	130W	May 2012
+Xeon E5-4617	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2900 MHz	29.0x	1.35 V	64K / 256K / 15360K	130W	May 2012
+Xeon E5-4603	Sandy Bridge-EP	4-Core	Intel Socket 2011	32 nm	2000 MHz	20.0x	1.35 V	64K / 256K / 10240K	95W	May 2012
+Xeon E5-4610	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2400 MHz	24.0x	1.35 V	64K / 256K / 15360K	130W	May 2012
+Xeon E5-4607	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2200 MHz	22.0x	1.35 V	64K / 256K / 15360K	95W	May 2012
+Xeon E5-4620	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2700 MHz	27.0x	1.35 V	64K / 256K / 16384K	130W	May 2012
+Xeon E5-4640	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2400 MHz	24.0x	1.35 V	64K / 256K / 20480K	95W	May 2012
+Xeon E5-4650L	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2600 MHz	26.0x	1.35 V	64K / 256K / 20480K	115W	May 2012
+Xeon E5-1410	Sandy Bridge-EN	4-Core	Intel Socket 1366	32 nm	2800 MHz	28.0x	1.35 V	64K / 256K / 10240K	80W	May 2012
+Xeon E5-1428L	Sandy Bridge-EN	6-Core	Intel Socket 1366	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 15360K	60W	May 2012
+Xeon E5-2403	Sandy Bridge-EN	4-Core	Intel Socket 1366	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 10240K	80W	May 2012
+Xeon E5-2407	Sandy Bridge-EN	4-Core	Intel Socket 1366	32 nm	2200 MHz	22.0x	1.35 V	64K / 256K / 10240K	80W	May 2012
+Xeon E5-2418L	Sandy Bridge-EN	4-Core	Intel Socket 1366	32 nm	2000 MHz	20.0x	1.35 V	64K / 256K / 10240K	50W	May 2012
+Xeon E5-2420	Sandy Bridge-EN	6-Core	Intel Socket 1366	32 nm	1900 MHz	19.0x	1.35 V	64K / 256K / 15360K	95W	May 2012
+Xeon E5-2430	Sandy Bridge-EN	6-Core	Intel Socket 1366	32 nm	2200 MHz	22.0x	1.35 V	64K / 256K / 15360K	95W	May 2012
+Xeon E5-2440	Sandy Bridge-EN	6-Core	Intel Socket 1366	32 nm	2400 MHz	24.0x	1.35 V	64K / 256K / 15360K	95W	May 2012
+Xeon E5-2428L	Sandy Bridge-EN	6-Core	Intel Socket 1366	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 15360K	60W	May 2012
+Xeon E5-2430L	Sandy Bridge-EN	6-Core	Intel Socket 1366	32 nm	2000 MHz	20.0x	1.35 V	64K / 256K / 15360K	60W	May 2012
+Xeon E5-2450	Sandy Bridge-EN	8-Core	Intel Socket 1366	32 nm	2100 MHz	21.0x	1.35 V	64K / 256K / 20480K	95W	May 2012
+Xeon E5-2470	Sandy Bridge-EN	8-Core	Intel Socket 1366	32 nm	2300 MHz	23.0x	1.35 V	64K / 256K / 20480K	95W	May 2012
+Xeon E5-2448L	Sandy Bridge-EN	8-Core	Intel Socket 1366	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 20480K	70W	May 2012
+Xeon E5-2450L	Sandy Bridge-EN	8-Core	Intel Socket 1366	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 20480K	70W	May 2012
+Xeon E3-1105C	Gladden	4-Core	Intel BGA1283	32 nm	1000 MHz	10.0x	unknown	64K / 256K / 6144K	25W	May 2012
+Xeon E3-1125C	Gladden	4-Core	Intel BGA1283	32 nm	2000 MHz	20.0x	unknown	64K / 256K / 8192K	40W	May 2012
+Xeon E5-2603	Sandy Bridge-EP	4-Core	Intel Socket 2011	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 10240K	80W	Mar 2012
+Xeon E5-2609	Sandy Bridge-EP	4-Core	Intel Socket 2011	32 nm	2400 MHz	24.0x	1.35 V	64K / 256K / 10240K	80W	Mar 2012
+Xeon E5-2643	Sandy Bridge-EP	4-Core	Intel Socket 2011	32 nm	3300 MHz	33.0x	1.35 V	64K / 256K / 10240K	130W	Mar 2012
+Xeon E5-2637	Sandy Bridge-EP	2-Core	Intel Socket 2011	32 nm	3000 MHz	30.0x	1.35 V	64K / 256K / 5120K	80W	Mar 2012
+Xeon E5-2620	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2000 MHz	20.0x	1.35 V	64K / 256K / 15360K	95W	Mar 2012
+Xeon E5-2630	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2300 MHz	23.0x	1.35 V	64K / 256K / 15360K	95W	Mar 2012
+Xeon E5-2640	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2500 MHz	25.0x	1.35 V	64K / 256K / 15360K	95W	Mar 2012
+Xeon E5-2667	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2900 MHz	29.0x	1.35 V	64K / 256K / 15360K	130W	Mar 2012
+Xeon E5-2630L	Sandy Bridge-EP	6-Core	Intel Socket 2011	32 nm	2000 MHz	20.0x	1.35 V	64K / 256K / 15360K	60W	Mar 2012
+Xeon E5-2650	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2000 MHz	20.0x	1.35 V	64K / 256K / 20480K	95W	Mar 2012
+Xeon E5-2658	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2100 MHz	21.0x	1.35 V	64K / 256K / 20480K	95W	Mar 2012
+Xeon E5-2660	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2200 MHz	22.0x	1.35 V	64K / 256K / 20480K	95W	Mar 2012
+Xeon E5-2665	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2400 MHz	24.0x	1.35 V	64K / 256K / 20480K	115W	Mar 2012
+Xeon E5-2670	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2600 MHz	26.0x	1.35 V	64K / 256K / 20480K	115W	Mar 2012
+Xeon E5-2680	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2700 MHz	27.0x	1.35 V	64K / 256K / 20480K	130W	Mar 2012
+Xeon E5-2690	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	2900 MHz	29.0x	1.35 V	64K / 256K / 20480K	135W	Mar 2012
+Xeon E5-2687W	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	3100 MHz	31.0x	1.35 V	64K / 256K / 20480K	150W	Mar 2012
+Xeon E5-2650L	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 20480K	70W	Mar 2012
+Xeon E5-1620	Sandy Bridge-E	4-Core	Intel Socket 2011	32 nm	3600 MHz	36.0x	1.35 V	64K / 256K / 10240K	130W	Mar 2012
+Xeon E5-1650	Sandy Bridge-E	6-Core	Intel Socket 2011	32 nm	3200 MHz	32.0x	1.35 V	64K / 256K / 12288K	130W	Mar 2012
+Xeon E5-1660	Sandy Bridge-E	6-Core	Intel Socket 2011	32 nm	3300 MHz	33.0x	1.35 V	64K / 256K / 15360K	130W	Mar 2012
+Xeon E5-2648L	Sandy Bridge-EP	8-Core	Intel Socket 2011	32 nm	1800 MHz	18.0x	1.35 V	64K / 256K / 20480K	70W	Mar 2012
+Pentium 350	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	1200 MHz	12.0x	unknown	64K / 256K / 3072K	15W	Nov 2011
+Xeon E3-1290	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3600 MHz	36.0x	unknown	64K / 256K / 8192K	95W	May 2011
+Xeon E3-1220L	Sandy Bridge	2-Core	Intel Socket 1155	32 nm	2200 MHz	22.0x	unknown	64K / 256K / 3072K	20W	Apr 2011
+Xeon E3-1220	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 8192K	80W	Apr 2011
+Xeon E3-1225	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3100 MHz	31.0x	unknown	64K / 256K / 6144K	95W	Apr 2011
+Xeon E3-1230	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3200 MHz	32.0x	unknown	64K / 256K / 8192K	80W	Apr 2011
+Xeon E3-1235	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3200 MHz	32.0x	unknown	64K / 256K / 8192K	95W	Apr 2011
+Xeon E3-1240	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3300 MHz	33.0x	unknown	64K / 256K / 8192K	80W	Apr 2011
+Xeon E3-1245	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3300 MHz	33.0x	unknown	64K / 256K / 8192K	95W	Apr 2011
+Xeon E3-1270	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	80W	Apr 2011
+Xeon E3-1275	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3400 MHz	34.0x	unknown	64K / 256K / 8192K	95W	Apr 2011
+Xeon E3-1280	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	3500 MHz	35.0x	unknown	64K / 256K / 8192K	95W	Apr 2011
+Xeon E3-1260L	Sandy Bridge	4-Core	Intel Socket 1155	32 nm	2400 MHz	24.0x	unknown	64K / 256K / 8192K	45W	Apr 2011
+Xeon E7-8870	Westmere-EX	10-Core	Intel Socket 1567	32 nm	2400 MHz	18.0x	1.35 V	64K / 256K / 30720K	130W	Apr 2011
+Xeon E7-8860	Westmere-EX	10-Core	Intel Socket 1567	32 nm	2276 MHz	17.0x	1.35 V	64K / 256K / 30720K	130W	Apr 2011
+Xeon E7-8850	Westmere-EX	10-Core	Intel Socket 1567	32 nm	2000 MHz	15.0x	1.35 V	64K / 256K / 30720K	130W	Apr 2011
+Xeon W3690	Gulftown	6-Core	Intel Socket 1366	32 nm	3466 MHz	26.0x	1.375 V	64K / 256K / 12288K	130W	Feb 2011
+Xeon E5603	Westmere-EP	4-Core	Intel Socket 1366	32 nm	1600 MHz	12.0x	1.35 V	64K / 256K / 4096K	80W	Feb 2011
+Xeon E5606	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2133 MHz	16.0x	1.35 V	64K / 256K / 8192K	80W	Feb 2011
+Xeon E5607	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2266 MHz	17.0x	1.35 V	64K / 256K / 8192K	80W	Feb 2011
+Xeon X5647	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2933 MHz	22.0x	1.35 V	64K / 256K / 12288K	130W	Feb 2011
+Xeon X5672	Westmere-EP	4-Core	Intel Socket 1366	32 nm	3200 MHz	24.0x	1.35 V	64K / 256K / 12288K	95W	Feb 2011
+Xeon X5687	Westmere-EP	4-Core	Intel Socket 1366	32 nm	3600 MHz	27.0x	1.35 V	64K / 256K / 12288K	130W	Feb 2011
+Xeon E5649	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2533 MHz	19.0x	1.35 V	64K / 256K / 12288K	80W	Feb 2011
+Xeon X5675	Westmere-EP	6-Core	Intel Socket 1366	32 nm	3066 MHz	23.0x	1.35 V	64K / 256K / 12288K	95W	Feb 2011
+Xeon X5690	Westmere-EP	6-Core	Intel Socket 1366	32 nm	3466 MHz	26.0x	1.35 V	64K / 256K / 12288K	130W	Feb 2011
+Xeon X5698	Westmere-EP	2-Core	Intel Socket 1366	32 nm	4400 MHz	33.0x	unknown	64K / 256K / 12288K	130W	Feb 2011
+Xeon W3670	Gulftown	6-Core	Intel Socket 1366	32 nm	3200 MHz	24.0x	1.375 V	64K / 256K / 12288K	130W	Aug 2010
+Xeon W3530	Bloomfield	4-Core	Intel Socket 1366	45 nm	2800 MHz	21.0x	1.375 V	64K / 256K / 8192K	130W	Mar 2010
+Xeon E5503	Gainestown	2-Core	Intel Socket 1366	45 nm	2000 MHz	15.0x	1.35 V	64K / 256K / 4096K	80W	Mar 2010
+Xeon E5507	Gainestown	4-Core	Intel Socket 1366	45 nm	2266 MHz	17.0x	1.35 V	64K / 256K / 4096K	80W	Mar 2010
+Xeon W3680	Gulftown	6-Core	Intel Socket 1366	32 nm	3333 MHz	25.0x	1.375 V	64K / 256K / 12288K	130W	Mar 2010
+Xeon E5620	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2400 MHz	18.0x	1.35 V	64K / 256K / 12288K	80W	Mar 2010
+Xeon E5630	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2533 MHz	19.0x	1.35 V	64K / 256K / 12288K	80W	Mar 2010
+Xeon E5640	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2666 MHz	20.0x	1.35 V	64K / 256K / 12288K	80W	Mar 2010
+Xeon X5667	Westmere-EP	4-Core	Intel Socket 1366	32 nm	3066 MHz	23.0x	1.35 V	64K / 256K / 12288K	95W	Mar 2010
+Xeon X5677	Westmere-EP	4-Core	Intel Socket 1366	32 nm	3466 MHz	26.0x	1.35 V	64K / 256K / 12288K	130W	Mar 2010
+Xeon L5609	Westmere-EP	4-Core	Intel Socket 1366	32 nm	1866 MHz	14.0x	1.35 V	64K / 256K / 12288K	40W	Mar 2010
+Xeon L5618	Westmere-EP	4-Core	Intel Socket 1366	32 nm	1866 MHz	14.0x	1.35 V	64K / 256K / 12288K	40W	Mar 2010
+Xeon L5630	Westmere-EP	4-Core	Intel Socket 1366	32 nm	2133 MHz	16.0x	1.35 V	64K / 256K / 12288K	40W	Mar 2010
+Xeon E5645	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2400 MHz	18.0x	1.35 V	64K / 256K / 12288K	80W	Mar 2010
+Xeon X5650	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2666 MHz	20.0x	1.35 V	64K / 256K / 12288K	95W	Mar 2010
+Xeon X5660	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2800 MHz	21.0x	1.35 V	64K / 256K / 12288K	95W	Mar 2010
+Xeon X5670	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2933 MHz	22.0x	1.35 V	64K / 256K / 12288K	95W	Mar 2010
+Xeon L5638	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2000 MHz	15.0x	1.35 V	64K / 256K / 12288K	60W	Mar 2010
+Xeon L5640	Westmere-EP	6-Core	Intel Socket 1366	32 nm	2266 MHz	17.0x	1.35 V	64K / 256K / 12288K	60W	Mar 2010
+Xeon X5680	Westmere-EP	6-Core	Intel Socket 1366	32 nm	3333 MHz	25.0x	1.35 V	64K / 256K / 12288K	130W	Feb 2010
+Celeron P1053	Jasper Forest	1-Core	Intel Socket 1366	45 nm	1333 MHz	10.0x	1.5 V	64K / 256K / 2048K	30W	Feb 2010
+Xeon W3565	Bloomfield	4-Core	Intel Socket 1366	45 nm	3200 MHz	24.0x	1.375 V	64K / 256K / 8192K	130W	Nov 2009
+Xeon W3550	Bloomfield	4-Core	Intel Socket 1366	45 nm	3066 MHz	23.0x	1.375 V	64K / 256K / 8192K	130W	Aug 2009
+Xeon W3580	Bloomfield	4-Core	Intel Socket 1366	45 nm	3333 MHz	25.0x	1.375 V	64K / 256K / 8192K	130W	Aug 2009
+Xeon W5590	Gainestown	4-Core	Intel Socket 1366	45 nm	3333 MHz	25.0x	1.35 V	64K / 256K / 8192K	130W	Aug 2009
+Xeon L5530	Gainestown	4-Core	Intel Socket 1366	45 nm	2400 MHz	18.0x	1.35 V	64K / 256K / 8192K	60W	Aug 2009
+Xeon W3520	Bloomfield	4-Core	Intel Socket 1366	45 nm	2666 MHz	20.0x	1.375 V	64K / 256K / 8192K	130W	Mar 2009
+Xeon W3540	Bloomfield	4-Core	Intel Socket 1366	45 nm	2933 MHz	22.0x	1.375 V	64K / 256K / 8192K	130W	Mar 2009
+Xeon W3570	Bloomfield	4-Core	Intel Socket 1366	45 nm	3200 MHz	24.0x	1.375 V	64K / 256K / 8192K	130W	Mar 2009
+Xeon W3503	Bloomfield	2-Core	Intel Socket 1366	45 nm	2400 MHz	18.0x	1.225 V	64K / 256K / 4096K	130W	Mar 2009
+Xeon W3505	Bloomfield	2-Core	Intel Socket 1366	45 nm	2533 MHz	19.0x	1.225 V	64K / 256K / 4096K	130W	Mar 2009
+Xeon E5502	Gainestown	2-Core	Intel Socket 1366	45 nm	1866 MHz	14.0x	1.35 V	64K / 256K / 4096K	80W	Mar 2009
+Xeon E5504	Gainestown	4-Core	Intel Socket 1366	45 nm	2000 MHz	15.0x	1.35 V	64K / 256K / 4096K	80W	Mar 2009
+Xeon E5506	Gainestown	4-Core	Intel Socket 1366	45 nm	2133 MHz	16.0x	1.35 V	64K / 256K / 4096K	80W	Mar 2009
+Xeon L5506	Gainestown	4-Core	Intel Socket 1366	45 nm	2133 MHz	16.0x	1.35 V	64K / 256K / 4096K	60W	Mar 2009
+Xeon L5508	Gainestown	2-Core	Intel Socket 1366	45 nm	2000 MHz	15.0x	1.35 V	64K / 256K / 8192K	38W	Mar 2009
+Xeon E5520	Gainestown	4-Core	Intel Socket 1366	45 nm	2266 MHz	17.0x	1.35 V	64K / 256K / 8192K	80W	Mar 2009
+Xeon E5530	Gainestown	4-Core	Intel Socket 1366	45 nm	2400 MHz	18.0x	1.35 V	64K / 256K / 8192K	80W	Mar 2009
+Xeon E5540	Gainestown	4-Core	Intel Socket 1366	45 nm	2533 MHz	19.0x	1.35 V	64K / 256K / 8192K	80W	Mar 2009
+Xeon X5550	Gainestown	4-Core	Intel Socket 1366	45 nm	2666 MHz	20.0x	1.35 V	64K / 256K / 8192K	95W	Mar 2009
+Xeon X5560	Gainestown	4-Core	Intel Socket 1366	45 nm	2800 MHz	21.0x	1.35 V	64K / 256K / 8192K	95W	Mar 2009
+Xeon X5570	Gainestown	4-Core	Intel Socket 1366	45 nm	2933 MHz	22.0x	1.35 V	64K / 256K / 8192K	95W	Mar 2009
+Xeon W5580	Gainestown	4-Core	Intel Socket 1366	45 nm	3200 MHz	24.0x	1.35 V	64K / 256K / 8192K	130W	Mar 2009
+Xeon L5518	Gainestown	4-Core	Intel Socket 1366	45 nm	2133 MHz	16.0x	1.35 V	64K / 256K / 8192K	60W	Mar 2009
+Xeon L5520	Gainestown	4-Core	Intel Socket 1366	45 nm	2266 MHz	17.0x	1.35 V	64K / 256K / 8192K	60W	Mar 2009
+Xeon 7110M	Tulsa	2-Core	Intel Socket 771	65 nm	2600 MHz	13.0x	1.35 V	0K / 1024K / 4096K	95W	Aug 2006
+Xeon 7110N	Tulsa	2-Core	Intel Socket 771	65 nm	2500 MHz	15.0x	1.35 V	0K / 1024K / 4096K	95W	Aug 2006
+Xeon 7120M	Tulsa	2-Core	Intel Socket 771	65 nm	3000 MHz	15.0x	1.35 V	0K / 1024K / 4096K	95W	Aug 2006
+Xeon 7120N	Tulsa	2-Core	Intel Socket 771	65 nm	3000 MHz	18.0x	1.35 V	0K / 1024K / 4096K	95W	Aug 2006
+Xeon 7130M	Tulsa	2-Core	Intel Socket 771	65 nm	3200 MHz	16.0x	1.35 V	0K / 1024K / 8192K	150W	Aug 2006
+Xeon 7130N	Tulsa	2-Core	Intel Socket 771	65 nm	3166 MHz	19.0x	1.35 V	0K / 1024K / 8192K	150W	Aug 2006
+Xeon 7140M	Tulsa	2-Core	Intel Socket 771	65 nm	3400 MHz	17.0x	1.35 V	0K / 1024K / 16384K	150W	Aug 2006
+Xeon 7140N	Tulsa	2-Core	Intel Socket 771	65 nm	3333 MHz	20.0x	1.35 V	0K / 1024K / 16384K	150W	Aug 2006
+Xeon 5110	Woodcrest	2-Core	Intel Socket 771	65 nm	1600 MHz	6.0x	unknown	0K / 4096K / 0K	65W	Jun 2006
+Xeon 5120	Woodcrest	2-Core	Intel Socket 771	65 nm	1866 MHz	7.0x	unknown	0K / 4096K / 0K	65W	Jun 2006
+Xeon 5130	Woodcrest	2-Core	Intel Socket 771	65 nm	2000 MHz	6.0x	unknown	0K / 4096K / 0K	65W	Jun 2006
+Xeon 5140	Woodcrest	2-Core	Intel Socket 771	65 nm	2333 MHz	7.0x	unknown	0K / 4096K / 0K	65W	Jun 2006
+Xeon 5150	Woodcrest	2-Core	Intel Socket 771	65 nm	2666 MHz	8.0x	unknown	0K / 4096K / 0K	65W	Jun 2006
+Xeon 5160	Woodcrest	2-Core	Intel Socket 771	65 nm	3000 MHz	9.0x	unknown	0K / 4096K / 0K	80W	Jun 2006
+Xeon 5148	Woodcrest	2-Core	Intel Socket 771	65 nm	2333 MHz	7.0x	unknown	0K / 4096K / 0K	40W	Jun 2006
+Xeon 5080	Dempsey	2-Core	Intel Socket 771	65 nm	3730 MHz	14.0x	1.4 V	0K / 2048K / 0K	130W	May 2006
+Xeon 5060	Dempsey	2-Core	Intel Socket 771	65 nm	3200 MHz	12.0x	1.4 V	0K / 2048K / 0K	130W	May 2006
+Xeon 5050	Dempsey	2-Core	Intel Socket 771	65 nm	3000 MHz	18.0x	1.4 V	0K / 2048K / 0K	95W	May 2006
+Xeon 5030	Dempsey	2-Core	Intel Socket 771	65 nm	2667 MHz	16.0x	1.4 V	0K / 2048K / 0K	95W	May 2006
+Xeon 5040	Dempsey	2-Core	Intel Socket 771	65 nm	2830 MHz	17.0x	1.4 V	0K / 2048K / 0K	95W	May 2006
+Xeon 5063	Dempsey	2-Core	Intel Socket 771	65 nm	3200 MHz	12.0x	1.35 V	0K / 2048K / 0K	95W	May 2006
+Xeon MP 7041 Dual-Core	Paxville	2-Core	Intel Socket 604	90 nm	3000 MHz	15.0x	1.412 V	16K / 1024K / 0K	135W	Dec 2005
+Xeon MP 7030 Dual-Core	Paxville	2-Core	Intel Socket 604	90 nm	2800 MHz	14.0x	1.412 V	16K / 1024K / 0K	135W	Dec 2005
+Xeon MP 7040 Dual-Core	Paxville	2-Core	Intel Socket 604	90 nm	3000 MHz	18.0x	1.412 V	16K / 1024K / 0K	135W	Dec 2005
+Xeon MP 7030 Dual-Core	Paxville	2-Core	Intel Socket 604	90 nm	2833 MHz	17.0x	1.412 V	16K / 1024K / 0K	135W	Dec 2005
+Xeon MP 7020 Dual-Core	Paxville	2-Core	Intel Socket 604	90 nm	2667 MHz	16.0x	1.412 V	16K / 1024K / 0K	135W	Dec 2005
+Xeon 2.8	Paxville	2-Core	Intel Socket 604	90 nm	2800 MHz	14.0x	1.412 V	16K / 1024K / 0K	135W	Oct 2005
+Xeon MP 3.33	Potomac	1-Core	Intel Socket 604	90 nm	3333 MHz	20.0x	1.412 V	16K / 1024K / 4096K	135W	Mar 2005
+Xeon MP 3.16	Potomac	1-Core	Intel Socket 604	90 nm	3167 MHz	19.0x	1.412 V	16K / 1024K / 8192K	135W	Mar 2005
+Xeon MP 3.33	Potomac	1-Core	Intel Socket 604	90 nm	3333 MHz	20.0x	1.412 V	16K / 1024K / 8192K	135W	Mar 2005
+Xeon MP 3.16	Potomac	1-Core	Intel Socket 604	90 nm	3167 MHz	19.0x	1.412 V	16K / 1024K / 4096K	135W	Mar 2005
+Xeon MP 3.00	Potomac	1-Core	Intel Socket 604	90 nm	3000 MHz	18.0x	1.412 V	16K / 1024K / 8192K	135W	Mar 2005
+Xeon MP 3.00	Potomac	1-Core	Intel Socket 604	90 nm	3000 MHz	18.0x	1.412 V	16K / 1024K / 4096K	135W	Mar 2005
+Xeon MP 2.83	Potomac	1-Core	Intel Socket 604	90 nm	2833 MHz	17.0x	1.412 V	16K / 1024K / 8192K	135W	Mar 2005
+Xeon MP 2.83	Potomac	1-Core	Intel Socket 604	90 nm	2833 MHz	17.0x	1.412 V	16K / 1024K / 4096K	135W	Mar 2005
+Xeon MP 3.66	Cranford	1-Core	Intel Socket 604	90 nm	3667 MHz	22.0x	1.412 V	16K / 1024K / 0K	135W	Mar 2005
+Xeon MP 3.50	Cranford	1-Core	Intel Socket 604	90 nm	3500 MHz	21.0x	1.412 V	16K / 1024K / 0K	135W	Mar 2005
+Xeon MP 3.33	Cranford	1-Core	Intel Socket 604	90 nm	3334 MHz	20.0x	1.412 V	16K / 1024K / 0K	135W	Mar 2005
+Xeon MP 3.16	Cranford	1-Core	Intel Socket 604	90 nm	3167 MHz	19.0x	1.412 V	16K / 1024K / 0K	135W	Mar 2005
+Xeon 3.6	Irwindale	1-Core	Intel Socket 604	90 nm	3600 MHz	18.0x	1.412 V	16K / 2048K / 0K	135W	Feb 2005
+Xeon 3.4	Irwindale	1-Core	Intel Socket 604	90 nm	3400 MHz	17.0x	1.412 V	16K / 2048K / 0K	135W	Feb 2005
+Xeon 3.2	Irwindale	1-Core	Intel Socket 604	90 nm	3200 MHz	16.0x	1.412 V	16K / 2048K / 0K	135W	Feb 2005
+Xeon 3.0	Irwindale	1-Core	Intel Socket 604	90 nm	3000 MHz	15.0x	1.412 V	16K / 2048K / 0K	135W	Feb 2005
+Xeon 3.6	Nocona	1-Core	Intel Socket 604	90 nm	3600 MHz	18.0x	1.4 V	16K / 1024K / 0K	135W	Jun 2004
+Xeon 3.4	Nocona	1-Core	Intel Socket 604	90 nm	3400 MHz	17.0x	1.4 V	16K / 1024K / 0K	135W	Jun 2004
+Xeon 3.2	Nocona	1-Core	Intel Socket 604	90 nm	3200 MHz	16.0x	1.4 V	16K / 1024K / 0K	135W	Jun 2004
+Xeon 3.0	Nocona	1-Core	Intel Socket 604	90 nm	3000 MHz	15.0x	1.4 V	16K / 1024K / 0K	135W	Jun 2004
+Xeon 2.8	Nocona	1-Core	Intel Socket 604	90 nm	2800 MHz	14.0x	1.4 V	16K / 1024K / 0K	135W	Jun 2004
+Xeon 3.20	Gallatin	1-Core	Intel Socket 604	130 nm	3200 MHz	24.0x	1.475 V	8K / 512K / 2048K	97W	Feb 2004
+Xeon 3.20	Gallatin	1-Core	Intel Socket 604	130 nm	3200 MHz	24.0x	1.475 V	8K / 512K / 1024K	97W	Oct 2003
+Xeon 3.06	Gallatin	1-Core	Intel Socket 604	130 nm	3066 MHz	23.0x	1.475 V	8K / 512K / 2048K	97W	Jul 2003
+Xeon 3.06	Gallatin	1-Core	Intel Socket 604	130 nm	3066 MHz	23.0x	1.475 V	8K / 512K / 1024K	97W	Jul 2003
+Xeon 3.06	Prestonia	1-Core	Intel Socket 604	130 nm	3066 MHz	23.0x	1.525 V	16K / 512K / 0K	89W	Mar 2003
+Xeon 2.66	Prestonia	1-Core	Intel Socket 604	130 nm	2660 MHz	20.0x	1.525 V	16K / 512K / 0K	89W	Nov 2002
+Xeon 2.8	Prestonia	1-Core	Intel Socket 604	130 nm	2790 MHz	21.0x	1.525 V	16K / 512K / 0K	89W	Sep 2002
+Xeon 2.4	Prestonia	1-Core	Intel Socket 604	130 nm	2394 MHz	18.0x	1.525 V	16K / 512K / 0K	89W	Apr 2002
+Xeon 2.0	Prestonia	1-Core	Intel Socket 604	130 nm	2000 MHz	15.0x	1.525 V	16K / 512K / 0K	89W	Feb 2002

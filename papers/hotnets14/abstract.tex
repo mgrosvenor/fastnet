@@ -1,0 +1,23 @@
+\begin{abstract}
+
+%Making a conscious effort to remove "britishisms" from the text -- thus, hence, whilst, while, yet, whereas, etc. 
+%Also trying to slim down on adjectives. One mans's "very" is another man's "some". 
+%To make diff/merge easier. I am now putting 1 "statement" (sentence) per line. 
+%Trying to apply the KISS principle, especially to the language used, to help out our American reviewers. 
+
+
+% What is the problem?
+Network protocol implementations are stuck in the 1980s. Bits and bytes are squeezed next to each other to maximise efficiency for slow link speeds and fast CPUs. However, CPU speeds have plateaued for several years and network speeds have increased rapidly. 
+%40Gb/s NICs are now commodity and 100Gb/s devices are entering the market. 
+% Why does it matter?
+Single CPU cores can no longer hope to keep up with doing per-packet network encoding and decoding. 
+%, especially when bits and bytes are in such plentiful supply on the wire.
+
+% What is our solution?
+%In opposition to Van Jacobson's classic RFC 1144 ``\emph{Compressing TCP/IP Headers for Low-Speed Serial Links}'', we propose 
+We investigate several options for expanding, aligning, and sizing TCP/IP\ms{We don't really do TCP...} and Ethernet packets to maximise efficiency for our (now) slow, 64-bit, little-endian, CPUs.  
+% Why is it good?
+In these first steps toward a practical, high speed network stack, we show that combining Direct Cache Access (DCA)\ms{Do we have any numbers on this?} with real zero-copy delivery and restructured 64-bit alignment of packet fields are crucial to packet processing beyond 40Gb/s. Further, we demonstrate a simple user-space network stack capable of handling over 100Gb/s of traffic on a single core and maintaining up to 100Gb/s per core over multiple cores.
+
+
+\end{abstract}
